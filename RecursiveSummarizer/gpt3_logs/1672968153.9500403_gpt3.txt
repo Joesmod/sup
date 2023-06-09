@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+million, which is a very exciting efforts and since then, we have been working very very hard with our departments to outline how we are going to equitably allocate that money to our communities, so that we can leverage green jobs and new opportunities for people.  We have also been working on the Chicago way strategy in coordination with the Department of Streets and Sanitation that identifies materials beyond just your traditional blue cart black card system to think about ways that we can divert other materials from the way stream.  In fact, we have just opened up in coordination with DSS a citywide compost network at our community gardens.  So we have five community gardens online across the city that are now accepting compost, and we have additional funds that are going to expand our compost pickup here in the city of Chicago.  And I just want to mention, I know that I have worked with many of you on this project, our roots Chicago, which is our new tree strategy.  We are planting in coordination.  This is a multi, you know, department and team effort.  We are working in coordination right now, and we end with CDPH to identify using health and and economic variables identifying where within the city we need to plant trees, the most, and we have a commitment to plan 75,000 trees over the next five years.  And in fact, we are very close if not there, we have planted 15,000 trees, primarily in priority communities in this year alone.  And so that's the type of work that we have been doing in the office currently in two years with five people.  We are going to continue to expand our capacity, and to continue to build toward a more permanent structure.  We know that all of those things still need our time and our energy.  And in addition to that we're going to continue working with departments like AIS, who have, you know, we just worked with them on a brand new renewable energy contract we will be delivering 100% renewable energy to the city for our municipal load
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The City of Chicago has been working hard to allocate its $1 million green jobs fund equitably, and has also been working on a strategy to divert materials from the waste stream. Additionally, the city has committed to planting 75,000 trees over the next five years.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+And we have a case without any of that in it. And what should I do with that? MR. FLETCHER: So I think you should take the case as it comes to you. And as it comes to you, it's Ms. Smith saying, I want to post a sign saying, I will not provide any websites for any same-sex marriages. That's Pet. App. 7A. JUSTICE KAGAN: Categorical rule. MR. FLETCHER: Categorical rule based on status. And at page 303 to 304 in the -- of the Joint Appendix, which General Olson referred to, that's the relief that she's seeking, how Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 136 Official - Subject to Final Review  she's framed her claim. What she wants is an injunction that says you can't make -- JUSTICE KAGAN: Justice Gorsuch says we don't want to do things based on relief  because courts are in control of relief, so take  out that part of your -- I mean, whether he  might be right, he might not be right, but would  it matter if we took that out?  MR. FLETCHER: I don't -- I don't think it would because what I heard Ms. Waggoner to say this morning when she was asked about what her client wants to do is that the services she provide are not limited to the ones that are described in the stipulations. She would provide something that wasn't so customized as long as it was to an opposite-sex couple, but she wouldn't provide it to a same-sex couple. That is what she is asking the courts to validate. And I think the Court can take that claim as she presents it and say on that level of generality she is not entitled to pre-enforcement relief. But I think it can also do to -- because I recognize there are harder questions Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 137 Official - Subject to Final Review out there. It could and should do what it did  in Holder versus Humanitarian Law Project and Doe versus Reed and say, in rejecting this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss a case in which a woman is refusing to provide websites for same-sex marriages. The woman is seeking an injunction that would allow her to continue this practice. However, the conversation participants discuss whether or not this type of relief is appropriate.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+20th ward, the 22nd ward, the 25th, the 35th, the 36th, the 40th, the 47th ward, and the 49th ward.  This is something that affects all Chicagoans.  All of us use the sidewalk today to get here and people should have access anywhere they go throughout the city equitably.  Thank you so much.  Thank you very much for your comments.  The next speaker is Courtney Cobbs.  Hello, my name is Courtney Cobbs.  I live in the 49th ward.  I am here on behalf of Better Street Chicago.  I'm one of the co-founders.  And one of our goals is to reduce car dependency in the city.  And one of the ways that we can do that is to ensure that our sidewalks are accessible for everyone in the winter.  When we began this campaign, we received hundreds of emails from people.  And some of the emails that really stuck with me were from parents who wrote in, there was one woman who said she was going on a walk with her children.  One of the children was able to walk with her.  And the other child was in the stroller.  And the stroller tipped over in the snow.  So you have this young infant child that has fallen out of a stroller because someone didn't shovel their sidewalk.  And I'm not upset at the person who didn't shovel the sidewalk.  I don't know why they didn't do it.  Maybe they had a disability.  They couldn't afford to pay someone.  They were out of town.  Who knows? But I do know if I wanted to do something on the sidewalk outside of my building, I would have to go to the city and get a permit to do something.  But when there's snow and ice, it's up to the individual property owner to take care of it.  But any other time it's the city's property, you got to get a permit to do it.  I also want to bring up the fact that city council approved $12.5 million for the Chicago MOOST program.  The majority of that money went to oil and gas companies to line their pocketbook for profits.  What did we gain as a city giving people gas cards compared to giving people 100% access to the city through
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The next speaker is Courtney Cobbs. Cobbs is a co-founder of Better Street Chicago, which aims to reduce car dependency in the city. One way to do this is to ensure that sidewalks are accessible for everyone in the winter. When the campaign began, they received emails from parents whose children had fallen due to someone not shoveling their sidewalk. City council approved $12.5 million for the Chicago MOOST program, but most of that went to oil and gas companies.

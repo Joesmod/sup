@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+for is a status-based exemption to  accommodate.  MR. FLETCHER: That's exactly right. JUSTICE GORSUCH: Well, on that -- CHIEF JUSTICE ROBERTS: I thought -- JUSTICE SOTOMAYOR: Not a speech-based exemption. CHIEF JUSTICE ROBERTS: Just I thought at pages 188A and 189A, the stipulation below said that the additions to the web page stated, and then it lists the firm belief in God that they, Ms. Smith, subscribed to. Is that -- do you understand that to be part of the stipulations or not? MR. FLETCHER: I do, Mr. Chief Justice, but that's referring to her website, her business's own website, not the websites that she would create for clients and not the websites that would be subject to the public Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 119 Official - Subject to Final Review  accommodations law.  JUSTICE GORSUCH: We also -- CHIEF JUSTICE ROBERTS: And -- I'm  sorry, go ahead.  JUSTICE GORSUCH: No, no. Please,  Chief.  CHIEF JUSTICE ROBERTS: I was just  going to say also on page 188A is the determined -- the stipulation that her religious beliefs will be unmistakable to the public after viewing the addition to the web page. MR. FLETCHER: Yes. Once again, that's describing her website, not the websites that she would create for clients or the Colorado law might her -- might require her to provide on a nondiscriminatory basis. JUSTICE GORSUCH: And, counsel, we also have stipulations from Colorado that the plaintiff is willing to work with all people, regardless of classifications such as race, creed, sexual orientation, and gender, right? MR. FLETCHER: In some respects, yes, but not -- JUSTICE GORSUCH: No, that is the stip -- I -- I -- I just read it. Do you disagree Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 120 Official - Subject to Final Review with that? It's a stipulated fact in this case.  MR. FLETCHER: That is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Chief Justice Roberts and Mr. Fletcher regarding the accommodations law in Colorado. Mr. Fletcher is arguing that the law should exempt Ms. Smith, who has a status-based exemption, because her religious beliefs would be unmistakable to the public after viewing her website. Chief Justice Roberts is questioning whether or not the stipulations regarding Ms. Smith's willingness to work with all people regardless of classification should be taken into account.

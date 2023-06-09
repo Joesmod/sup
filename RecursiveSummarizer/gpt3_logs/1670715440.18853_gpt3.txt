@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Chairman thank you chairman Austin alderman dale yes Mr.  Chairman wanted to ask are they here they are here I believe they are here can they just show their face I just want to see what they look like hold on that's a good question and if the if Miss Hamilton can be put on as a panelist please there we have so let me do this if real quickly if Mr.  Royal Miss Mahoney and Miss Hamilton could just briefly introduce yourselves to members of the committee and if there's any questions we'll go to questions great I can go first, chairman.  My name is Vicki Aroyo, and I know that you have the information but I've been a city of Chicago resident all my life.  And I am the president chief operating officer of the resurrection project for the last year and a half, after serving on their board for 13 years.  I was a real estate banking and mid-sized bank here in Chicago area also and 15 years of those were focused on community development lending and investments and overall community affairs.  Thank you for your consideration today.  Thank you, Miss Hamilton.  Thank you chairman good afternoon everyone my name is Natasha Hamilton I'm the managing deputy commissioner with the Department of Housing's community engagement racial equity and strategic initiatives.  This office has always held a position on the clipboard and so I'm happy to be a part of stewarding the work that is going to continue through the lens of racial equity.  My background is in education and I'm very excited to be a part of the do H and this very important work, and to continue building a collaboration with the trust fund thinking more intentionally about special interest populations moving forward so that all Chicagoans have access to equitable housing and safe housing.  Thank you.  Thank you very much.  And welcome to the Department of Housing for those on the committee that have not met Miss Hamilton.  She's with Commissioner Navarro and the entire housing team and we've been working with them.  Miss
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Resurrection Project's Vicki Aroyo and the Department of Housing's Natasha Hamilton introduce themselves to the committee. Aroyo has 15 years of experience in community development banking, while Hamilton has a background in education. They are both excited to be a part of the Department of Housing's work to ensure all Chicagoans have access to equitable housing.

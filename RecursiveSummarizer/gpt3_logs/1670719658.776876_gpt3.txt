@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+speech limited to things that are  unconstitutional?  MR. OLSON: No. I think -- I think  there are -- JUSTICE ALITO: So why does it matter? MR. OLSON: Well, because, here, things they loathe is not a protected characteristic anywhere I know -- anywhere that I know of, but on the constitutional limit, it doesn't have -- JUSTICE ALITO: Okay. It doesn't fall within -- you say -- you say it doesn't fall within your statute. But maybe it's going to fall within the statute -- it may fall within another statute. MR. OLSON: Under -- under any level of scrutiny here, you look at the state's compelling interest in -- in -- in determining the -- the burden -- the incidental burden on the -- in our example, the vow writer's rights, and I don't know of any state that has sort of a Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 84 Official - Subject to Final Review  compelled -- it has the same compelling interest  as they do -- as they do for, you know, protecting things that other people loathe as they do for sex, gender, religion  discrimination. So I think it would be a  different analysis.  CHIEF JUSTICE ROBERTS: Justice  Sotomayor?  JUSTICE SOTOMAYOR: This would be the first time in the Court's history, correct, that it would say that a business open to the public, as this Petitioner has said it is, that it's open -- a commercial business open to the public, serving the public, that it could refuse to serve a customer based on race, sex, religion, or sexual orientation, correct? MR. OLSON: Yes. CHIEF JUSTICE ROBERTS: Justice Kagan? Justice Gorsuch? JUSTICE GORSUCH: Good morning, Mr. Olson. MR. OLSON: Is it still morning? JUSTICE GORSUCH: Just barely. (Laughter.) JUSTICE GORSUCH: It must not feel Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 85 Official - Subject to Final Review like it standing where you are.  (Laughter.)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the justices discuss whether a business can refuse to serve a customer based on race, sex, religion, or sexual orientation. Mr. Olson argues that there is no protected characteristic anywhere that would allow for this type of discrimination. The justices question whether this would fall under another statute, to which Mr. Olson replies that under any level of scrutiny, the state has a compelling interest in protecting against discrimination.

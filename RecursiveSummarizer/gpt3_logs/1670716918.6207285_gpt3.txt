@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+I know that obviously this is an issue near and dear to our mayor's heart.  And so we need to just try to, as we sort of feel our way with this one, as to how to do this in a way that gives us the same level of reliability from these national databases and groups like D&B about this.  And it's challenging.  And even in this legal issue, I mean, non-lawyers sort of glide right past that, but I can't.  I've got to know what standard it is I'm trying to meet.  And let's say if the Supreme Court, which I think is entirely possible, will say that sexual orientation and gender presentation are not constitutionally protected categories and therefore, discrimination is okay.  I mean, this crew, I don't have a whole lot of comfort here.  I'm not sure I have five votes for a program to deal with the continuing effects of slavery.  So it's kind of grim.  If they say that though, then it probably means we don't need the same level of data in the odd sort of weird world of affirmative action law, just like we don't need much data for veterans or persons with disabilities because those are not legally protected categories.  So, you know, we'll see.  I have to be honest and say, I thought last summer with the Bostock case, you know, the title VII case, that we were gonna get some direction, but we didn't.  That decision is purely legislative and textual about what title VII means.  Justice Gorsuch's opinion is particularly opaque about anything else.  So I was hoping maybe they'd give us a clue, you know, but no such look.  So it's hard.  This one's hard really to kind of know what to do.  We know there's a problem.  We just don't know quite what to do, how to address it.  I mean, certainly one thing that when I'm giving any presentations to LGBT groups is to say, look, if your members are women or people of color, please, please come in the programs because you all are already in, okay? I got a door you can come through.  And then, you know, some agencies are kind of following
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This person is discussing the difficulty of implementing anti-discrimination measures for the LGBTQ+ community, in light of the fact that sexual orientation and gender presentation are not currently protected under law. They note that while there is a clear problem, it is difficult to know how to address it without clear guidance from the Supreme Court. One suggestion they have is to encourage LGBTQ+ people who are also members of other marginalized groups to participate in existing anti-discrimination programs.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+ward and I know the SROs are well-loved over there.  So great job to both of you.  Best of wishes to O'Marian, overcome into tragedy.  I can't imagine, can't imagine would like to lose a couple of siblings.  So young, so much life ahead of them.  Just all look forward.  We're all rooting for you, John and Kathy, somehow, some way, I believe this is not going to be the last time you're going to be here.  So hopefully you get to stay at former for a while.  I don't know how much time you have left, John.  I think you had like 25 years.  So hopefully you stay another five.  You get to stay at the school.  I'm sure the principal, if he's there, he'd love to have, keep you guys.  So with that, I don't know what more to say.  My colleagues are awesome on what they said.  Just a positive, great story.  And once again, Madam President, thank you.  Thank you, John Garcia, for putting this story out there so we can all see it.  And that's about it.  Thank you very much, Madam President.  Thank you, Alderman Spazado.  I'll be brief because I think a lot of what needed to be said has been said, but I feel like this is like a parable.  We have a young man challenged in life and could have gone many directions, could have stopped his growth because of obvious despair and tragedy, but he lifted himself up and reached for the next run in the ladder.  We have two police officers who saw what was happening in this young man's life and went above and beyond the call of duty to make sure that he was taken care of, that he had mentorship and love and support at a time when he desperately needed it most.  And then, which I've never heard of before, helped him apply for school and then made sure not only that he got to school by driving him there, but made sure that he had the resources that he needed to be successful.  That's a remarkable story.  And too often, as you've heard from members of this body, our officers are vilified.  They're painted with one broad brush.  But I know, and
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+John Garcia, a student at O'Marian High School, was helped by two police officers, ward and O'Marian, after he lost a couple of siblings. The officers not only drove him to school, but also helped him apply for school and provided him with resources to be successful.

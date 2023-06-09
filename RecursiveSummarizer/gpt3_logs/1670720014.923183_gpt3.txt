@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+that if the objection is contained in the message, it is protected speech and the government can't do anything about it. Justice Sotomayor argues that if the message is identical but from a disabled couple, it should still be protected speech. Ms. Waggoner argues that what matters is the objection to the message, not the identity of the speaker.  The conversation discuss the line between compelled speech and compelled service. Justice Sotomayor asks if the person viewing the work will think is talking. Ms. Wagganer responds that the Pulitzer Prize goes to the photographer, and that the reason is because they are requiring that artist to speak a message. The conversation then turns to a hypothetical about race and selling to someone of a different race.  The business wants to express its own view of nostalgia about Christmases past by reproducing classic 1940s and 1950s Santa scenes. They do it in sepia tone and they are customizing each one. This is not off a rack. They're really bringing the people in and having them interact with Santa, children, because they're trying to capture the feelings of a certain era. But precisely because they're trying to capture the feelings of a certain era, their policy is that only white children can be photographed with Santa in this way because that's how they view the scenes with Santa that they're trying to depict.  The conversation is about whether or not a web designer can refuse to take photos of black, Hispanic, and Asian children for a Christmas website. The web designer believes that they should be able to refuse because the children are not of the same race as Santa. However, the other justices point out that the message of the website is not clear, and that the web designer may be engaging in racial discrimination.  The Court is discussing whether or not religious objections to same-sex marriage are the same as religious objections to people of color. The answer is no, according to Obergefell. However, the Court is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss the line between compelled speech and compelled service. Justice Sotomayor asks if the person viewing the work will think is talking. Ms. Wagganer responds that the Pulitzer Prize goes to the photographer, and that the reason is because they are requiring that artist to speak a message. The conversation then turns to a hypothetical about race and selling to someone of a different race. The conversation is about whether or not a web designer can refuse to take photos of black, Hispanic, and Asian children for a Christmas website. The web designer believes that they should be able to refuse because the children are not of the same race as Santa. However, the other justices point out that the message of the website is not clear, and that the web designer may be engaging in racial discrimination. The Court is discussing whether or not religious objections to same-sex marriage are the same as religious objections to people of color. The answer is no, according to Obergefell.

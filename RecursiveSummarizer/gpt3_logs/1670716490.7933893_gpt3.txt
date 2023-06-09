@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+SBI, MBI format, for smaller task orders.  We're still considering that, but right now hiring two minority firms as our primes, we're not sure if we want to just go right to, like it's taking away work from those minority firms right out of the gate.  So we're kind of hitting the pause button on that kind of assessing things on which is the best way to go.  Does that make sense? What's the hesitation, Tom? What's that? What's the hesitation? Well, the hesitation is we've just awarded these contracts to minority firms.  And if you then go to an SBI format and now you're adding other contracts, you're going to take away work from these minority firms that were just awarded as primes.  We still might do that.  We still might look at the SBI, MBI thing to have, but there's no, the SBI, MBI does not guarantee that you're going to have minority firms in that process.  Those are just smaller firms, the dollar value, smaller firms.  But in this case, and maybe this is a question we direct to procurement, are those SBI and MBI firms today tend to be MBE or WBE firms in the process? And the non SBI or MBI firms, do they tend to be the same? The SBI and the MBI firms, it is probably about 60% that they are certified MBE and WBE firms, yes.  And would you say the same for MBI? MBI, no, that is not as high.  MBI is typically maybe 25% that they are certified.  And then non SBI or MBI firms, what would the percentage of MBE and WBE firms be? Non SBI, MBI firms, that's even lower, like 15, 20%.  We get a lot of certified firms that are also considered SBI as well.  Because with our SBI program, if you're a certified, you're automatically presumed to be SBI.  Okay.  And for the committee, if you can tell us the limits for an SBI firm and an MBI firm and how that is, how is that calculated? So the limit, you mean the limit for gross receipts or the limit for contract value? Both.  Okay.  So the limit for gross receipts for MBI and SBI, I have to get that information for you, but the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The company is considering using the SBI, MBI format for smaller task orders, but is hesitant because it would take away work from the minority firms that were just awarded as primes. The company is also unsure if the SBI, MBI firms tend to be MBE or WBE certified.

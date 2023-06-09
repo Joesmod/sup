@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+stipulated, but  it's also clear that she will not provide any  wedding website for a same-sex couple.  JUSTICE GORSUCH: Well, for a same-sex  wedding -- MR. FLETCHER: For a same-sex wedding,  yes.  JUSTICE GORSUCH: -- and she wouldn't provide it to a heterosexual couple either, right? MR. FLETCHER: But that's still discrimination within the meaning of -- JUSTICE GORSUCH: Just as she wouldn't sell a website that celebrates a heterosexual union that she disagreed with to anyone regardless of their sexual orientation, right? MR. FLETCHER: That may be right, Justice Gorsuch, but I think Masterpiece couldn't have been clearer in saying that declining to sell goods or services, even expressive goods and services, for a same-sex wedding is a form of status-based discrimination properly within the scope of public accommodations laws. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 121 Official - Subject to Final Review JUSTICE GORSUCH: And, on -- on that, I just want to make sure I understand. Do we  agree as well that this is -- this work that the  plaintiff performs is expressive in nature?  MR. FLETCHER: We do.  JUSTICE GORSUCH: Okay. Thank you.  JUSTICE JACKSON: And if it's  expressive, what -- what about my photograph  hypothetical? MR. FLETCHER: So I didn't belabor this at the beginning, Justice Jackson, but your photograph hypothetical is exactly the sort of implication of the arguments that Petitioners are advancing that are of concern to the United States. We really do think it's very difficult if you accept her principle, is it speech and does the speaker believe the message has changed, to say that someone who is doing that would not be entitled under her theory to an exemption from the public accommodations laws. And we think that's a very sweeping accommodation that's inconsistent with the Court's admonition in Masterpiece Cakeshop that any sorts of carveouts in these areas have to be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justices Gorsuch and Jackson, and Mr. Fletcher. They are discussing whether or not a same-sex couple should be provided a wedding website by a business owner who disagrees with same-sex marriage. Fletcher argues that this would be a form of discrimination, and Gorsuch asks if this work is expressive in nature. Jackson then asks a hypothetical about a photographer, to which Fletcher responds that if the principle is that the work is expressive and the message has changed, then anyone should be exempt from public accommodations laws.

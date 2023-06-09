@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+know, Pilsen is a center for local, especially Latinx artists across the city.  And I tell you that I have never met such a dynamic, compassionate and determined person.  She exemplifies what we like to see of a leaders in our community and in a local artist, we have tremendous leadership.  Mirna represented that.  She will certainly be missing our community.  She was not only a person of great determination, but great creativity.  She discussed with us way on how we can repurpose, utilize and expand our spaces for local artists.  I am so glad to see artists, local artists, like Ricardo Gamboa, who are so close to her, mentor by her, and now we have spaces that have been utilized as the Apple building, as you know.  It was wonderful to see now our artists having spaces where they can do local theater, which has been missing our community.  Great credit for Mirna and her vision, the determination, and her legacy lives on with the wonderful, wonderful initiatives that she created like Destinos.  It was such an honor to have the pleasure to work a little bit with her during one of the most difficult times in the city of Chicago.  And I tell you that she was out there as the determined leader that she was.  Despite the difficulties and challenges, she was out there walking the walk with our community as challenging as there has been, and making this, creating this legacy that lives on in our community.  So to the family, to you, our commitment to keep honoring her legacy with actions and to continue to support local artists in our community and beyond, her legacy lives on.  And it is a pleasure to see you today with us for deepest condolences.  She'll be dearly missed.  Thank you, Alderman.  The chair recognizes Alderman, Ramirez Rosa.  Thank you, Madam Chair.  I too rise to be associated with this ordinance.  It's great that we as the representatives of this great city can take a moment to remember Mirna Salazar.  She was an icon, she was a trailblazer.  She was
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Aldermanic representatives of the city of Chicago remember Mirna Salazar, an icon and trailblazer for Latinx artists in the city. Salazar was known for her determination and creativity, and she worked to create spaces for local artists to thrive. her legacy lives on through the initiatives she created, like Destinos.

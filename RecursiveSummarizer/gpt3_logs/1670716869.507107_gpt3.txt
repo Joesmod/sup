@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+And for a particularly unnerving read, I would point you to Justice Alito's recent opinion in one of the Voting Rights Act cases for where the Supreme Court might be going on these issues.  Next slide, please.  So turning to this research project, we really had four objectives.  The first, of course, was to meet the federal constitutional requirements that we've just been talking about.  And some of you may recall when the city and Cook County were sued.  We won that case back in the middle 2000s, but certainly we do have to continue to meet these constitutional strictures.  We also wanted to be sure to provide the city with new updated data to assist it in setting narrowly tailored contract goals.  There was also an opportunity to get input from all of the various constituencies from the contracting side about the current program and the barriers that minority and women construction firms still face, as was just eloquently referred to in the statement from the women construction owners and executives group.  And finally, to develop program recommendations to assist the city to improve the operations of the program and to support the growth and development of women minority and disadvantaged firms.  Next slide, please.  So these are the elements of the study.  This is basically just a roadmap of the chapters.  It is rather thick going.  I admit that it's an offspring of lawyers and economists, and that can be a little bit hard going, but we do have an executive summary that details everything, but you're certainly welcome, of course, to delve into any of the chapters more deeply.  Next slide, please.  So what do we find? Well, let's start with the qualitative or the anecdotal evidence.  I personally interviewed 175 people, and we also conducted an electronic survey so that for social science research, this is really a very large group from which to draw data and we're quite confident about the reliability of this evidence.  You see there are many of the things that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The objective of the research project was to meet federal constitutional requirements, provide the city with updated data, get input from various constituencies, and develop program recommendations. The study found that there are many barriers minority and women construction firms still face.

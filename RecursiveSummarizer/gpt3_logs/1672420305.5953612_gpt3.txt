@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+thank you for answering the question but I'd, you know, be happy to share the old budget books pre manual, getting rid of the department.  Yes, it's easy to recreate.  I've seen that I would advocate for zero based budgeting approach.  If we're going to create a new department let's start literally at zero and build it up.  First departments receive the inspectors and all that.  I don't think we need an interim step I would advocate for creating the department start small and maybe perhaps grow over time but these offices are not the same as a department, I would say that this, what you see before you is a step middle step, it is a small step.  It is a department number, just like every other you know department here in the city you know it will be in the appropriation of the ordinance when that prints at the end of all this.  It will be a separate department page we have given it, you know, the deal we number which is 72.  So, you know, what we have before you is that is that first small step I think leading to the broader department I won't belabor it.  I mean I would have liked you to have taken a much larger step and you know it's a conversation we've been having for a few years now not just in the past week and so again I do hope that we get back to a place where we have a department because it is incredibly important, based on some recent events around the city, involving pollution control.  Thank you, Madam Chair.  Thank you, Alderman Riley.  So going from one to 50 instead of one to 100, sometimes gone one to 100 we may not get it right so one to 50 might be a more prudent approach, but your opinion is taken.  Well, Alderman.  Thank you.  Thank you, Madam Chair.  I noticed that you, we did increase those hours and streets and sanitation what is that going to ultimately buy us.  What that will do is give us 75 additional labors over six months so over the busy summer months for streets and sands.  Is that a full time action or is this more related to like
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Creating a new department Budget Proposal: Zero based budgeting approach Budget Proposal: Increasing hours and streets and sanitation

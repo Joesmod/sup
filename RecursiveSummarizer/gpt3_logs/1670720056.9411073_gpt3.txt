@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+of Masterpiece Cakeshop v. Colorado Civil Rights Commission. The United States concedes that marriage is a message, and that the First Amendment already provides protection for message-based speech. However, they argue that the petitioner in this case is seeking a categorical denial of service, which is not allowed. Chief Justice Roberts asks about the case of FAIR v. Rumsfeld, and the United States argues that this case is closer to that one.  The conversation is about the case FAIR v. Rumsfeld, in which the court is considering whether or not the government can compel speech that violates someone's convictions. The participants discuss whether or not the law schools that advocated for the "don't ask, don't tell" policy are in a different space than the creator of the message, and whether or not the government would have unfettered authority to compel speech if Third-party perceptions could not possibly matter. They also discuss how the definition of public accommodation is broad, and how it would take away First Amendment rights just for opening a business. Finally, they talk about how religious speech is not protected under this law, and how the bright line is whether or not the message is affected.  The conversation is about the Compelled Speech Doctrine, which prohibits the government from forcing people to say things against their will. The speaker argues that this principle should apply to all forms of speech, including artistic expression.  This conversation is about a court case. The person speaking is asking the court to reverse its decision. They believe that self-government and the pursuit of truth are foundational to our society.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker in this case is arguing that the government should not be able to force people to say things against their will. They believe that this principle should apply to all forms of speech, including artistic expression.

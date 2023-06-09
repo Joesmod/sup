@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an explanation as to how the following will benefit the City:
+
+
+mister blake more item number three negotiated sale of city-owned vacant property at forty eight ten dash forty eight thirty four south cottage grove to northwestern memorial health care with the sale of one vacant developers lot at forty thirty three south evans avenue the city toward credit at the closing purchase price is going to be hundred thousand seventy dollars nine hundred seventy thousand dollars uh...  with an eighty thousand dollar credit from the lot at forty eight thirty three south evans uh...  liz washes different apartment plan development certified testimony in this ordinance good morning chairman and members of the committee uh...  i am lisa washington supervising planner for the southeast region with the department planning and development i'm appearing for you today in support of northwestern memorial hospital or health care for their proposed bronzefield advance outpatient care center located at seven forty seven through seven fifty seven east forty eight street and forty eight hundred through forty eight forty eight south cottage grove in the fourth ward the property is in the grand boulevard community area the slide before you depicts the community demographics i want to point out that we reference that there is uh...  to parcels in this uh...  this project what you see in gray is the proposed boundary for the new bronzefield uh...  outpatient care center the parcel in blue is the parcel that uh...  they will be receiving credit for uh...  in the sale so weird to put we're proposing to dispose the city on property that was in green the former uh...  slide and the developer who owns a property in blue i'll go back to that slide uh...  known as forty eight thirty three okay forty eight thirty three south evans avenue wishes to swap that part parcel for credit at closing from the city to offset the purchase price of the city on parcels the city on parcel is nine hundred and seventy thousand dollars on the evidence parcel is valued at eighty
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is selling a vacant lot to Northwestern Memorial Health Care for $970,000. The health care provider will receive a credit of $80,000 for a parcel they own at 4833 South Evans Avenue. This will benefit the city by providing revenue from the sale of the vacant lot and by helping to offset the cost of the property purchased by Northwestern Memorial Health Care.

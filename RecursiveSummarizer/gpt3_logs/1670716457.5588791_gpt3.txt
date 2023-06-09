@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+roadways, streets, sidewalks, et cetera.  That firm is an NBE firm, African American.  Excuse me, Anchor Mechanical is non-certified.  So I'm back to water management.  And the third one was, the third and the fourth one are both for OUMC.  Their prime contractors is City Light, and they have broken down their contracts into the north and the south section.  One is north of Madison, one is Madison Street and south of Madison.  And their contract is for street construction and underground trenching.  Basically, they're a 911 cable system.  That's what it usually lasts for.  And the firm, the City Light's firm is an NBE.  They're Hispanic.  The next one is also for Department of Transportation for the structure program, which is Bridges, Wide Ocs, et cetera.  The name of that firm is CSI 3000.  And that is utilized for, like I say, structures, bridges, wide ocs, et cetera.  That firm is an NBE in their Hispanic.  The sixth contract is for AIS.  They've broken this down into four different zones.  The first zone we're talking about is zone three.  That prime contract is FH passing.  And the work, all the zones, work for all the zones is for general construction.  As we know, FH passion is not a certified firm.  The seventh, the next zone for AIS is zone one.  That firm is general contractor's Leopardo Company Inc.  And as you know, they are not certified as well either.  They're not, well, I was going to order, but there's two more AIS zones, but they're not listed in sequence here.  So I'll just go with the number eight.  Number eight is for the Department of Aviation.  They have a job contractor and their job contractor is McDonald Demolition Inc.  And they're not certified.  And the area that the job contract, the scope for their job contractor is for the rehabilitation and repair of the airport facilities, both land size and air size.  The next one is the AIS contract for the environmental section.  That job contractor is old veteran construction Inc.  And the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+There are eight contracts listed. Three are for the Department of Transportation, two are for the Department of Aviation, two are for the City Light, and one is for the AIS environmental section. All of the firms listed are NBEs, and none of them are certified.

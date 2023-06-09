@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+the purple line on the north side.  And I said we take that same vigor and energy to help the transit star communities, south of 95th Street on the red line.  And again, as all the men of our cast stated this is an issue of equity.  It is not equal when a part of our city does not have the same access that the rest of us do, even though we're on the west side of Chicago, we would be wrong not to support, helping our brothers and sisters on the far south side, get to get the transit opportunities that they deserve, and I would like to definitely stand and support.  And I would also like to stand and support this, you know, for me, this is a, this is a, this is a very important issue.  Thank you, Burnett.  Thank you.  Thank you very much, Madam President.  I also like to stand in support of this, you know, for me, this is a situation of social justice.  Some of us don't recognize when they first started putting the trains in, in the city of Chicago.  They stopped in certain areas for certain reasons.  And they also took out stops in certain areas for certain reasons.  If you look at all of the public housing around the city of Chicago in the middle of the public housing areas, you can't get to the train from a way, they took out those stops purposely to stop black folks from getting on the trains with other people and make other folks feel safe but limiting the other people from having the opportunity to get jobs and resources.  I want to thank the mayor and everyone else that have been involved for allowing me to get a train stop over on Damon and later.  I'm trying to get one over in Cabrini Green on division in Orleans, because there's not a train stop between Chicago Avenue and North Avenue.  You want people to work, you want to make it mandatory that they work but you don't want to get them no transportation to go to work.  That's crazy.  Now we're talking about the south side, and we're talking about money coming from different communities.  I'm going to say
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This person is in support of the proposed changes to the transit system, which will improve access for people on the south side of Chicago. They note that this is an issue of social justice, as people in this area have been purposefully limited in their ability to access jobs and resources.

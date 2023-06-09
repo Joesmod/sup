@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+that don't single out religion. And then the very next sentence of what Justice Kennedy said in Obergefell talked about, when -- when it transformed, that honest and decent disagreement transformed into enacted law and policy, the necessary consequence is to put the imprimatur of the state on that exclusion. And I think, if this Court were to say that the imprimatur of this Court would allow a web designer to say no same-sex people allowed or allow a school photographer to say, you know, no pictures of -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 82 Official - Subject to Final Review JUSTICE ALITO: Well, do you think  Justice Kennedy would have said that there are -- that it's honorable to oppose -- to  discriminate on the basis of race?  MR. OLSON: No, I don't think so.  JUSTICE ALITO: Let me just give you  one -- one more hypothetical. Suppose someone  offers the service of writing customized wedding vows or customized speeches to be given at a wedding by people who have an idea what they would like to say about a family member or a good friend, but they just don't feel they're very good with words. They can't put it into words. And let's say that this outfit is just starting up. They don't have a lot of clients. They're sitting at -- you know, they're sitting by the phone and their computer waiting for somebody to show up, so they will take anybody. All right? Can -- can they be forced to write vows or speeches that espouse things they loathe? MR. OLSON: No, they cannot be forced to -- to write vows or speeches that espouse things they loathe because that's not a Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 83 Official - Subject to Final Review  protected characteristic. But they cannot -- I  assume in your example -- JUSTICE ALITO: Well, is -- is -- is the prohibition or the limitation against compelled
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, Justice Alito asks Mr. Olson if he thinks it would be honorable to discriminate on the basis of race, and Mr. Olson says no. Justice Alito then gives a hypothetical situation in which a person is forced to write vows or speeches that espouse things they loathe, and Mr. Olson says that they cannot be forced to do that because it's not a protected characteristic.

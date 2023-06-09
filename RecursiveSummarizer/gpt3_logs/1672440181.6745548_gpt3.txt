@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+only short news breaking story but it should be one that should be shared where everybody know that people need to help each other.  And it don't matter what color you are.  It don't matter where you came from.  It don't matter what you think but why don't you try to get to them and try to help them.  So thank you so much, Madam Mayor.  And congratulations to you all and to the principal over there.  We appreciate you for being here with us today.  And I know you should be very proud of those officers there.  Officer Barr and Officer Katharina who have worked so hard in the school to make it a better place and a more pleasant place for children to learn.  So thank you so much.  Thank you, Alderman Mitts.  The chair recognizes Alderman Cardona.  Thank you, Madam President.  I stand before you supporting this resolution.  It's very, it's overwhelming to see one of my, which is one of the high schools in my ward for him in high school.  One of the kids had the support from the SROs from Officer Barr and Nikosky.  I met, funny story, I met Amaran back in 2020 where we're doing a food drive with for him in high school.  And Prince Vascomia who was there in the box, we had a conversation and he told me what he went through with his sister and brother.  And it broke my heart, but I saw something in this kid like that I don't see in any other thing.  Yes, he played football and yes, I had a conversation, real short conversation with him.  I think I told him, no matter what happens, you're here focused on trying to get recruited and so forth.  Behold, I did not know that they were passing him up.  And Officer Barr and his partner came and stepped in and it tells you about the program of the SROs in Chicago Public Schools.  You have SROs who do care, police officers are there.  And from what I see, when I go to form in high school, I come visit Prince Vascomia more than often.  I see how the kids surround themselves with the two officers.  And they mentor them, they give them
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Cardona is supporting a resolution for the SRO program in Chicago Public Schools. He tells a story of meeting a high school student, Prince Vascomia, who was struggling but was supported by the SROs. He says the SRO program is important because it provides mentorship and support for students.

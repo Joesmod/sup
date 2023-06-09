@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+is expressive. Can you give me your thoughts on a photography business in a shopping mall during the holiday season that offers a product called Scenes with Santa, and this  business wants to express its own view of nostalgia about Christmases past by reproducing classic 1940s and 1950s Santa scenes. They do it in sepia tone and they are customizing each one. This is not off a rack. They're really bringing the people in and having them interact with Santa, children, because they're trying to capture the feelings of a certain era. But precisely because they're trying to capture -- capture the feelings of a certain era, their policy is that only white children can be photographed with Santa in this way because that's how they view the scenes with Santa that they're trying to depict. Now the business will gladly refer families of color to the Santa at the other end of the mall who will take anybody, but -- and -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 Official - Subject to Final Review and they will photograph families of color in  other scenes -- other scenes, so they're not  discriminating against the families. What they're saying is Scenes with Santa is preserved for white families and they want to have a sign next to the Santa that says "only white  children."  Why isn't your argument that they should be able to do that? And maybe it is. MS. WAGGONER: Because, in the photograph itself, the objection is not contained in that photograph. But, in addition, I think it's important to remind the Court that -- JUSTICE JACKSON: No, no, no, don't leave. Sorry. What do you mean? I mean, the objection, just like your client's objection, is to expressions that violate their own views of what is being depicted, and so their view of what is being depicted is that a scene with Santa and a child on the lap and all of that in sepia tone, trying to harken back to the good old days, should only
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The business wants to express its own view of nostalgia about Christmases past by reproducing classic 1940s and 1950s Santa scenes. They do it in sepia tone and they are customizing each one. This is not off a rack. They're really bringing the people in and having them interact with Santa, children, because they're trying to capture the feelings of a certain era. But precisely because they're trying to capture the feelings of a certain era, their policy is that only white children can be photographed with Santa in this way because that's how they view the scenes with Santa that they're trying to depict.

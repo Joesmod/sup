@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+the director of veteran affairs -Addition of four positions to the homeless services division within the Department of Family Support Services -Addition of a director position at DFS that will also lead the assistance for the city's new arrivals initiative -Increase to the animal care and controls advertising budgets -Increase hours for the general laborers, which equates to 75 additional labors for the Department of Streets and Sanitations -Amend the AARP grant funds by providing the Department of Family and Support Services funding to increase rapid rehousing capacity from the original 800 units proposed in the 2023 budget to 1200 units for 2023 as well as 500,000 for low barrier shelters  Department of Environment  Zero Based Budgeting Approach  26,000 hours as part of the initial budget Office of Climate and Environmental Equity  Department of Environment  Office of Climate and Environmental Equity  Decarbonization point report with for alderman serving here in this room I believe that as part of that table to identify strategies to transition the city's buildings to think about retrofits at scale, and to think about how we could advance a robust plan.  Re-Implementing a Department of Environment  -Chicago torture justice memorial -ShotSpotter technology  ShotSpotter Budget Proposal: Reopening shutter mental health clinics  The study will be done with a robust stakeholder process, both to engage people that serve within the city now to think about their existing roles, and where those roles might be combined, working with stakeholders across the city and of course with leadership, like folks in this room to identify the best governance structure possible. It is my understanding that it through this language and please Susie or a verify this that we will be taking the recommendations  16 million to get us through the end of this year  Adding a director to the Office of Community Engagement in the mayor's office  Chicago Office of Veteran Affairs  More positions
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Reopening shutter mental health clinics Decarbonization point report with for alderman serving here in this room I believe that as part of that table to identify strategies to transition the city's buildings to think about retrofits at scale, and to think about how we could advance a robust plan. Re-Implementing a Department of Environment ShotSpotter technology

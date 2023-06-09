@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+corporation council to enter into and execute three settlements.  Item 21A is in the case of Jake Sopridge versus city of Chicago at all, number 19L2099, and the amount of $600,000.  The item received favorable approval by the committee.  If no one wishes to speak on the matter, I move passage by the first most favorable roll call vote of the committee on finance report and corresponding unsuccessful motion to reconsider.  There are no objections, so ordered.  Item 21B is in the case of Alberto Wilson, individually and as parent of Roy Smart, Royal Smart, Royalty Smart Miners versus city of Chicago, number 19L8047, and the amount of $350,000.  The item received favorable approval by the committee with the exception of Alderman Lopez wishing to be recorded as voting no.  Unless someone wishes to speak on the matter, I move passage by the first most favorable roll call vote of the committee on finance report and corresponding unsuccessful motion to reconsider.  There are no objections, so ordered.  Did you wish to speak, sir? The chair recognizes Alderman Lopez.  Thank you, Madam President, and good morning.  Good, excuse me, good afternoon, members of the city council.  This is a story like the next item that we are very familiar with, where we are paying to known gang members or their families because they feel that they've been victimized by us.  This is outrageous to be here yet again doing this.  This body, this city must come up with a better standard for what we're going to do with the hundreds of thousands of millions of dollars that we give away to individuals who terrorize our communities, who make victims everywhere they go.  This has to stop.  And if that means that we have to put this money aside, not for them, but for victims, let's pursue that.  Let's not continue to enrich those individuals who have no regard, no remorse, and no compassion for their communities.  I, for one, stand in opposition, not only to this item, but to the next.  And I ask my
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The corporation council is entering into three settlements. Item 21A, in the case of Jake Sopridge versus city of Chicago, received favorable approval by the committee. Item 21B, in the case of Alberto Wilson, individually and as parent of Roy Smart, Royal Smart, Royalty Smart Miners versus city of Chicago, received favorable approval by the committee with the exception of Alderman Lopez voting no.

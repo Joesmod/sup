@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+establishment of the Chicago torture justice center.  Through the center, we have come across people that have had to deal with their loved ones being incarcerated for decades inside of Illinois prisons for crimes they did not commit because they were tortured and forced to repeat confessions to police officers under the threat of harm and additional systematic acts of police torture.  This morning I am asking the Chicago City Council to have a heart and to help us to show the impact of trauma that the black and brown communities have had to endure.  I stand proudly before you with my call that funding be approved this day under the budget amendment for the building of the Chicago torture.  Thank you, Mr.  Clements.  Thank you, Mr.  Clements for your comments.  Joey Mogul.  Good morning.  My name is Joey Mogul.  Can you hear me? Yes.  I am a co founder of Chicago torture justice memorials and I'm here to echo many of the comments made by Mark Clements and Kennedy Bartley.  As many as you know, because you were present in May of 2015, City Council, as well as many of you, voted for and passed the legislation providing reparations to the Burge torture survivors.  The city committed in that legislation to work with my group, Chicago torture justice memorials to construct a permanent memorial to the Burge survivors.  That promise that was made has not been kept.  Seven years later, we still do not have a memorial, a commitment or funding for this memorial, despite Chicago torture justice memorials efforts.  While the city has refused to spend the money on this promised memorial, it has continued to fund the defense of Burge and his detectives in civil rights cases and federal and state court.  And as Mr Clements said, the city, including this administration, continues to pay private law firms to defend the indefensible in these civil rights cases.  To this point, the city of Chicago has spent $37.5 million to defend officers and the city and the Burge torture cases.
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+Chicago, torture, justice, center, police, officers, trauma, black, brown, communities, budget, amendment, memorial, survivors, civil rights

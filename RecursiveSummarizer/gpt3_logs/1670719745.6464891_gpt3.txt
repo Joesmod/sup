@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+think  that's this -- MR. FLETCHER: I -- I -- JUSTICE KAVANAUGH: They would say that's this case, and you say it's not because? MR. FLETCHER: I think they'd be wrong. I -- so, first of all, at a couple of levels. JUSTICE KAVANAUGH: Yeah. MR. FLETCHER: Speech writers aren't likely to be public accommodations. Set that aside. JUSTICE KAVANAUGH: Yeah, but -- MR. FLETCHER: Suppose you have one that was one, right? JUSTICE KAVANAUGH: -- until they are, after this case if you prevail, I mean, that's -- that's -- that's what states could do. MR. FLETCHER: But -- but I've tried to give you -- in response to Justice Alito, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 147 Official - Subject to Final Review there is, I think, a constitutional backstop about, you know, core public accommodations laws we think satisfy O'Brien scrutiny. If a state wanders from that, not so -- not so much.  But, again, just to get to the nub of your hypothetical, we think, if the speech writer says here's a speech that expresses views that I abhor and I won't write the speech, they wouldn't do that for anybody, regardless of status. Now it may be that the status of the person who's asking them to write the speech is somehow correlated with the message in some way, but that's still not status-based discrimination in the way that the law regards discrimination against people who are entering into a same-sex marriage as status-based discrimination. JUSTICE KAVANAUGH: Okay. Thank you. CHIEF JUSTICE ROBERTS: Justice Barrett? Justice Jackson? JUSTICE JACKSON: Can I just say that I'm sort of trying to think about what you just said in your exchange with Justice Kavanaugh -- it's late -- by wondering whether or not it has something to do with the message being Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 148 Official - Subject to Final Review
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker argues that speech writers are not likely to be considered public accommodations, and even if they were, a state would have to "wander from" the core public accommodations laws in order to violate the Constitution.

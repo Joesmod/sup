@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+quickly address your committee budget transfers.  Okay.  You're number two on the agenda.  Okay.  Thank you.  You cut it off.  I'm respectfully asking to transfer funds from the committee of rules into our operating budget so that we can pass some supplies.  Something really super simple.  Okay.  I know, but you know how our rules go.  So can I receive a motion to recommend approval of item number two on the agenda moved by Alderman Mitchell recommending do pass all those in favor signify by saying aye.  Opposed in the chair opinion of the chairs.  The eyes have it.  The do pass recommendation will report it out at the next city council meeting item number three on the agenda is the substitute ordinance introduced by Alderman Villegas of the 36 ward concerning the transfer of funds within the committee on economic capital and technology development for the year 2022.  There is a substitute ordinance which everyone has been has received and it was electronically sent to all.  Is there a motion to accept the substitute ordinance? So moved by Alderman Rodriguez.  All those in favor signify by saying aye.  Opposed the opinion of the chair.  The eyes have it.  The substitute is before the committee.  Now Alderman Villegas, would you explain your ordinance? Thank you, Madam Chair.  The ordinance is very, very straightforward.  It's taking money from personal services and transferring it over to contractual.  And this is to be utilized for a court reporter services associated with mandatory SSA public hearings.  Our committee holds each year.  Okay.  So the introduced ordinance stated $404,250 while the substitute ordinance corrects that amount to $6,000, which is transferred from personal services to contractual services.  Any questions from the committee? Moved to pass by Alderman Riley.  All those in favor signify by saying aye.  Opposed.  The eyes have it.  The do pass recommendation will report it out at the next city council meeting.  Item number four on the agenda
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The committee is addressing budget transfers, with one item concerning the transfer of funds for court reporter services associated with mandatory SSA public hearings. The introduced ordinance stated $404,250 while the substitute ordinance corrects that amount to $6,000. The committee passes the substitute ordinance.

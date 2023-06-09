@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+this is important to our community.  That's important to the city.  And it's important that we finally fulfill the promise that was made over 50 years ago.  Thank you, Madam President.  Thank you, Alderman Beall.  The chair recognizes Alderman Villegas.  Thank you, Madam President.  I too stand the support of this, this red line extension TIF.  We need to do more investments in public transportation, because we're going to be a world class city.  We need to make sure that all communities are connected.  We take a look at other countries and their public transportation we're way behind, way behind.  We got to make these investments.  I want to make sure that CTA with these funds are incorporating as many communities as possible.  We heard that the veteran businesses will get an opportunity.  And before that CTA is also advocating to the FRA and FHWA that there needs to be more people from the community where this project is going to impact the participating on this project, not the bare minimum of 25 and five or 26 and six.  Remember this is a program that's going to be with disadvantaged business enterprise, which means that your typical MWBE won't participate.  CTA has got to be creative and challenge FRA and FHWA to make sure that everyone is participating on this project.  This is a mega project.  One, almost $3 billion worth of construction is going to be occurring.  Three billion, we got to make sure that there's apprenticeships that are participating on this to the maximum.  So again, I support this project we need to do more investment in public transportation.  But again, we want to make sure that every community is participating.  Thank you, Madam President.  Thank you, Ottoman Villegas.  Chair recognizes all the women of Barca.  Thank you, Madam Chair.  I rise in support of this, because I wrote the orange line today to to City Hall.  And this is one of the few ways that I can get here downtown, because I really don't prefer to actually drive.  And the
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Villegas is in support of the red line extension TIF because it will connect more communities and create opportunities for disadvantaged business enterprises. He also believes that the project should include apprenticeships to maximize the benefit to the community.

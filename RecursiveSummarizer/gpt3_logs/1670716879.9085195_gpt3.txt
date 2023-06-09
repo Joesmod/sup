@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the bottom I think that says 9.9% for white women.  Next slide please.  We also took a look at the program itself, the construction program, and whether or not it really had been effective in ensuring equal opportunity for MBEs and certainly found that it has been effective in increasing their opportunities.  Utilization on city contracts is substantially above actual availability in the market, except for Native Americans.  But for the other groups it is considerably higher than the current headcount or even the expected availability.  So certainly I would call that a success in terms of reducing race and gender based barriers for city construction contracts overall.  However, we also found that most of the dollars were spent on subcontracting and MWBEs received a disproportionately low share of prime contracts and dollars compared to non-MWBEs.  We also found that fewer MWBEs have worked on what we might call the higher value sub-industry contracts such as heavy civil work, sewer contracts, that they were concentrated in more of the sub-industries like trucking, where there's nothing wrong with that and obviously it's critical to a project, but the profit margins are reported to be lower.  Next slide please.  So turning now to the interviews and the survey, we asked for feedback and input about the current programs administration and anything that might be done to reduce barriers and increase opportunities.  I think there was a general consensus overall that more resources are needed for a program of this magnitude in the city of our size and complexity, that more coordination, monitoring and overall resources were necessary to ensure transparency in the program and in contracting in general.  The survey was everyone's number one issue.  We literally had 100% agreement that improvements need to be made in the speed at which pay applications are processed and which change orders are implemented and processed and in final flows out of construction contracts.  We've
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study found that the city's construction program has been effective in increasing opportunities for minority- and women-owned businesses (MWBEs). However, MWBEs still receive a disproportionately low share of prime contracts and dollars compared to non-MWBEs. There is consensus that the program needs more resources to improve coordination and monitoring, and that the speed of pay applications and change orders needs to be improved.

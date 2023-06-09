@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+order the committee on contracting oversight and equity is hereby john thank you and have a great day chairman, colleagues.  Thank you.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The committee on contracting oversight and equity is hereby ordered by John, the chairman. Thank you to all colleagues for their great work. Have a great day!

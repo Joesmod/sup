@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+relations.  Ladies and gentlemen at the request of Commissioner planning and development, I transmit here with an ordinance authorizing the sale city on property located at 4232 South well street under the Jason neighbors land acquisition program, they will consider to the ordinance we appreciate it very truly yours Lori Lightfoot Mayor for the command housing and real estate.  Ladies and gentlemen, classic Commissioner planning and development, I transmit here with an ordinance correcting the bidders address for the sales the own property under the Jason neighbors land acquisition program, you fair and fair will concern sources we appreciate it very truly yours Lori Lightfoot Mayor for the command housing and real estate.  Ladies and gentlemen at the request of the Commissioner of assets information services to transmit here with an ordinance authorizing the execution of a lease agreement, Cumberland acquisition LLC, if you have a consideration this ordinance be appreciated very truly yours Lori Lightfoot Mayor for the command housing and real estate.  Ladies and gentlemen the classic Commissioner business affairs and consumer protection and transfer here the ordinance, mending the municipal code regarding the licensing of urban farms and community gardens your favorite consideration this ordinance be appreciated, very true years, Lori Lightfoot Mayor for the committee on license and consumer protection.  Ladies and gentlemen the question of planning and development I transfer with an orth ordinance authorizing execution of an intergovernmental agreement, the regional transportation authority regarding the Kimball station area curb management and mobility plan.  Your favorite consideration this ordinance be appreciated very truly yours Lori Lightfoot Mayor for the committee and transportation and public way.  Ladies and gentlemen the request of the Commissioner planning and development I transmit here with an ordinance correcting a measurement era of a zoning map
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is selling property located at 4232 South Well Street under the Jason Neighbors Land Acquisition Program. The City is also executing a lease agreement with Cumberland Acquisition LLC. Lastly, the City is correcting a measurement error on a zoning map.

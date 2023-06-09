@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+Rosa.  Yeah, so this for my clarification this is on item seven a these are the amendments to the.  This is item number six on the agenda.  This is the fund 925.  Oh, this is item six.  Okay, thank you so much.  All right, Alderman Tony.  I'm a couple of questions, specifically on the CTA outreach homelessness.  This is a 2 million expenditure, but is this the first time, is this an addition to what they're doing annually, or is this a first time outreach.  These are new dollars, but we do have the Department of Family and Support Services that may be able to speak to any additional programming that they received.  Good morning, Christine Riley, director homeless services family support services.  Yes, these are new dollars $2 million at the CTA will be providing the agencies that are currently contracted, or who are already awarded contractors to the Department of Family and Support Services.  So these are new dollars.  So, historically, there have been no dollars allocated for this issue from on these particular from CTA yes, that's a sad statement.  Yes, these are new dollars from CTA.  That's a very sad statement.  Because this is not a new issue.  I appreciate this allocation, but this is a problem.  One other question.  I see the HIV and COVID and stuff but can someone answer the question about MPV, is there federal dollars going to outreach for MPV.  Good morning, everybody Commissioner Chicago Department of Public Health morning.  Good morning.  No, we have received $0 for MPV response that's because Congress is not allocated funding toward MPV.  We've done everything that we can to work our MPV response into other responses so for example, when we are out doing MPV vaccines we also offer COVID vaccines which is a way to tie that together.  No, we have not received and I honestly don't anticipate receiving dedicated MPV funding from the federal government.  Well Commissioner you know, especially in minority communities, we're not, we're not reaching the
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+$2 million for CTA outreach to homelessness Budget Proposal: $0 for MPV response

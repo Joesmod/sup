@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+volunteers from indebtedness requirements.  It clarifies language related to debt checks and payment plans for applicants for city employees employment.  Article one section 14 removes the following obsolete language from sections two dash 173 dash 50 except that if a complaint is against any members of the city council or any employer staff person of any city council committee the inspector general should promptly transmit said complaint to the chairman of the city council committee on committees and rules for processing or such successor committee having jurisdiction over said matters.  Article two clarifies the ability of the office of labor standards within the department of business affairs and consumer protection to enforce all worker protection laws within article two of title six and authorizes ols to petition to make affected parties whole.  Article three are technical amendments to the environmental code for clarity and consistency with current practices and to streamline operations.  This authorizes the department of public health to abate public nuisances on land with missing or unresponsive owners.  Article four establishes an administrative process for transfer of ownership of properties currently receiving out of city water service.  This requires an annual report by the commissioner of water management to city council on all such transfers.  It aligns the fees for out of city water service permits with the cost of providing the service connections.  Article five consolidates all short-term rental company licensing under the intermediary license by eliminating the platform license.  Article six authorizes the commissioner of aviation to amend the Chicago airline terminal consortium agreement related to the roles of scheduling manager and ramp manager.  And lastly article seven calls for the city to be guided by the seven principles outlined by the U.S.  interagency council on homelessness to address homelessness in Chicago.  And with that I'm happy to
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Article One Budget Proposal: Article Two Budget Proposal: Article Three Budget Proposal: Article Four Budget Proposal: Article Five Budget Proposal: Article Six Budget Proposal: Article Seven

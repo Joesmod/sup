@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the budget.  Okay.  Does this budget reopen any of the shuttered mental health clinics? It does not.  It does not.  I've got to say, you know, we were promised good governance.  I don't think that continuing to fund to the tune of $8.9 million per year technology that has not been independently verified.  Studies from our own inspector general, from the MacArthur Justice Center at Northwestern University, Johns Hopkins University, all of these experts have looked at ShotSpotter technology and cast serious doubts on this technology.  As a result of that, cities have canceled contracts, police departments have refused to renew contracts, because it's not technology that's working, it's not keeping us safe.  And in the instance, in many instances, it's actually harming Chicago and so I'm disappointed that ShotSpotter continues to be in this contract.  And on the issue of reopening the shutter mental health clinics, that was something that was also promised to the people of the city of Chicago and so this is the last budget of this term, where we have an opportunity to accomplish that.  And it's just deeply disappointing that despite the fact that mental health experts, clinicians, entire coalition of Chicagoans organizing around the treatment not trauma proposal have been fighting to reopen those shuttered mental health clinics, using them as an anchor for a non police mental health first responder program.  This budget fails in that regard.  So, I've got to say this budget appropriation for me, and for my community and the people that I represent has a lot to be desired.  Thank you.  Thank you, Alderman Ramirez Rosa Alderman Rodriguez.  Thank you, Madam Chair.  I'd like to add on to the course regarding the Department of Environment, I think we should have gotten it done this time around, and I'm really upset that we did it.  With that said, I have read through to 31 050 section for, and I do have some questions about this proposed study.  Just to add clarity.  What
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The budget fails to reopen shuttered mental health clinics, and also continues to fund ShotSpotter technology despite serious doubts about its effectiveness.

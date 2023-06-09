@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Garcia from Channel 7.  If not for John doing this story, we would not have known about O'Marian.  Everybody's name is O'Marian and John and Kathy and Florman High School.  So thank you, John, thank you for that.  Chris, you stole a little bit of my thunder about calling out the media and putting out positive stuff.  So all you listen there, you could tweet your negative at what you want about me or whatever, but let's start tweeting and getting some more positive stories out there.  This is the ultimate feel, good, great story of tragedy and happiness and you name it.  And two beautiful people, Kathy and John, a middle-aged white male, we all talked about what they are.  So he's a white male and a young lady that could be my daughter.  So awesome job that John and Kathy appreciate you.  O'Marian, we're all proud of you.  And I don't know if you all know, O'Marian's on track to be on the basketball team.  So he is at a D1 school.  So it's a little tough when you're a guy that's probably six feet tall and 150 pounds.  So it's probably a little tough to play D1, but he's working towards that amongst all the other things.  Also this summer O'Marian will be looking for a job, Mayor, all of them in mid.  So if you have anybody in need for anything, he certainly wants to stay on track.  So certainly we'd like to see him get a nice summer job.  But I just can't thank John and Kathy.  Obviously they're our friends of mine.  I only know him because I'm the Aldermen and they're the police officers.  They used to work one of my beats.  They took on this SRO job, a job that somehow, some way got to be very controversial and negative.  I don't know why it is.  And I could assure you, there's not the great story of this is, but there is many, many positive stories about SROs taking kids under their wing, looking after them.  I know I have two high schools in my ward.  One of them has SROs in it.  Excuse me guys.  Excuse me.  Excuse me.  Excuse me.  So, I have a high school in my
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+John and Kathy are police officers who took on the job of being SROs (school resource officers) at Florman High School. Garcia from Channel 7 did a story on them, which led to everyone finding out about O'Marian. O'Marian is a student at the school who is on track to be on the basketball team at a D1 school. He will also be looking for a job this summer. The Mayor and everyone else appreciate what John and Kathy are doing.

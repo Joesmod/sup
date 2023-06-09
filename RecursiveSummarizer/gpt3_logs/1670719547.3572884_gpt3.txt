@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+WAGGONER: If you're asking  whether -- first of all, book authors, newspaper editors, those who write all kinds of publications may be writing about someone else's story, but it's still their speech, and it's still protected -- JUSTICE JACKSON: But they're not public accommodations in the same way. JUSTICE BARRETT: Ms. Waggoner, can I ask you -- MS. WAGGONER: But they -- JUSTICE BARRETT: -- a question about a heterosexual couple? So, in response to Justice Sotomayor's questions, I took it that your website where you say why a wedding website, you go through and it seems like careful, Ms. Smith was careful to say things like I fully customize the look, feel, theme, message, color palettes, et cetera. And then Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 18 Official - Subject to Final Review there's the engagement story page and inspired  by -- "a page inspired by you and written by Lorie that captures and conveys the cherished  storybook of your love."  So I want to ask you a hypothetical  about a heterosexual couple that comes to your  client, and their wedding story, you know, that they want to write under the engagement story  page goes like this: We are both cisgender and heterosexual, but that is irrelevant to our relationship which transcends such categories. We knew we were soulmates from the moment that we met and on and on. Would your client publish that site? MS. WAGGONER: Yes, she would publish the site because her objection -- assuming that the marriage is between a man and a woman, she would publish it and that there's no message that she objected -- JUSTICE BARRETT: Even though that narrative, I assume, is inconsistent with her biblical views about marriage? I'll give you another related one. A heterosexual couple comes to her and in the engagement story part writes a story that goes like this: We met at Heritage Reporting Corporation                           1 2 3 4 5 6 7 8
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether or not a wedding website author has to publish a story that is inconsistent with her biblical views about marriage. The conclusion is that she would have to publish it.

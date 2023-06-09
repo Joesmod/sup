@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+sex couple. Under the Hurley framework, it is unlikely that someone would only refuse to serve black Americans in an interracial marriage context. However, even if the website designer could not refuse to provide services to a same-sex couple, it would not be applicable to the case at hand.  The Supreme Court is hearing a case about whether a wedding website violates the Compelled Speech Doctrine by compelling speech from the couple. Justice Sotomayor is questioning the attorney for the website, asking her to show how the website is anything other than the story of the couple. The attorney cannot provide a satisfactory answer.  The conversation is about whether or not a wedding website author has to publish a story that is inconsistent with her biblical views about marriage. The conclusion is that she would have to publish it.  Ms. Waggoner is arguing that a baker should not be forced to create a website that would violate her religious beliefs about marriage. She says that the baker would not be compelled to create a website that would say that concepts of gender or sexual orientation are irrelevant to a relationship.  The conversation is about the line between a person's right to free speech and the government's ability to compel speech. In this case, the question is whether a website designer can be forced to create a website that advocates for same-sex marriage, even if they don't agree with that view. Justices Gorsuch and Kagan are questioning whether the website designer's speech is their own speech or the speech of the couple getting married. Colorado has said in the past that cake makers don't have to make cakes that advocate against same-sex marriage, because that would be the cake maker's speech, not just the couple's speech. The question is how to draw a line between free speech and compelled speech in a way that is clear and consistent.  The conversation is about whether or not the government can protect speech that is objectionable. Ms. Waggoner argues
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether a wedding website violates the Compelled Speech Doctrine by compelling speech from the couple. The conversation is about whether or not the government can protect speech that is objectionable. Ms. Waggoner argues that the government cannot protect speech that is objectionable.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+implicitly saying, you know, by selling this, I'm going to be  violating my own beliefs. So let me just ask you another quick  hypo. So I -- I'm trying to understand the extent to which this matters that she's a  speaker as opposed to a restaurant. So I sell food, and one line of products that I make is from scratch for particular customers that are based on my grandmother's cherished family recipes. My dearly departed grandmother was clear that she only wanted to provide this kind of nourishment for people who share our same religious heritage. So I call these products Grandma Helen's Protestant Provisions. And I sit with each customer who comes in and I hear about their faith and their family, and I customize the recipe for them after having this discussion. So the food is not expressive, right? I'm not speaking in my food, but I am trying to convey that only certain people get to partake Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 53 Official - Subject to Final Review in this product. Can I do that consistent with  the First Amendment or not?  MS. WAGGONER: No, and in -- and in a situation as you said, in terms of a caterer, the caterer is not engaging in speech. In terms  of your initial statements or questions, speech is speech whether it's paid or pro bono.  JUSTICE JACKSON: But -- but aren't -- don't we have cases that suggest that people's conduct can be expressive? I thought there was a whole line of cases that said you didn't have to actually have an express message, you could be acting in such a way as to express a message. And in my restaurant hypo, I'm saying, if I sell to non-Protestants, I'd be expressing a message contrary to Grandma Helen's core beliefs. MS. WAGGONER: You're speaking through conduct at that point, and that is a different analysis. In terms of the expressive conduct test, the Court has already articulated what those tests are and what a reasonable person
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker in this conversation is discussing whether or not it is constitutionally permissible to sell a product (in this case, food) that is only available to people of a certain religion. The speaker argues that since the product is not actually expressive (i.e. the recipe is not based on any religious message), it should be permissible. However, the person they are speaking to argues that the act of selling the product is itself an act of expression, and therefore would be unconstitutional.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+Public Health is requesting to accept additional state grant funds in the amount of $20,000 from the Illinois Department of Public Health for the body art and tanning inspection program funds are used to provide basic levels of protection of infectious diseases and body and tanning facilities across the city to meet the health code regulations.  This increase in funds support additional facility inspections that were closed during the pandemic complaints are received through 311 as well as various random and routine inspections violations are reported to the Department of Business Affairs and Consumer Protection.  The Department of Public Health is requesting to accept additional federal grant funds in the amount of 126,000 from the US Department of Health and Human Services for the HIV behavioral surveillance program funds are used to provide monitoring of high risk behaviors for people, specifically men having sex with men and high risk heterosexuals using intravenous drugs.  This project is conducted in rounds that that cycles every calendar year between three key core populations, gay bisexual and men having sex with men, and people who inject drugs and heterosexual heterosexuals that are increased at risk for HIV infections.  The Department of Public Health is also requesting takes up new federal grant funds in the amount of 8,700,000 from the US Department of Housing and Urban Development for the lead hazard reduction program.  The purpose of this program is to maximize the number of children under the age of six who are protected from lead poisoning by undertaking activities include environmental inspections and homes, nursing home case management, community engagements and enforcement activities, if needed to identify and control and control lead based paint hazards and eligible privately owned rental and owner occupied housing populations.  The Department of Public Health is requesting to accept additional state grant funds in the amount of $3,000 from the
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+-The Department of Public Health is requesting to accept additional state grant funds in the amount of $20,000 from the Illinois Department of Public Health for the body art and tanning inspection program. -The Department of Public Health is requesting to accept additional federal grant funds in the amount of 126,000 from the US Department of Health and Human Services for the HIV behavioral surveillance program. -The Department of Public Health is also requesting takes up new federal grant funds in the amount of 8,700,000 from the US Department of Housing and Urban Development for the lead hazard reduction program.

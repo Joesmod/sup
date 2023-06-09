@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+principles of nondiscrimination. The question is whether the law schools would have to provide the same services to the military that they do to other employers, including helping them craft statements about why a career in the military is attractive. If they did, then they would have to do the same for everyone, which would be a burden.  The conversation is between two people discussing a case. The first person argues that the case is like Hurley, where the Supreme Court ruled that a public accommodations law could not be applied to a parade because it would be a direct burden on speech. The second person argues that the case is more like FAIR, where the Court ruled that a public accommodations law could be applied to a university because it would be an incidental burden on speech.  The conversation is between two people discussing a website for a couple's wedding. The website includes a countdown to the wedding day, as well as information about the ceremony, reception, and menu. The person reviewing the website does not see anything that celebrates the marriage or mentions God.  The conversation is between Chief Justice Roberts and Mr. Fletcher regarding the accommodations law in Colorado. Mr. Fletcher is arguing that the law should exempt Ms. Smith, who has a status-based exemption, because her religious beliefs would be unmistakable to the public after viewing her website. Chief Justice Roberts is questioning whether or not the stipulations regarding Ms. Smith's willingness to work with all people regardless of classification should be taken into account.  The conversation is between Justices Gorsuch and Jackson, and Mr. Fletcher. They are discussing whether or not a same-sex couple should be provided a wedding website by a business owner who disagrees with same-sex marriage. Fletcher argues that this would be a form of discrimination, and Gorsuch asks if this work is expressive in nature. Jackson then asks a hypothetical about a photographer, to which Fletcher
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between two people discussing whether or not the law should exempt Ms. Smith, who has a status-based exemption, because her religious beliefs would be unmistakable to the public after viewing her website.

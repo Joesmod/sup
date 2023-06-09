@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+contractors with the goal of ensuring the $100 billion in mega projects that are coming to the city over the next 10 to 15 years is done equitably and inclusively.  Our work is built on about four different pillars.  Pillars one and two are scaling up diverse contractors and diversifying the supply chain.  Right now we're working with over 120 diverse contractors and suppliers with a whole series of sports.  Very grateful for the city for a grant that we got that allowed us to have the financials of 20 diverse contractors updated, which allowed us to get them working capital loans, become more competitive in bids and qualified for insurance products.  Do we do a lot more to support diverse contractors and suppliers? We have a youth engagement component that's working with schools and face-based organizations to encourage young people to seriously consider the trades as an opportunity.  On our workforce development arm, we work in both hospitality and construction and the goal is to recruit diverse communities, individuals from the social economically disadvantaged areas that we're discussing today to help them understand the construction industry, help them apply, support them through the process, provide test prep and a number of other supports to help them successfully get into a trade union and then reconnect them to work.  In terms of the ordinance, we work right now with a number of partners who already use various social economically disadvantaged areas to determine workforce compliance.  The CTA does this through federal zip codes that are done.  Cities required this on recent projects as well.  And I think the advantage of moving to a method like this is I know that this has happened with Hire360 and other workforce partners that we work with.  We will frequently have a diverse candidate that lives just outside the project area is currently defined.  And that candidate is not given an opportunity because they're just outside of the area.  And so would not be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chicago Infrastructure Trust is working to ensure that the $100 billion in mega projects coming to the city over the next 10-15 years is done equitably and inclusively. They are doing this by scaling up diverse contractors and suppliers, and by working with schools and community organizations to encourage young people to enter the trades. They are also working with workforce development partners to help recruit individuals from socioeconomically disadvantaged areas and connect them to work.

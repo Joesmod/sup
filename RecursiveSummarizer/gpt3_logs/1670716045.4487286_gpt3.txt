@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+election to come forward.  And Michael George from the legislative reference Bureau to come forward.  That's fine.  Max, thank you for being here this morning.  Can you please give us a general rundown of what the sort this resolution does? So it's on now.  Okay.  Thank you, chair.  Now we appreciate the opportunity.  We also appreciate the city's work on this and your introduction.  My name is max beaver and I'm the public information director for the Chicago board of elections.  Chicago board of elections is in support of item five.  This resolution to support making the use of vote centers permanent for election day.  We appreciate this action from the city and for the city support and increasing access to voting in Chicago.  Voters have enjoyed this convenience of our early voting sites being open on election day for the last three elections.  It's a very important safety net for voters on election day.  Early voting sites are open for the two weeks leading up to election day in all 50 awards in Chicago.  Temporary legislation and a court order over the last three years have allowed these sites to also be open on election day for voters.  And this is an important convenience because any voter no matter where they live in the city can vote at one of these sites on election day.  The other option on election day is voters can go to their assigned precinct polling place.  As we've seen in the last three election cycles and through the pandemic, this can be a challenge for voters or there have been vacant precincts in the past or there have been voters who go to an old location or have their polling place changed.  These vote centers as they're known on election day that have been open for the last three elections have been a very important safety net that way for voters who need to vote, who plan to vote on election day and find one of these locations more convenient if they work downtown or if they have family over to another location.  Just like an early voting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This resolution would make the use of vote centers permanent for election day. This would provide a convenient option for voters who may have difficulty getting to their assigned precinct polling place.

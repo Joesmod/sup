@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+You know, I'm gonna tell you at that same meeting I was at, you know, I have a little storm almost on the, between me and Emma on Chicago Avenue, almost on Pulaski, they telling me they got a $30,000 tax bill.  Get ready to close down.  Could you imagine if we didn't get the $40 million from the casino upfront? What would we be right now? What would we have to do right now? What would go on right now if that didn't happen? Could you imagine if we didn't have a CPI in and it didn't balance out what we were going to be doing in the future in reference to this budget? Could you imagine if with this casino we're gonna get $200 million a year, man, that's gonna help sustain this city and help us all out in the future? We're talking about 6,000 jobs coming to the community.  We're talking about already, already in my area, people looking about other stuff, already.  People looking, people looking about other stuff and do other things to capture, to capture the momentum of all the things that's going on.  We're talking about an area in my ward where we used to call ghost town, right, right behind Montgomery Ward's building where myself and, you know, some of the guys I grew up with used to ride up bikes and chase rabbits and coyotes and, you know, go in and out of the trains and we're talking about an area now that's going to be so vibrant, so beneficial to the city, bring so many tax dollars to the city that is going to be incredible.  I'm for this casino because I'm for the future of this because I'm for the future of this city.  I'm not for it because I'm running because I need a boat.  I'm not for it because I'm trying to get attention.  Y'all don't have to put me in the news, put me on TV.  It don't matter, right? I'm not doing it for that.  I'm doing it because just like with the other things, I thought it was the right thing for this city.  This casino is the right thing for this city is going to bring being a former member of the Choo Chicago Board.  Tourism, I'm
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Emma is in favor of the casino because it will bring in jobs and tax revenue to the city. He is not doing it for personal gain, but because he believes it is the right thing for the city.

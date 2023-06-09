@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+advice and it's something that it's well needed in our Chicago Public Schools, especially our high schools.  But I'm so happy, I did not know that Officer Barr was helping and his partner helping him to get a college.  Officer Barr came to my office, he told me and I was just shocked that he actually got him into Jackson State University.  So I'm here to tell you, I'm around, keep going.  Like I told you last time, make your family proud and make your neighborhood proud.  And you also made those three people very, what they do in life is what helping you and getting to you to succeed.  Thank you, Madam Mayor.  Thank you, Alderman Cardona.  The chair recognizes Alderman Napolitano.  Thank you, Madam President.  I too rise in support of this resolution to Officer Bauer and Officer Nowakowski.  Thank you for putting that uniform on every day.  Thank you for protecting us.  Thank you for opening your heart.  Chicago police officers sometimes get a bad rap.  It's unfortunate.  Not a lot of people see what's behind that vest or what's in your mind or how much you love the city of Chicago and are willing to serve the city of Chicago.  Not just as a police officer, but as a brother and a brother.  As a sister, as a mother, or as a father.  You took an individual under your wing, both of you, and you helped them out.  And that goes a long way.  And I know you didn't do it for any other purpose than you're just good people.  And that means the world to us.  Mariano, embrace this, make us proud, play it forward and go get them.  Thank you, Madam President.  Alderman Napolitano.  The chair recognizes Alderman Curtis.  Thank you, Madam President.  I too rise to support this resolution.  I wanna personally thank both officers for giving him a new, you have awarded him a new lease on life.  I don't even know you.  And this story was just awesome.  Now you have to go out there.  Everyone has a purpose in life.  Now you have to go out there and do the same thing that they have done
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This summary is about two police officers who helped a student get into college. The student was shocked and grateful that the officers went out of their way to help him. The officers are being commended for their good deed.

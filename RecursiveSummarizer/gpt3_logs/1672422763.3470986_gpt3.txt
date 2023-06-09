@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+you, Alderman Seechel Lopez, Alderman capital man.  Madam Chair.  Good morning.  I think, no, good afternoon.  I'm going to start with a few life with dates that are just stick out in our minds for me it's April 22 1970 was a very first Earth Day, it changed my whole outlook.  I'm also not from Chicago I'm from outside Houston and the home I grew up in.  It was destroyed.  Actually my whole neighborhood was destroyed it's now a swamp.  Because the land sunk from a series of hurricanes and because of Exxon pumping water out from underneath the land so I get it, I'm an environmentalist I've been composting for 20 years, actually I grew up composting so it's just a part of my life.  I'm not going to say all that because this office environment is very very the department environment is very very important to me, but I also sense from from speaking with you all that's very important to you as well.  So, it appears that we're all very anxious to do some actions that will help save our planet.  How do you see having a pilot or a study whatever this next process.  How is that going to slow down or speed up our efforts in our quest to make this planet better.  Yeah.  Thank you for the question and I'm really excited to answer this because I would also like to provide the opportunity to talk about the exciting things that we are doing on the environment.  And I will just start with, you know, we have a team of five people in the mayor's office currently.  In addition to myself that are working full time in this capacity, and we really rely on these cross departmental relationships that we have fostered with departments and with leaders across the city.  And in that time in the last two years since I've been appointed, we have released a 2022 climate action plan, which is a very exciting document that just outlines a series of strategies.  We have allocated an unprecedented amount of funding in the Chicago recovery plan to climate and environmental justice priorities, $188
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city of Chicago has appointed a team of five people to work full time on environmental issues, and has released a climate action plan outlining a series of strategies to improve the environment. Funding has been allocated in the Chicago recovery plan to climate and environmental justice priorities.

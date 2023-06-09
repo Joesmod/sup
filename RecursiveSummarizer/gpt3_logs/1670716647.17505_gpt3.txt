@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+of Chicago.  Following along with that, we also heard that the assets that are counted against an individual applicant's personal net worth, that's distinguished from the business receipts of the firm, but this is the individual applicant owner's personal net worth, also were too restrictive.  I interviewed many surety company representatives and lenders, of course, as well as firms.  And what we learned is that at least in the construction industry, liquidity is the key and that you might have assets that may be worth whatever they may be worth, at least in theory.  But if you can't liquidate them quickly, then from the standpoint of the bonding company and the construction lender, essentially, they'll value them at zero, because you just can't wait in construction for six months or 12 months or 18 months in order to get an asset liquid.  So the other change in the ordinance is to increase the number of assets that are exempt from the calculation of the personal net worth limit.  The limit didn't change, it is indexed every year for inflation, but the number of assets and types of assets that can be excluded was expanded.  So those are the three major changes.  The other one is that the city of Chicago was truly unique, at least in my experience, which is pretty broad at this point across the country in requiring that the majority of an applicant's full time workforce be located in the city marketplace.  We saw no logical relationship really there.  This does nothing to the residency ordinance at all.  That's the workforce on a particular job.  And especially with businesses trying to expand and perhaps reach into new markets, this seemed to be a burden we're placing on minority and women-owned firms that nobody else has.  And our certainly approach is always don't burden these firms any more than you absolutely have to in order to meet the federal constitutional requirements.  But let me note the residency ordinance is untouched, as well as the requirement that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The three major changes to the Chicago ordinance regulating surety companies are (1) an increase in the number of assets that are exempt from the calculation of the personal net worth limit; (2) a change in the way liquidity is calculated, and (3) the removal of the requirement that the majority of an applicant's full time workforce be located in the city marketplace.

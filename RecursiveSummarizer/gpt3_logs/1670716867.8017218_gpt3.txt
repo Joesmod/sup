@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+legal magic words, to the evidence relied upon.  And many, many programs across the country since the Croson decision in 1989 have been struck down by the federal courts.  Next slide, please.  So just to give you, as I say, a little flavor of really where things are these days, and you can welcome to my depressing world.  Some of you may have seen that a program that was part of one of the COVID relief packages to provide assistance and loan forgiveness to socially and economically disadvantaged farmers, primarily Black farmers, Latino farmers, and Native American farmers, has been sued and has already now been struck down by three trial courts.  And the case out of Texas, which is captained by a group led by Stephen Miller of the Trump administration, yes, that guy with the kids in the cages, has been granted class action status.  So this is extremely worrisome because the record of discrimination against Black and Indigenous farmers by the United States government itself is really very extensive, has gone on for decades.  But three federal judges have now said that that's not sufficient evidence to be able to do anything about it.  You may have also read about the case that suspended the program to grant loan application priority for 21 days, that's all it was, to restaurants that were owned again by socially and economically disadvantaged individuals, women and veterans has been struck down.  And that rejection has now been upheld by a federal appellate court.  And then the states of Oregon and Colorado attempted to target some of the COVID relief money in Oregon's case specifically to Black-owned firms and Black individuals in Colorado to minority businesses generally.  Both have been struck down and essentially enjoined or abandoned.  So it's rather a grim time for these programs.  And so I just think it's important for people to have some sense of the legal challenges that we could be facing and the landscape of where the federal courts are about these issues.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The federal courts have struck down many programs across the country that seek to provide assistance and loan forgiveness to disadvantaged groups, including Black and Indigenous farmers and minority-owned businesses. These decisions are based on the lack of evidence of discrimination by the government.

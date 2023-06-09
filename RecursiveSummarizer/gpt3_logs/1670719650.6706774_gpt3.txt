@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+nature of this marriage, which, you know, in my earlier hypotheticals I took care to remove.  But now there's a kind of statement of  opinion about the nature of this marriage, and  unlike the kind of "our story" things, which is  like -- obviously, it's their story, it's not the designer's story. You know, unlike that, it feels a little bit to me as though it could be a kind of third person saying God blesses this union. And who would the third person be other than the person who's put the whole website together? So I have difficulty with that hypothetical, and I'm wondering what you think about it. MR. OLSON: So I agree, Justice Kagan, and I think -- imagine a statement that says something along the lines of -- you know, there's a dating website that meets people and then the people that they connect through it says, you know, this is a wonderful marriage that we support. No religion, right? And then where you have that direct Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 79 Official - Subject to Final Review  speech, it does get a little trickier, but -- but I -- but what I would say is this is -- you know, the default rule would still apply even though that is an edge case, I agree, because  the question is what services does the company  choose to provide and, if it chooses to provide  that service to some -- now, here, it's -- you  know, it may be that -- that looking at the service is, well, I evaluate your marriage and I give it a thumbs-up or a thumbs-down, and, you know, I assume you don't want the thumbs-down on the website, so if you get a thumbs-up, you get on the website. So that's a fact question I think that would be hard. But, if it was a statement that was made solely based on the status of the person seeking the website, in other words, thumbs-up for all opposite-sex couples, thumbs-down for -- for same-sex couples, then it's an easier -- easier question. JUSTICE JACKSON:
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about a hypothetical situation in which a dating website provides a statement about the nature of a marriage, and whether or not that would be considered speech. Mr. Olson agrees that it would be difficult to determine if the statement is fact or opinion, but if it is solely based on the status of the person seeking the website, then it is an easier question.

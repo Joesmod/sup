@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+implicitly provided in a situation in which the -- what's actually being stated is the same.  So, you know, it -- what would you think of a holding that says that the First Amendment protects this designer's right to  provide products that explicitly express her beliefs about marriage, so she absolutely has the right to say one man, one woman, in every website, and she has the right to refuse to say gay marriage is great in any website, but what she's really asking for in this case, I think, is the right to say the same thing, here's the wedding, it's at this place, et cetera, et cetera, but she's afraid that if she says it for gay people that that will be sort of like an implicit endorsement of their wedding, and so she wants to be able to protect against implicitly endorsing, right, in a way that we've never really recognized before in the same way, when it isn't really clear that that's her message, when we don't -- when an objective observer would know that she was really trying to do that? Am I right in trying to think about explicit versus implicit in this way? MR. FLETCHER: I think that basically Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 149 Official - Subject to Final Review maps onto the test that we're trying to give you, which is to say, if she's discriminating based on status, and that includes if she's defining the message or the product based on the status, defining the what by the who, that's not okay. But, other than that, she has the freedom  to define her own product.  And I think I'd agree with you entirely that the Court has never recognized that sort of implicit problem as being sufficient. And, in fact, I would say, in FAIR, the Court squarely rejected it, where the law schools had a claim that was very, very similar in structure, to say we don't want to implicitly support these policies we deeply, deeply oppose. No one doubted there was implicit support, and no
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker is discussing a case in which a designer is refusing to create products that implicitly endorse gay marriage. The speaker argues that the designer should be allowed to do this, as long as she is not discriminating based on status.

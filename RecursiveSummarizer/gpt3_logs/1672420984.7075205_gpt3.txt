@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+because usually they plow the snow and put it right where the crossroads are and I can't get through or they make it so narrow that the wheelchair can't go through.  A lot of times I had to go in the street and that was very dangerous for me because the cars can't really see me while I'm in the motorized wheelchair.  I had sometimes where I had to go over the snow where my wheelchair motor had burned and I was stuck there until somebody came to aid me.  So as you see, this is not only important for people in the wheelchair, it's important for the whole community and it's really important to set aside the budget so we can pass this.  Thank you very much.  Thank you very much, Ms.  Garib.  Nihal Dant-Lori is our next speaker.  Hi there, my name is Nihal Dant-Lori.  I reside in Lincoln Square in 47th Ward.  Today I want to call upon City Council to address the demands of some folks that are here.  We were asking for a $750,000 pilot to clear snow and ice from our municipal sidewalks.  As has been said before, only two thirds of Chicagoans use a car to get around, yet 100% of the city streets are cleared.  Yet 100% of people in the city of Chicago use a sidewalk day to day to get around.  I want to call upon Chicago's equity statement of principles.  It's supposed to, in the description on the Chicago website, prioritize access and opportunities for groups that are underserved and underutilized.  This specifically translates to our most vulnerable road users who are pedestrians.  As of now, we have support of over 10 alderman.  We have the first ward, the 20th ward, the 22nd ward, the 25th, the 35th, the 36th, the 40th, the 47th ward, and the 49th ward.  This is something that affects all Chicagoans.  All of us use the sidewalk today to get here and people should have access anywhere they go throughout the city equitably.  Thank you so much.  Thank you very much for your comments.  The next speaker is Courtney Cobbs.  Hello, my name is Courtney Cobbs.  I live in the
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+$750,000 to clear snow and ice from municipal sidewalks

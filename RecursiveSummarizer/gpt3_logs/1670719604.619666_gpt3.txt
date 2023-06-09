@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+simply relabeling this or repackaging speech as a sale or conduct.  JUSTICE KAVANAUGH: Thank you.  CHIEF JUSTICE ROBERTS: Justice  Barrett?  JUSTICE BARRETT: So I think the questions that Justice Kagan asked you are hard because they seem like they're not creating. I mean, you're on your strongest ground when you're talking about her sitting down and designing and coming up with the graphics to customize them for the couple. So let me just clarify exactly what your position is on things that are already created in the past. What if it is plug-and-play? I don't know that much about website design, so I don't know how it could be plug-and-play. I'm sure it can be. She -- she does the programming, the coding. She has stock pictures. And she sells that as a product, and the customers, you know, Mike and Henry or, you know, Lilly and Luke, fill it in themselves. Is that protected? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 48 Official - Subject to Final Review MS. WAGGONER: It is not protected in the same way that if you sold a Bible  commentary, you wouldn't be able to decide whether the Bible commentary will be burned or  it will be used in a church service. The stream of commerce, it's been put in the stream of  commerce.  JUSTICE BARRETT: Okay. So why is it  different? Justice Kagan said, so maybe you do create customized websites and you've created one for, you know, Lilly and Luke, and then, you know, Mike and Henry see it and say, you've created that already, we love it, we want to buy it. Don't create anything new for us. Just give us exactly what you did for them. Why is that different than plug-and-play, or is it? MS. WAGGONER: It is different. I mean, first of all, if I take your hypothetical on its face, we would be selling essentially a web -- she would be creating a website that's exactly the same with the same pictures and text and graphics and videos of an opposite-sex couple
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether or not someone who designs websites can refuse to sell a website to a same-sex couple. The person arguing that they should be able to refuse says that it's different than just selling a product, because the website is customized for each couple.

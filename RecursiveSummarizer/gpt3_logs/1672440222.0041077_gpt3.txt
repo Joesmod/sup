@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Capelman on the motion for reconsideration.  Madam President, I move to reconsider the vote.  All those in favor of the motion for reconsideration signify by saying aye.  Those opposed say nay.  The noes, the nays have it.  The motion for consideration fails.  Chairman Wagespeck, I believe there's a call, a roll call vote on the next item as well.  And once again, I would ask that you provide a little context.  Sure.  Item 21c is in the case of Manuel Barocchio versus Chicago police officers and the city of Chicago, number 19 CV 8105 in the amount of $250,000.  The plaintiff, Barocchio and three others were arrested and charged with attempted first-degree murder in connection with the shooting incident that occurred in April of 2017.  Officer Hernandez was in the immediate area and his observations were provided the key evidence that linked the plaintiff, Mr.  Barocchio to the crime.  However, it was discovered during the criminal prosecution that plaintiff was not involved in the shooting.  Rather, he was a member of a rival gang who did run away and take cover nearby.  He spent two months in jail when the charges against him were dismissed.  And it was various contradictory statements and false reports that were written that led to the city basically recommending the settlement and the amount of $250,000.  So the item did receive favorable approval by the committee with the exception of Alderman Lopez wishing to be recorded no.  And with that, I would ask for a roll call vote as requested.  Pressure device and hit submit.  The voting is now open.  Luanda Do you want the device? Please raise your hand.  Alderman Abarca.  I've.  Alderman Abarca is a yes.  Alderman Curtis.  Yes.  Alderman Curtis is a yes.  Alderman Maldonado.  You voted yes or didn't come through.  Alderman Maldonado is a yes.  Alderman Austin got her seat.  Alderman Mitts.  Not here.  All voting that is wished.  Okay, the voting is now closed.  All right, the yays are 41.  The nays are five.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The motion for reconsideration fails. The item receives favorable approval by the committee with the exception of Alderman Lopez wishing to be recorded no.

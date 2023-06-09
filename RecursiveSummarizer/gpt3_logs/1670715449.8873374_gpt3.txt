@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Greg Mitchell to the role.  There's two questions.  I'll let them in the spot a file by all them in Austin.  Hey, thank you very much chairman.  Now, I saw you know on one of your slides in environmental investigations and potentially remediation work happening on these sites.  Do we, do we know the results of those investigations and what remediation may be necessary.  I don't have the particulars but I do know that the, they completed the phase one investigation of the two representatives, they've also I should point out that the, they previously acquired other city parcels were D as, and as property, they've done additional phase one two soil sampling, they know that there is elevated levels of contamination are above the state standards that are planning, and consider, because they're developing a site that's going to be used for by kids, they are already, they had already planned on entering the site into a full cleanup with the state.  And the state has the resources to do that remediation well no moving out the light hands close to clean up.  Okay, I only ask because it just recently came up in our budget hearings what what is the quality of the land that we're selling to various communities, particularly disinvested communities across the city and I just want to make sure our decisions are safe and healthy for the communities that we're serving that's where I'm coming from.  Thank you, chair.  Thank you.  Alderman Austin.  Thank you, Mr Chairman.  Nelson, on your previous slide by the houses, it appears that is taking in two houses.  Is it one or two.  So how it goes all the way over to the next house there's a couple of houses right so the city lot, ultimately Austin is the outline of red.  And the by the hand club owns the house on the left and also owns the two houses on the right.  So are you tearing down all three houses.  They're tearing down all three houses on the block, and they're going to make a garden or something.  Hello, are they making a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Austin is selling a parcel of land to the Boys and Girls Club, which includes three houses. The Club plans to demolish the houses and use the land for a garden or similar purpose.

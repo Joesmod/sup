@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+and opportunities for our shared diverse vendor community.  These stakeholders include you, our alderman, who understand the needs of the businesses in your communities, the assist agencies, and our colleagues in government.  We're here today to talk about the extension of the City's MBE program in construction that is scheduled to sunset this September.  As you know, the City's Department of Law had secured leading national expert Collette Holt to conduct a disparity study to assess our local marketplace, and she will provide an overview of findings and recommendations here today.  These results are based not only on data analysis, but reflect a read feedback from Chicago's businesses, as well as input from Chicago's network of assist agencies that represent these businesses.  The findings and resulting recommendations based on that analysis and those candid conversations identify several strategies for improving the conditions for success for our minority and women-owned businesses.  We received letters of support from these assist agencies, representing over 1800 small and diverse Chicago land businesses.  We want to develop policies that will create more opportunities for our local diverse firms to experience meaningful and sustainable growth in industries that go beyond what we have traditionally seen.  I'd like to thank Collette and the Department of Law for sharing their expertise and their tireless effort in order to ensure the program can continue into the future and have the best possible outcomes for our minority and women-owned business community.  And with that, I will turn it over to Collette Holt.  Well, thank you very much, and I appreciate this opportunity to speak with you this afternoon.  I also have with me Dr.  Steven Pitts, recently retired as Associate Chair of the Labor Center at the University of California at Berkeley, who is our economist and statistician.  Should there be any questions about that portion of the report that Dr.  Pitts is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is extending its MBE program in construction, which is set to expire this September. Collette Holt, a leading national expert, has been hired to conduct a disparity study to assess the local marketplace and provide recommendations. The study is based on data analysis and feedback from Chicago businesses and assist agencies. The findings and recommendations identify several strategies for improving conditions for minority and women-owned businesses. Letters of support have been received from assist agencies representing over 1800 small businesses. The goal is to develop policies that create more opportunities for local diverse firms to experience meaningful and sustainable growth in industries beyond what has been traditionally seen.

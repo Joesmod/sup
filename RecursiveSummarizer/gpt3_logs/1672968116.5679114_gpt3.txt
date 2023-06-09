@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Thank you Alderman Burnett.  Alderman Rodriguez moves the motion recommending do pass.  All those in favor signify by saying aye.  Opposed.  In the opinion of the chair, the ayes have it.  The do pass recommendation of item five will be reported out at the next city council meeting.  Thank you all for your support.  I appreciate it.  Item number six on the agenda is an ordinance concerning an amendment to the annual appropriation ordinance.  Year 2022 within fund number 925 for the mayor's office for people with disabilities.  There is a substitute ordinance which has been prepared which was electronically sent to everyone.  Can I get a motion to accept the substitute ordinance so moved by Alderman Raboris.  All those in favor signify by saying aye.  Opposed.  In the opinion of the chairs, the ayes have it.  The substitute ordinance.  I don't know what's wrong with my voice my tongue today is like heavy.  The substitute ordinance is now before the committee and will be explained by deputy budget director Latoya Vaughn from the Office of Budget and Management.  Before she starts I want to acknowledge all the mentality of Pharaoh has joined us and will be counted towards quorum.  Director Vaughn.  Good morning Chairman Dow and members and non members of this committee.  My name is Latoya Vaughn I'm the deputy budget manager within the Office of Budget and Management.  The first item we're going to present is total I'm sorry, we're going to request an amendment totaling 36 million 263,000.  The request is from the Office of Budget and Management.  It is requesting federal grant funds in the amount of $16 million from the federal emergency management agency for the emergency food and shelter program.  This is an anticipated award that will be reimbursed for services rendered for providing shelter food and other support services to migrants and migrant families experiencing or at risk of experiencing hunger and or homelessness, specifically for providing humanitarian
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city council is discussing an amendment to the annual appropriation ordinance for the mayor's office for people with disabilities. The amendment includes a request for federal grant funds in the amount of $16 million from the federal emergency management agency for the emergency food and shelter program.

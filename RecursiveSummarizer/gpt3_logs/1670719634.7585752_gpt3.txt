@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+sliver of an argument, right? What is the difference between that and what you think is a violation of your law? MR. OLSON: Two things, Justice Alito. The first -- JUSTICE ALITO: I mean, you're not -- that website designer is not going to be serving a same-sex couple if the website designer puts that on the website. They're turning away Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 68 Official - Subject to Final Review  same-sex couples by doing that, are they not?  MR. OLSON: No, they're -- they're not  turning away same-sex couples. They are  defining their -- they are able to choose what  services they offer, and that is the service they are choosing to offer.  The state does not regulate that at  all. All that the state says is whatever you  choose to sell -- JUSTICE ALITO: No, I understand that. Does it any difference in the real world as a practical matter? MR. OLSON: Well, it -- it does in the real world because a -- a -- my second point is that a website designer like that will lose a lot of opposite-sex couples as potential clients as well because they don't want to be seen with that message. And what the company wants to do here is take advantage of the public marketplace, go out and sell their wares to everyone and have control over -- and change what they sell to different people based on the status of -- of what they have. JUSTICE ALITO: Okay. To -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 69 Official - Subject to Final Review MR. OLSON: And -- and -- JUSTICE ALITO: Yeah, I understand  that. So to sell to everyone. So this goes to  your -- to the interpretation of your statute, and I'm not quite clear what your position is on  it. If a business provides a service that is  "open to the public," it's a public  accommodation, right?  MR. OLSON: Yeah. You have to engage in sales or offering services
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between two people discussing a law that states businesses cannot discriminate based on sexual orientation. The first person asks if a website designer who puts a message on their website that they do not serve same-sex couples is violating the law. The second person responds that the website designer is not violating the law because they are not turning away same-sex couples, they are just choosing what services to offer. The first person asks if it makes any difference in the real world. The second person responds that it does because the website designer will lose business from opposite-sex couples as well.

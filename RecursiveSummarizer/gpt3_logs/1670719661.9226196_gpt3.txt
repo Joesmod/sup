@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+MR. OLSON: I'm here all day, Justice  Gorsuch.  (Laughter.)  JUSTICE GORSUCH: It's good to see  you. We -- we've had some discussion about whether websites are speech or whether they are  some -- a service off the shelf. And I -- I -- I, like a lot of my colleagues, don't profess to know much about this. But I do know that there are some stipulations that you made in paragraphs 81, 82, 83, which say that this is customized, personalized, and expressive activity in each and every circumstance. What do we do about that from your perspective? Don't we have to take that as given? MR. OLSON: Yes, but it doesn't change the analysis, I think. JUSTICE GORSUCH: Why not? Because I do see a thing very different if I put a cake on display, it's been made, it is what it is, or a website that you can then go customize yourself, and another thing to commission an expressive Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 86 Official - Subject to Final Review  activity and -- and -- and to require somebody  to create an expression. Those are two  different things analytically in our law. So  help me out.  MR. OLSON: Well, I think, along with  the stipulations, we need to look at the  specific relief that the company seeks.  JUSTICE GORSUCH: But those are the  stipulations. MR. OLSON: They are the stipulations. And the specific relief that the company seeks is the ability to turn away every single same-sex customer. JUSTICE GORSUCH: Well, they can ask for what they want. What they get might be another thing, Mr. Olson. But how we analyze the case depends upon those stipulations. MR. OLSON: Of course, it does. And -- and -- JUSTICE GORSUCH: Okay. Okay. And then, separately, I -- I was intrigued by your answer before my friends at the Tenth Circuit about freelance writers and people like that and the notion that Colorado could compel, for example, an individual to write a speech or a Heritage Reporting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, Mr. Olson and Justice Gorsuch discuss a case involving a cake shop that refused to serve a same-sex couple. Mr. Olson argues that the cake shop should be allowed to refuse service because the cake is an expressive activity. Justice Gorsuch disagrees, arguing that the cake is not expressive activity and that the cake shop should not be allowed to refuse service.

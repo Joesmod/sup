@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Mayor to revisit the aspirational goals to increase opportunities for women and women of color in particular.  The availability of all women-owned construction companies, including women of color, has significantly outpaced the city's aspirational goal for more than 10 years.  Raising the WBE goal to 10%, with 2% of that being reserved for women of color, will increase economic opportunities for all women and minority contractors.  Passages of this ordinance, along with other measures to speed up payments and improve contract monitoring, are needed today to ensure that women and minority contractors are able to participate in public contracting.  WCOE urges passage of the MWBE construction ordinance.  Thank you for your time today, and I'm happy to answer any questions.  Thank you so much for your comment.  We have one item on today's agenda, subject matter hearing on item number 02021-2865, a communication recommending a proposed ordinance to amend Municipal Code 2-92-660 and 292-770.  That's 770-780, women, business enterprise participation, and city construction.  So that's MBE and WBE business participation and city construction contracts.  The item on the ordinance will be Department of Procurement Services Acting Commissioner Monica Jimenez, followed by Colette Holt of Colette Holt and Associates, who will be giving a disparity study presentation.  Ms.  Jimenez.  Yes, sir.  Yes.  Good afternoon.  Okay, thank you.  Good afternoon, Vice Chair and members of the City Council.  My name is Monica Jimenez, and I am the City's Acting Chief Procurement Officer.  As the contracting certification and compliance arm of the City of Chicago, we have pursued every opportunity to ensure that the city's procurement process remains inclusive, diverse, and fair.  We have been and will continue to be committed to the growth and development of small minority and women-owned businesses.  We have always tried to work in partnership with key stakeholders to identify the impacts to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is looking to increase opportunities for women and women of color in the construction industry. The goal is to raise the percentage of women-owned businesses (WBE) to 10%, with 2% of that being reserved for women of color (WOC). This would increase economic opportunities for all women and minority contractors.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+what the chief sustainability officer is going to do.  And there's a deputy commissioner so you already got to heavy positions in there, and only three workers grants research specialist project manager project manager so almost 5050 you got management versus the workers.  So I don't understand that dynamic but police explain it to me.  So there's a total of 10.  So there are total of six project managers so I think you know this is kind of some of the feedback that we've heard so we do have the chief sustainable officer in a deputy position, we have someone I know that there's grant funding and lots of grant funding coming around this work so we did put a specific grants title and then there's six project managers as well as an administrative assistant to who can help with some of the day to day.  Got it.  Okay, so, and I do take point and one of my colleagues talking about that she, she's unhappy about the interagency coordination between this agency or this department.  And all the medical offices, and I would like that address because I as the first I hear of it, that this is, this is a problem.  Because if we're funding 10 positions.  Each all of me should get some type of briefing in terms of what's happening with sustainability.  Absolutely and I think that's you know, that's what we've heard.  And this is the reason why it is pulled out of the mayor's office it is its own department number it's a standalone office, you know, come before Council, you know we've put in the management ordinance that we are coming with the results of the study.  There will be internal and external engagement and I fully expect that you know everyone in this office will be briefing Council regularly.  So that is the intention.  Thank you so no.  So now, next question so this is a separate office.  Yes, it is.  Is this a position, especially the sustainability officers in an appointed position, it said, is it just a management position that it just an appointed position by the
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+-Chief Sustainability Officer -Deputy Commissioner -Grants Research Specialist -Project Manager

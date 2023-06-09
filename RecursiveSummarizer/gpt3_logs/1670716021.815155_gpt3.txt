@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+accessibility for the neighborhood.  For me, it's also for everyone, statistically speaking, the people who need to do local errands are more likely to be women, more likely to be older, and more likely to be of a lower income.  So this issue of plowing the sidewalks is not just about one group of people.  It is an issue that affects people of all ages, all races, all genders, and all mobilities.  So I really urge you to support, including a $750,000 line item in the budget to start a pilot program to plow the sidewalks.  Thank you, Ms.  Luviansky.  Our last speaker is Brittany King.  Hello.  Excuse me, Mr.  Blakemore.  We're going to let Ms.  King speak.  Ms.  King, please proceed.  Yes, my name is Brittany King, and I am an aspiring alderman, and I am now a mother of a three-year-old.  And I just recently did a piece talking about obesity.  And so for me, risking tipping over in a wheelchair, which I am sometimes in, is more dangerous for me with my three-year-old than anything I've ever experienced in my whole disabled life.  I also have sickle cell, and the fact that it's not 75 plus year round, it bothers some for me, but it also reduces the chances I get to have a walk with my daughter to see why the park is closed.  And these are learning things that I like to teach her.  Let's go see why there's no one at the park.  I would like for you to pass the pilot program to plow the sidewalk.  Thank you.  Thank you, Ms.  King, for your comments.  Mr.  Blakemore, will you please come forward? I'm going to allow you to speak for three minutes, basically because when I came here this morning, you were the first person here, and I got here early, so I know you were here.  If you would please make your three-minute remark.  My remarks, you probably don't want to hear.  Why would you not? I turned in my pink slip, and you didn't call me, and it's unacceptable.  I've been here ever since 8 30 this morning.  Why do you want to silence Mr.  Blakemore? And his minutes run
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker urges the city to support a pilot program to plow sidewalks, arguing that it is an issue that affects people of all ages, genders, and races. They cite statistics that show that those who need to do local errands are more likely to be women, older, and of lower income. They also mention that as a mother of a three-year-old, they have experienced firsthand the dangers that icy sidewalks can pose.

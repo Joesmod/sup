@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+empty room. MR. FLETCHER: Mr. Chief Justice, that's not correct. At pages 60 to 62, the Court acknowledges that there were things that the law schools were required to do, like sending e-mails, coordinating meetings, including announcements in their newsletters that were clearly speech. The court below had held that that -- CHIEF JUSTICE ROBERTS: Advising -- advising people that the military recruiters Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 112 Official - Subject to Final Review were available in a particular room, right?  MR. FLETCHER: And including their announcements, distributing the announcements on  behalf of the military, including the military's announcements in the law school's own newsletter. The court below held and the law  schools -- CHIEF JUSTICE ROBERTS: Of the -- of the fact that they would be recruiting on campus pursuant to the Solomon amendment. Do you think that's the same as the speech that's compelled here, which is directly opposite to the beliefs that the -- Ms. Smith is -- is seeking to convey? MR. FLETCHER: So I think it depends very much about what type of speech we're talking about here. I don't know that it is different in a constitutional sense from the sort of speech that was described in what Justice Kagan, I think, called the basic website, where we're talking about a website that presents in an attractive way the details of the couple's wedding. I think it might be a very different case if she were compelled, if Colorado ever Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 113 Official - Subject to Final Review  applied its law to compel her to create messages or express religious views about marriage or to do some of the opinion-based statements that Justice Kagan described, but I think that case  might well come out differently.  JUSTICE KAGAN: In other words, you  would say
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss the case of a Colorado baker who refused to make a cake for a same-sex couple's wedding. The baker argues that she should not be compelled to create a cake that goes against her religious beliefs. The Supreme Court justices ask whether this is different from other cases where businesses are required to provide services to all customers regardless of race, religion, or sex.

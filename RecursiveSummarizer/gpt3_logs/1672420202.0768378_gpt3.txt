@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+office perspective we work closely with the police department to ensure that they have the resources they need.  Part of you know the work we're doing around the capital plan, you know, new vehicles improve facilities, these are all things that we want to work with police department on improving and helping with retention of our office one more time, new vehicles are great but if we don't have cops to film, therefore not.  So, I'm terribly disappointed.  Thank you, Madam Chair.  Thank you, Alderman Quinn, Alderman Cardenas.  Thank you, Madam Chair.  Susie.  I'm going to get back off a little bit of police police funding.  Sorry about that.  The microphone was away from me.  I know right.  It shows you even the microphone is leaving.  I want to talk about the funding ARPA funds is or other other also known as pandemic related funds.  What's what's left of that.  So that's a broader question around.  So the city received ARPA funds not just within the local fiscal recovery but across the board.  I do, I'm going to double check because I know we had that question.  I don't have that number in front of me, but we can go to balance we'll get we'll get that.  And it's important really for doing budget right now to understand what's what's there, what has been expended, and what was left for the following 2023 24 cycle.  And I will say that some of these all these different grant programs have different expiration dates.  And we can provide that through the chair, and of course we need to know those as well because there's a lot of us, you know, and I think it's no secret that I've complained about not getting things done right like things are not flowing.  Whether it at PVC where in some of these other areas where they're waiting for projects and nothing's happening.  So I'm not sure if it's a procurement I know it's not the funding funding is there.  So I don't know if it's the procurement or just the fact that you have a flow of bureaucracy of why we're failing to sort
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+office, police department, capital plan, vehicles, facilities, retention, ARPA, pandemic, grant, expiration

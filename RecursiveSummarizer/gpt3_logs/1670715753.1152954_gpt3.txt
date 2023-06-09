@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+can I get a motion to recommend approval this report by the affirmative vote of all members present.  Alderman Lopez.  Alderman Lopez so moves hearing no objection so ordered.  Item number one today is a lease agreement with W, E, L, B, I see for Chicago at 2701 LLC for portion of the warehouse facility loading doc offices and employee parking lot at 2315 West 27 streets slash 2701 South Western and the 25th Ward, Michelle woods from the Department of assets information services is here to provide testimony.  Michelle.  Good morning.  Good morning.  Good morning, not chairman and members of the committee for the record my name is Michelle woods on behalf of the Department of assets information and services.  The department has negotiated a city as tenant lease for with well, big for Chicago 2701 LLC for the property, located at 2701 South Western Avenue.  The facility consists of 35,956 square feet of office space and garage space to house a variety of vehicles including emergency response vehicles for CPD CFD OEMC, as well as BACP and the Department of Family support services.  As approved the lease will run through December 31 2032 with an option for five additional years.  The annual rent for the lease will be $368,000, which comes to about $10 and 25 cents, a square foot taxes operating expenses and insurance costs are estimated at $2 and 88 cents a square foot, or $103,553 annually.  The property is located in the 25th Ward and we received no objection.  This concludes my presentation and I'm happy to answer any questions, members of the committee may have.  Thank you, Chairman and members of the committee.  This also this takes the place of a current facility that is under you are not underutilized but it's some in severe disrepair.  We have currently had the vehicles at 1201 South Campbell, where we've had to install some emergency storm shoring because I'm some structural deficiencies with the roof at that particular building so this is a to take the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is looking to lease a warehouse facility from W, E, L, B, I see for Chicago at 2701 LLC for use as a loading dock, office space, and employee parking lot. The annual rent for the lease will be $368,000, and the lease will run through December 31, 2032, with an option for five additional years.

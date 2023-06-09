@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Section 3 program.  Thank you.  Thank you, Mr.  Sharif.  Next we have Teresa Winfrey.  Chairman, I don't see Teresa Winfrey in here or the phone number that was given to us.  Okay.  Then we have Michael Sullivan.  Good afternoon, can you hear me? Yes, you can.  Please proceed, you have three minutes.  Yes, good afternoon.  My name is Michael Sullivan.  I'm the owner of World Class Fire Protection.  I'm the only African-American fire protection company in the Chicagoland area.  I was also a CHA job contractor.  I wanna touch on a few issues and yes, it's concerning the job programs.  Just like the gentleman before me, him being promoted to another tier and then not being invited back.  Same way with me, I wasn't promoted because I was already at tier six.  I was the only fire protection company in this program and did a great job.  But for the most part, I wasn't getting any work.  Don't know why we weren't.  Fire protection is sprinkler fitting work.  Presently, we have about 1700 sprinkler fitters in our local.  We just had a interview and application process in which we had 500 people fill out applications and take the test, 270 passed.  Eight African-Americans were interviewed.  I interviewed three and scored them all high, either 95 and above.  These are jobs that are paying $100,000 a year.  Just like Omar and everybody else has been talking about, this job program provided work for the youth and the older people, a way of life.  I was able to take a couple of CHA residents.  I'm a former CHA resident.  I was able to take a couple of them and put them into my mentor protege program.  Had them working as an IT and as a sprinkler fit apprentice.  But because CHA didn't provide me with any work, I couldn't hold on to them.  I'm gonna say we as African-Americans have been treated very indifferent.  There's been torturous interference, depraved indifference and gaslighting involved when it comes to the African-American community and the contractors.  And I wanna say
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This individual is discussing their experience as a contractor with the CHA job program, and how they believe African Americans have been treated unfairly. They mention being passed over for promotion and not being given any work, despite being the only fire protection company in the program. They also discuss how they were able to take some CHA residents and put them into their mentor protege program, but had to let them go because of the lack of work from CHA.

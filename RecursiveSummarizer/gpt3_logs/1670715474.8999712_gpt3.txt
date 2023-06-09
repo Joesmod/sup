@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+motion to approve this item by the.  So, Alderman Burnett so moves hearing no objection so ordered to pass recommendation this ordinance report at the next city council meeting Wednesday October 26 2022.  There be no further business for the committee can I get a motion to approve the adjournments.  So, Alderman has so moves everyone have a peaceful night committee will be adjourned see everyone tomorrow.  Good night.  Thank you.  Hold on, hold on one second.  Oh yeah, I apologize, all the women mitts committee is following ours if anybody is on that committee.  Otherwise, have a peaceful night save one tomorrow.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The committee adjourns with a recommendation to pass an ordinance at the next city council meeting.

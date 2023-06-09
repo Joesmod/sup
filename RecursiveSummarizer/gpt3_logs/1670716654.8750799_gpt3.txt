@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+county.  The case was actually filed by I believe three white mechanical firms, as well as the Memphis mechanical contractors association.  It's been pending for a couple years actually, but I certainly haven't heard that it was because of some council member, you know Memphis mechanical contractors association has been on record for years now.  We've done a lot of work in Memphis over the years, I'm as being opposed to the program but so that's not my understanding my understanding is that this case was filed by white contractors and a contracting organization is a straight up facial challenge to the county's ordinance.  I know I thought there was, they were trying to build an Ikea there was no minority contractors and a councilman was upset and so he wanted to suspend.  I think they had a pilot program or something but in any case, that's neither here nor there.  I was looking at your numbers for availability for minority firms.  How do you calculate availability, how is that calculated.  Well we look at three sources for availability, and of course again you know the courts require us to only look at ready willing enable firms that provide the goods and services that the city buys in limited to its geographic marketplace.  So we have three sources of availability.  The first is a master minority women disadvantaged business directory that we put together.  That of course includes the city certified list the county, the state, the Illinois unified certification program for the disadvantaged business enterprise program for us dot assisted contracts and other private sector lists such as from the Federation of Women contractors and the other groups that provided us with the information on their members.  So we use that as our overall master directory.  We also supplemented that to the extent firms were not in that directory with the city of Chicago's own contracting records.  So both MBs and WBS as prime contractors do this in the city's data, as well as
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The county has an ordinance in place that requires a certain percentage of contractors to be minority-owned businesses. This ordinance is being challenged by a group of white contractors. The city uses a master directory of minority-owned businesses to determine which contractors qualify under the ordinance.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+press release for many faiths and many belief systems that are -- but they have to be consistent with mine and I won't do it if it -- if it offends my religious faith. Good to go? MR. OLSON: So long as you sell that to everybody. JUSTICE GORSUCH: Yes. Okay. All right. What's different about this case? Because -- I'll just finish the question. I know you're already ready to answer it. But we have an individual who says she will sell and Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 91 Official - Subject to Final Review does sell to everyone all manner of websites.  But she won't sell a website that requires her to express a view about marriage that she finds offensive to her religious beliefs. What's the difference between the two  cases? I'm struggling to understand.  MR. OLSON: The difference is, and, again, looking at the specific relief the  company seeks, is -- JUSTICE GORSUCH: Put aside the specific relief the company seeks because it's up to courts to fashion relief. MR. OLSON: Yeah. JUSTICE GORSUCH: So that's -- that's not going to persuade me. Work on something that might. MR. OLSON: The difference is, is that that distinction the -- well, the company has chosen to say they want to provide wedding websites generally and they will not provide -- JUSTICE GORSUCH: Well, all manner of websites. MR. OLSON: Well -- JUSTICE GORSUCH: This individual will provide all manner of websites, just not one Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 92 Official - Subject to Final Review that celebrates -- requires her to write something, words on a page, customizable, all the stuff you stipulated to, that celebrate a  particular thing that she finds offends her  religious beliefs.  I -- I still -- I'm -- I'm looking for  the distinction between the two cases. One you  say is okay and the other one not okay.  MR. OLSON:
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The difference between the two cases is that the company has chosen to say they want to provide wedding websites generally, and they will not provide one that celebrates a particular thing that the individual finds offends her religious beliefs.

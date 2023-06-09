@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+around our mental health facilities.  Again, you know, I think we are, we are committed with our capital funding is to, you know, improve our facilities to continue to upgrade and maintain them and so that is, that is part of you know the package we brought to finance committee yesterday and keeping up with all of our costs around that and keeping our facilities, you know, up to date and state of the art.  I'll add here when Dr.  Arwati and I see that she's still here presented her budget.  She talked about the fact that they that we have more than doubled our access and support to people having mental health challenges, and that we had actually increased services to young people.  I don't know if you want to add anything to that Dr Arwati so we can move on.  Yeah, and happy to talk with you offline but I just want to reiterate that in 2019.  We served 3600 Chicagoans with mental health services.  This year, we are serving 60,000 next year we're on track for 75,000 and more importantly, by the end of this calendar year, we anticipate having a high quality available to everybody, publicly funded mental health site in every one of yours of the 77 communities.  That's a huge increase.  It's a big success, pulling together a system of the federally funded the state funded the county funded and the city funded mental health clinics and supports, and that's the bricks and mortar piece.  In addition, we've built all kinds of additional outreach to the people who are not stable enough to really come into attending an appointment on a Tuesday.  So I really want to emphasize that this council has given us the funding and supported us growing a real safety net system in the city of Chicago and I'd refer you to mental health that Chicago.  If you want to see the details of that but there will there is a site in every one there will be by the end of the year, every one of our 77 communities, and we've more than doubled the CD pH staff working on mental health since 2019.  Thank
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is committed to improving its mental health facilities and has increased access to mental health services. By the end of the year, there will be a mental health site in every one of the city's 77 communities.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+  We have three items before the committee the committee will now move to get a three items on today's agenda, the agenda, we will start with the agenda item number one.  Approval of the August 2021 rule 45 report for the committee on contracting oversight and equity.  All middle committee should have received a copy of this report electronically.  If there are any questions or comments, please use the teleconference raised hands function to be recognized.  Move to pass.  Okay, who was that.  Alderman urban.  Thank you, ultimate urban.  Urban makes a motion to move new pay as hearing no objection.  So order.  We will now address agenda item number two.  The proposed ordinance concerning amendment, amendment to section two dash 92 dash 660 two dash 92 dash 770 and two dash 92 dash 780 of the municipal code of Chicago regarding minority owned and women owned MBE wv business participation and city construction contracts.  And we will now move to zero to zero to one dash 2865 acting Commissioner of the Department of Human Services, Monica him and as will provide a statement regarding this item and collect hope will be available for questions after we were now, well, Monica are you available.  Yes, all of it.  Hey, I recognize Monica him and as.  Good morning, Chairman more members of the committee and members of City Council.  My name is Monica human is, and I am the city's acting chief procurement officer.  As the contracting certification and compliance arm of the city of Chicago, the Department of Procurement Services pursues every opportunity to ensure that the city's procurement program remains diverse, fair and equitable.  As we know that as a unit of government, we have an obligation to ensure that all firms have an opportunity to participate in contracts that are paid for with taxpayer dollars.  We're here today to seek your approval for the extension of the city's MBE WPE program for construction, which is scheduled to sunset at the end of this month.  As you
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Procurement Services is seeking approval to extend the city's MBE WPE program for construction, which is scheduled to sunset at the end of this month. The program is designed to ensure that all firms have an opportunity to participate in contracts that are paid for with taxpayer dollars.

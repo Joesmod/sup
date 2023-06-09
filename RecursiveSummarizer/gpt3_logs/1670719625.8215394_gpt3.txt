@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+ago, but I think it's 10 or -- or -- or 12 years ago, in City of Fulton, which you cite in your brief, it sort of follows up on Justice Thomas's question, although you don't even get to speech. I think the Court in that case said, when you're looking at some of the concerns that you're talking about, that a individualized, subjective, multifactor, whatever, determination, in that case foster care and adoption, is not the same as a seat on the bus Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 63 Official - Subject to Final Review or a room in the hotel.  How -- how does your argument fit with that position that was articulated in the Court  with respect to the nature of individual  speakers' message?  MR. OLSON: Well, I think those questions are not presented in this case because most artists are not public accommodations. But  my friend stipulated that the company was a public accommodation. And often a lot of the hypotheticals that we've been talking about, about artists, and -- and, certainly, Lin-Manuel Miranda, who is writing the play "Hamilton," is not a -- CHIEF JUSTICE ROBERTS: But, in terms of -- in terms of the concern expressed in a lot of our cases about compelled speech and the distinction of others where you can have a requirement of serving people without regard to certain characteristics, the case did make the point that to the extent there's subjective, individualized determinations that go into the decision about placing children, that it did not -- that those cases were not, at least not directly, applicable? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 64 Official - Subject to Final Review MR. OLSON: That's correct, Chief Justice Roberts. And I think, here, again, the  record is entirely devoid of those factors because the company chose to litigate this case as a public accommodation. I think a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The attorney for the plaintiff in Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Commission is arguing that the company should not be required to serve customers who request cakes for events that the company disagrees with, on the basis that doing so would violate the company's freedom of speech. The Chief Justice points out that in a previous case involving foster care and adoption, the court ruled that individualized determinations are not the same as requiring a company to provide a service.

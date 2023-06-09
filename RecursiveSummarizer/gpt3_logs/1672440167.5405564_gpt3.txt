@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+this in the omnibus.  The fourth item on the report is an ordinance correcting the city council journal or proceedings of July 20 2021 regarding an ordinance amending remote theater restoration.  I move to 022 dash 2340 I move passage of this item in omnibus hearing no objection so order, and the final item on the report is a resolution recording election of Alvin Starks as Sergeant at Arms LaVey to Parnell Torian cops and Anthony P.  Mark Harper as assistant Sergeant in Arms for the remainder of the 2019 2023 city council term, I move passage of the item in omnibus hearing no objection so order that concludes my report I now move that we return to the regular order of business hearing no objection so order.  Next up ladies and gentlemen we have resolutions.  The first of which is a memorial resolution for Mirna Salazar.  Make sure that we have folks into the box.  Thank you.  The newbies.  Ladies and gentlemen for those of you who don't know, Mirna Salazar passed away unexpectedly, earlier this year.  And it was a resolution here in Chicago, and the legacy that she left, particularly in the arts community.  We have a resolution sponsored by myself and Alderman Villegas to honor her legacy.  Here are members of her family including her two daughters.  to speak to this resolution.  The chair recognizes Alderman Villegas.  Thank you, Madam President.  I stand to be associated with this resolution.  Milna Salazar was a once in a lifetime visionary and creator of possibility in a Chicago icon.  She was a Latina Trailblazers whose impact on art, education and business throughout the city has shattered ceilings and paved the way for countless generations to come.  For interrupting.  In my haste, I've neglected to seek a suspension of the rules to consider the resolution.  Alderman Mitchell.  Madam President, I move for temporary suspension of the rules so we can consider these.  For the many consideration for these resolutions.  Hearing no objection, so ordered.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The resolution is to memorialize Mirna Salazar, who passed away earlier this year. Salazar was a Latina Trailblazer whose impact on art, education and business throughout the city has shattered ceilings and paved the way for countless generations to come.

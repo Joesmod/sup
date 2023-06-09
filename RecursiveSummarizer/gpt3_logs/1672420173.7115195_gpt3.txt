@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+departments that have city issue phones have been instructed, directed or something not to text with Alderman.  Is that a policy that comes out of your office? I believe that's that would be like a bear's office policy because AIS wouldn't set the policy we would just execute it.  Okay.  And so is there an automatic text reply that this phone does not accept text messages? I don't think I don't know if there's an automatic reply.  We could look at putting something like that.  Okay.  But yeah, it again, we didn't, we don't set the policy.  Okay.  Thank you.  Thank you, Alderman Hairston.  I didn't quite know about that.  Okay.  Alderman, Sicha Lopez.  Thank you.  Thank you, Madam Chair.  And I just have a.  Oh, I'm sorry.  It wasn't you, Alderman Lopez.  You didn't put your hand up.  You don't have to have any questions, believe me.  Alderman Lopez.  The original Lopez.  Thank you, Madam Chairman.  And good morning, members of the committee.  I just have two items for you.  First off, congratulations acting commissioner.  But one of the things that I'd like to bring to your attention is something that I brought to the attention of your predecessor with regards to the necessity for ward specific tax identification numbers.  Along the certain lines, as some of my colleagues who talked about our various Aldermanic utilities and things of that nature, I've asked the comptroller, I'm going to bring it to your attention as well, the necessity to have individual tax ID numbers for the wards so that it's not based on any members own social security number or things of that nature, as well as to help with the continuity when turnover happens.  As the other Mr.  Blake, more mentioned 16 of us are leaving.  But those new 16 members are going to have to start with their own social security numbers to open all of the public accounts necessary to run an office.  So if your department and the comptroller's office can work together to find a way to streamline that process to make
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+-departments -city issue phones -Alderman -policy -automatic text reply -Alderman Hairston -Alderman Lopez -tax identification numbers -social security numbers

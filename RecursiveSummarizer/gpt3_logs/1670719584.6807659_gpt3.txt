@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Not so fast.  (Laughter.)  MS. WAGGONER: A new way of doing it.  CHIEF JUSTICE ROBERTS: If your -- if  your client's website was the same as it is, but the only indication of any limitation was a tag line at the end saying these services are for heterosexual couples only, could that constitutionally be applied under the Colorado statute? MS. WAGGONER: The speech could be compelled if you're suggesting that she essentially has a "no customers only" sign. And that's exactly -- CHIEF JUSTICE ROBERTS: No, no. Well, no -- as in your case, no websites. No websites are available for -- except for heterosexual couples. MS. WAGGONER: For marriage? CHIEF JUSTICE ROBERTS: Yeah, the same thing. MS. WAGGONER: Generally speaking, no. In Ms. Smith's particular case, all of her Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 36 Official - Subject to Final Review  websites are created, they're original, customized to the story, and so, in that  instance, she believes same-sex marriage to be  false and couldn't create the speech.  CHIEF JUSTICE ROBERTS: Okay. What if it said, I won't provide websites for anything other than heterosexual marriages because of  religious reasons? Could that be covered, or is it simply the invocation of religious basis for the objection that protects it from coverage under the statute? MS. WAGGONER: The religious basis is not determinative here. This Court has provided broad protection for religious speech, but it -- it wouldn't matter. This -- this Compelled Speech Doctrine applies in a host of situations and cases that are not religious. CHIEF JUSTICE ROBERTS: I guess I don't understand that answer. In other words, is it simply adding for religious reasons to the label that would change whether it could be regulated or not? MS. WAGGONER: I think what's important is that the objection is to the message she's being asked to create. And so, if Heritage Reporting Corporation
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chief Justice asks whether a website that is only available to heterosexual couples could be constitutionally be applied under the Colorado statute. The lawyer for the case responds that the speech could be compelled if the only indication of any limitation was a tag line at the end saying these services are for heterosexual couples only. The Chief Justice then asks what if the website said that it would not provide services for anything other than heterosexual marriages because of religious reasons. The lawyer responds that the religious basis is not determinative here and that the Compelled Speech Doctrine applies in a host of situations and cases that are not religious.

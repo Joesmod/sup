@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following text:
+
+
+You know it.  So you've been still in my minutes.  I don't think you're gonna do this this time.  Why are all the ultimate 16 of them decide not to be ultimate? Somebody is cleaning up the cesspool, and why would you have an item if you you're all a little dictator here? If you have 12 items and you have the public can sneak on 12, and if you're tired and you don't want to hear from the public and you don't want to serve the public, maybe you should get another job.  Maybe you're in the wrong profession.  You are a public servant, and you serve the public, and I'm outraged to see these empty seats.  You all don't want the public to come here.  Why would you have, who does this, to have the council at 10 a.m.  Why not 7 p.m.  You heard me, the ancestors crazy about Mr.  Blakemore.  Don't do that to the public.  This concludes the public comment period, and as part of the record, the committee has received some written public comments which have been provided to all of you this morning prior to today's committee meeting.  We have 11 items on the agenda this morning.  The first item is a communication concerning the appointment of Acting Commissioner Sandra Blakemore to be appointed Commissioner of the Department of Assets, Information and Services.  Good morning, Acting Commissioner Blakemore.  How are you? Good morning, I'm well, thank you.  Good to see you.  What? Oh, no, no, no.  No, wrong Blakemore.  But welcome, welcome Acting Commissioner Blakemore.  Good to see you this morning.  This is certainly a good way to start off your confirmation hearing.  Could you tell us a little bit about yourself, and then we'll open it up to any questions from my colleagues.  Yes, thank you.  Good morning, Chairman Dow, Vice Chairman Silverstein and members of the City Council.  I'm Sandra Blakemore, and I've been the Acting Commissioner for the Department of Assets, Information and Services for the past seven months.  I've worked at AIS for almost six years now and was most
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The text contains a discussion about a city council meeting. The speaker is angry that the council members are not doing their jobs properly. They are not listening to the public and are not serving the public. The speaker concludes by saying that the first item on the agenda is the confirmation of Acting Commissioner Sandra Blakemore.

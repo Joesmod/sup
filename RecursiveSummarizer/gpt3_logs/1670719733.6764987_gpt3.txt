@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+facial challenge in part -- or, I'm sorry,  pre-enforcement challenge, in part because we need more facts and we don't have them, we are  not foreclosing the possibility that there is  narrow relief in future cases with concrete  facts. JUSTICE KAGAN: Last question. You said to Justice Jackson that you didn't want to belabor the point, but her hypothetical is exactly the kind of hypothetical that you're concerned about. You must have done many moots of this case and thought of many hypotheticals. What are your two ones that you're like killers? (Laughter). JUSTICE KAGAN: If we rule for Ms. Waggoner and her client, what happens? Give me two hypotheticals. MR. FLETCHER: That's a lot of pressure on my mooters. My favorite one is this Court's decision in Runyon versus McCrary, which was about a school that wanted to exclude Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 138 Official - Subject to Final Review children of particular races, and it said the reason we want to do this is because segregation is important to our beliefs and that's what we want to teach. And this Court said, you are free to teach segregation in your school, but  you can't act on that belief by excluding children of particular races.  And I think -- this is a private  school obviously. And I think, if Petitioners are right, that case comes out differently as long as the school can come in and say, when we teach, we are expressing messages and those messages change when we express them to students of different races. I think that's very troubling. And I guess I take Justice Alito's point that I do not mean to equate those who have different views about marriage to racists, but the reason why I rely on those hypotheticals is because this Court's First Amendment jurisprudence does not distinguish between views we find odious and those we respect. The same principles apply in both cases, and if the principles lead to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The lawyer for the state of Washington is arguing that the state should be allowed to ban gay marriage because it is a form of expression that the state does not agree with. He says that if the Court rules against the state, then it would be open to schools teaching segregation as long as they can claim it is part of their message.

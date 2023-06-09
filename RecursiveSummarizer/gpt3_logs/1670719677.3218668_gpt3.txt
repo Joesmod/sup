@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 98 Official - Subject to Final Review MR. OLSON: Because, on the  stipulations and -- and where we are here, the company would refuse to provide the same identical speech to a customer solely because of  who they are.  And if a company is going to -- is  going to provide speech, already said they're going to do it, the website I think was the  colloquy with Your Honor, Justice Barrett, where someone comes in and says, I want the exact same website as you gave to my friends, and the company says, no, I will not provide that to you and the only reason is because of who -- who you are, that's not compelled speech. Certainly, there are some circumstances where there may be more of this, you know, tell the story, et cetera, but the company can choose to determine the services that it wants. Here, it has chosen to say that I will not provide the exact same website for one couple than I would for another solely based on the identity of the couple. JUSTICE BARRETT: Okay. I want to give you a hypothetical that doesn't rely on disagreement, philosophical or otherwise, with Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 99 Official - Subject to Final Review speech but just a desire to promote a different  kind of speech. So let's say a newspaper is running -- as many newspapers do, runs marriage announcements. And so, you know, The New York  Times says that such announcements which it  picks have to satisfy its normal editorial  standards.  Let's just say that the newspaper for gay pride month decides that it's going to run to promote and recognize same-sex marriage only same-sex marriage announcements, turns away heterosexual announcements, not because it disparages or disagrees with opposite-sex unions but because it's trying to promote something else. Can it do that? That's a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether a company can refuse to provide the same service to a customer solely based on who they are. Justice Barrett asks whether a newspaper can refuse to print heterosexual marriage announcements during gay pride month in order to promote same-sex marriage, and the answer is yes.

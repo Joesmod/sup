@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+being no further business before the committee, can I get a motion to adjourn while the same roll call as was applied to determine quorum? So moved by Alderman Cardona.  Alderman Cardona, so moves hearing no objections.  So ordered, the committee on contract oversight and equity is adjourned.  Thank you for joining us.  We'll see you later.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The committee on contract oversight and equity is adjourned. Thank you for joining us. We'll see you later.

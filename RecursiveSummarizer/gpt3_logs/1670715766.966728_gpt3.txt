@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+gap because of the expertise that organization does have when it comes to mental health and other services services provided to the community.  At this time, we are currently serving over 500 participants individuals with behavioral health services for individuals diagnosed with chronic mental illnesses to include violence prevention services in the South Chicago community area, the investment that we have made as an organization, because part of the list was that, of course, we will take care of the repair so in the pictures that you saw it is ready to use but it was not a that way when we took over the building for the list, as there was like a lot of damage on the roof and some areas of the building.  Also, they were like, I mean, environmental requirements that we went back and forth with the city of Chicago.  And after undergoing all of those processes we have spent almost a million dollars in renovating and making the building in the way in which it looks today.  We even the entire parking lot was paid in good faith by the organization.  And we believe that this will be a multi year commitment, not just as a community agency you know like the one who owns the organization is the community itself.  So by, by entrusting the property to the Pearson Wellness Center, you are actually being able to to make concrete concrete you know the assistance that is community that's need at this time.  We have created about 27, no about, we have created 27 jobs in that community.  I can say I managed one of the services there and all eight individuals were recruited from the South Chicago community they live in South Chicago.  And the individuals that we're serving there are from from that community itself.  And we look forward you know to continue expanding on the provision of our services for the benefit of our family so that we can continue to empower and to promote the wellness that is the end the ultimate end that we seek as a community agents.  Thank you for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Pearson Wellness Center is a community agency that provides behavioral health services to individuals diagnosed with chronic mental illnesses, including violence prevention services. They have invested almost a million dollars in renovating and repairing their building and parking lot. They have created 27 jobs in the community and all of their employees live in South Chicago. They hope to continue expanding their services to empower and promote the wellness of the community.

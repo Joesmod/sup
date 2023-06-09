@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+results might have been if he had employed our methodology.  Okay, so, did, did you reweight the data for African Americans using the but for and how did you do that if you did.  You'll see that in the charts, the tables rather, where we show you race by race, what the expected availability would be.  And I believe in the PowerPoint that that we provided to the committee that we also included that table in there as well so might be a little easier and quicker for people to find it, then going back through the whole report but yes, so what you do is you take the disparity ratio that we found in the American Community Survey data and our economist Dr.  Steven Pitts, then use that as a multiplier off of the basis of the actual headcount availability, and we sort of walk you through it's pretty simple math and the doing of it is a little complicated but the concept is pretty, pretty easy, which is that you take the basis number, and then you see what the disparity ratio is, and then you just apply it.  And so, we were, we tried to estimate what availability would be, but for some of these discriminatory bears and I do want to stress that, you know, the American Community Survey is Census Bureau data, we can point to it, we can explain to a judge what we did and where we got this from, and we just didn't just make it up, but it doesn't account for any and all possible factors out there in the world.  It just has some limitations to it.  And it certainly might be the case that, you know, there are other variables that would have impacted, you know, up or down those estimates, but this is an approach that the courts have looked at including here in Illinois and the Seventh Circuit Court of Appeals.  So we felt pretty comfortable in employing it.  Right.  What was the difference.  I'm sorry I didn't see the data that you're.  No, no.  I'm sorry I didn't hear you.  No, I said please go ahead I interrupt.  No, I said, what was the difference.  Like what was the, the number
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study found that African Americans were disproportionately affected by the lack of available jobs, and that this was likely due to discrimination.

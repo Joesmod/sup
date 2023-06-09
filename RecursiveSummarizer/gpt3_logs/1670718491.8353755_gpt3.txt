@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an explanation of the following and how it is a waste of the City's money:
+
+
+home ownership initiatives support the construction of new homes, acquisition and rehab of deteriorated and abandoned properties and financing programs for home purchase and rehab.  Through the second quarter, DOH has committed $2.4 million to the city's home ownership resource allocation.  These numbers represent 28% of the 2022 home ownership unit goal and 13% of the home ownership resource allocation.  We have made tremendous strides in single family new construction, some of which we heard about and will hear more.  City loss for working families initiative in Humboldt park and south shore and as we heard today on reclaiming.  One additional example of that is the joint development of the joint development that will replace 11 vacant lots of wood lawn with three new three flats.  Under the county's buy back the block initiative, five local developers of color have purchased the lots from the county land bank for $1000 each.  DOH is partnering with Chicago community loan fund, a nonprofit lender that specializes in development initiatives benefiting low and modern income neighborhoods to establish a $4.4 million loan loss reserve which will help fund the construction of these new developments.  Moving over to our homeowner repair initiatives.  These initiatives support emergency repairs, energy efficiency improvements and financing programs to help existing owners keep their homes.  For the ongoing protection of our service providers and our clients, most of our home improvement and repair programs have operated at reduced levels since the onset of the pandemic and through the second quarter DOH has committed $8.2 million in resources to support 864 units.  Coming to our policy highlights, on April 4th DOH unveiled a new pilot initiative designed to help vulnerable renters facing eviction in Chicago.  The right to counsel pilot program provides free legal representation in and out of court to eligible low income tenants at risk of eviction or lock out.  This
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Housing is committed to helping families in need of housing assistance, whether it be through new construction,acquisition and rehabilitation of abandoned properties, or providing financing for home purchase and rehabilitation. However, due to the ongoing pandemic, many of their programs have been reduced in scope and they have only been able to help 864 units. A new pilot initiative has been unveiled to help vulnerable renters facing eviction in Chicago by providing free legal representation.

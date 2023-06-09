@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+place to Jeffrey and Stephanie Glover Douglas for the purchase price of $4,500.  This is in the third ward.  James Michael from the Department of Planning and Development is here to provide testimony on behalf of this ordinance.  Good morning, Chairman and members of the committee.  You see the screen? Yes.  All right.  The item is the AMLEP sale for the unimproved city owned parcel at 429 East 48th place to Jeffrey and Stephanie Glover Douglas.  The property is to be used as an extended yard for their adjacent property at 427 East 48th place.  The sale price is $4,500.  The appraised market value is $25,000.  The vacant lot dimensions is 16.66 by 124.75, 2,078 square feet, approximately.  The parcel is in the third ward.  We have support from Alderman Pat Dowell.  Property also has AAS clearance.  The city parcel is in A.  The applicant's property is in B.  That concludes my presentation.  Thank you.  Are there any questions from members of the committee? Seeing no questions, can I get a motion to recommend approval of this item by the affirmative vote of all members present for the roll call? I do have a question.  I'm sorry, Alderman Waldman, I offer a question.  James, if the width of the lot is 16 feet, that means it's non-buildable, right, by zoning law? Is that correct? I believe it's too short to build on.  Correct.  So even with that, it came appraised to $45,000.  That sounds, I mean, seems too high for something that is completely worthless.  The market value is $25,000.  The sale price is $4,500.  Okay.  What I'm saying, even the appraised value at $25,000 is ridiculous because there's nothing you can do with that, except giving it away to the next door neighbor.  So, I mean, I challenge you to question the appraiser, even though the owner next door is going to buy the property for $45,000, I think that the appraiser did not take into account that that property has no value whatsoever because there's nothing you can build there.  So, $40,000, $25,000,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is selling a vacant lot to Jeffrey and Stephanie Glover Douglas for $4,500. The lot is 16.66 by 124.75 and is zoned for residential use. It is adjacent to their property at 427 East 48th place. The sale has the support of Alderman Pat Dowell.

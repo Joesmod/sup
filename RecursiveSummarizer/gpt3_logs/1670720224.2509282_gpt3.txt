@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a short summary of the following in a style that a second grader could understand:
+
+
+justices question whether this would fall under another statute, to which Mr. Olson replies that under any level of scrutiny, the state has a compelling interest in protecting against discrimination.  Justices Gorsuch and Kavanaugh are discussing a case involving a Colorado cake shop that refused to serve a same-sex couple. Mr. Olson argues that the cake shop should be allowed to refuse service because the cake is an expressive activity. Justice Gorsuch disagrees, arguing that the cake is not expressive activity and that the cake shop should not be allowed to refuse service. The conversation then turns to whether a freelance writer who is a public accommodation can refuse to write a press release for a religious entity with whom the writer disagrees. It is concluded that such a refusal would be permissible.  The Supreme Court is hearing a case about whether a company can refuse to provide the same service to a customer solely based on who they are. In the conversation, the justices are discussing whether or not a website designer is violating Colorado law by refusing to publish gay authors. The website designer argues that they should not be required to publish content that goes against their beliefs. However, the justices point out that the website designer is essentially engaging in compelled speech by forcing them to say something that they do not believe.  The conversation among the justices discuss the case of a Colorado baker who refused to make a cake for a same-sex couple's wedding. The baker argues that she should not be compelled to create a cake that goes against her religious beliefs. The Supreme Court justices ask whether this is different from other cases where businesses are required to provide services to all customers regardless of race, religion, or sex.  The conversation is between two people discussing whether or not the law should exempt Ms. Smith, who has a status-based exemption, because her religious beliefs would be unmistakable to the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether a company can refuse to provide the same service to a customer solely based on who they are. The justices are discussing whether or not a website designer is violating Colorado law by refusing to publish gay authors. The website designer argues that they should not be required to publish content that goes against their beliefs. However, the justices point out that the website designer is essentially engaging in compelled speech by forcing them to say something that they do not believe.

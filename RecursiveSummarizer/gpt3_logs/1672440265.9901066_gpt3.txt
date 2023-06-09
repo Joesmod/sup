@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+we deal with the technical issues here.  Okay, everyone voting is now open.  Hit refresh.  I appreciate it.  Thank you.  Alderman Abarca, would you like to give a voice vote.  Can you please mark, Alderman Abarca, as yes.  Alderman Burke.  Would you like to give a voice vote.  Yes, Alderman Burke is the yes.  Alderman Lopez is not in the chambers.  All the remits is not in the chambers.  And Alderman Riley is not in the chambers.  Okay.  Voting is now closed.  And the ruling of the chair is upheld Alderman Kaplan on a motion for reconsideration, Madam President I move to reconsider the vote, all those in favor of the motion for reconsideration signify by saying I all those opposing a.  The nays have at the motion for consideration fails.  I'm in Mitchell back to you.  I'm sorry.  Chair recognizes all the men, the pilot time.  Thank you, Madam President, I'll just make this extremely quick.  This was written about a year and a half ago.  I want to thank you and your administration.  We wrote it originally, it was open for anyone to critique and change it to make it better, more palatable for the city of Chicago.  Thank you.  Tall to you and my colleagues, give another tool to our Chicago police officers, and this, this incredible war on guns that we're facing day in and day out.  So thank you very much for your help on this.  Thank you my colleagues as well.  Thank you.  I'm Mitchell.  I'm not aware of any further unfinished business.  The chair recognizes all of them.  Merry Christmas to everybody.  I'll tell you a fair and I were having a conversation and we're trying to figure out both of us have memberships to ballets that we don't use, and we were trying to figure out.  We were trying to figure out if we needed to recuse ourselves on the last vote.  Well, okay.  All right.  Well, Merry Christmas each and every one of you.  We're definitely going now.  Over Mitchell miscellaneous business, Madam President, I'm not aware of any miscellaneous business, right the
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The council is discussing a motion for reconsideration. Alderman Abarca gives a voice vote, which is followed by Alderman Burke. Alderman Lopez is not in the chambers, and neither are the remits. Voting is now closed, and the ruling of the chair is upheld.

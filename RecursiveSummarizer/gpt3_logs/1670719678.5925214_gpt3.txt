@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+protected characteristic under the law? MR. OLSON: Well, that's a hard hypothetical because, normally, the marriage announcements are considered to be a public accommodation, but your intro -- hypothetical introduces a layer of editorial discretion in -- JUSTICE BARRETT: Well, you can't run every marriage announcement that comes. There Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 100 Official - Subject to Final Review would be too many. So you're necessarily going to pick and choose, just like every business is  going to have to pick and choose based on  resources.  MR. OLSON: Well, and I think -- but, in that circumstance, if the sole basis for picking and choosing is a protected characteristic, The New York Times couldn't say  that we're -- we're going to have -- this month we're just going to run opposite-sex weddings, next month we're just going to run white people weddings, next month we're just going to run -- JUSTICE BARRETT: So, for gay pride month, a newspaper can't choose to try to celebrate that and communicate a message by running only gay marriage announcements? MR. OLSON: Well, again, I think the answer is no, but that's an unusual case because a newspaper obviously typically has great discretion. JUSTICE BARRETT: Well, it might be an unusual case, but the problem and what a lot of the hypotheticals are getting at is however we decide this case obviously applies to others. And what if we say it's not The New York Times, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 101 Official - Subject to Final Review but what if we say that it's a gay rights group  that wants to publish gay rights announcements  online all year round, not just for gay pride month, because it wants to celebrate love in  that community, and so it publishes only  same-sex marriage announcements and turns away  opposite sex.  MR.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The question is whether a business can discriminate based on a protected characteristic when choosing which marriage announcements to publish. Mr. Olson argues that businesses typically have a great deal of discretion in this area, but that if the sole basis for discrimination is a protected characteristic, then it would not be allowed.

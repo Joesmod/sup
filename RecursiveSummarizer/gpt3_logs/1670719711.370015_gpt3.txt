@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 122 Official - Subject to Final Review  carefully cabined to avoid undermining the  government's compelling interest in ensuring that all Americans have equal access to the  public marketplace.  JUSTICE JACKSON: And so just to be  clear, right, it -- it's the same photograph for  both customers, that this expression in my example is classic Scenes with Santa, "It's a Wonderful Life," 1940s, and we want -- the -- the artist, the photographer, wants Santa with the kinds of depictions that are in that movie, and he wants to sell that to everybody, but what that means is only some people can be depicted in that picture. Is that -- that's -- I'm just trying to make it -- because we've heard a lot of questions about, well, isn't she customizing it? I mean, he's customizing each photo, but what he's saying is, I won't do the customization for these folks who want depictions with Santa because that is inconsistent with my beliefs about how that scene should be depicted, and I'm an artist, and you'd be forcing me to put out into the world pictures of Santa with children that I think are inconsistent with my view of Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 123 Official - Subject to Final Review how Santa should be depicted.  MR. FLETCHER: We agree, Justice  Jackson. We think, if you accept Petitioners' theory, the upshot is that that photographer or a photographer who says, I won't take corporate head shots for women because I don't want to send the message that women should be leaders in the workplace, can deny service to a class of  people. JUSTICE BARRETT: Mr. Fletcher, what if you have a gay couple who runs a web design business in a college town, and, you know, a big part of their business is developing websites for student organizations, the environmental organization,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about a photographer who does not want to take pictures of Santa with children because he feels it is inconsistent with his beliefs. The question is whether or not this photographer can be forced to take these pictures.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+this.  Alderman Villegas brought up the need for a project manager the other day for someone who could oversee a large construction project that things can go wrong.  Unforeseen obstacles tend to come out of left field with something like this.  We've seen it happen at O'Hare.  We've seen it happen with the chain burn interchange.  Recently in my ward the Webster Street bridge a relatively modest capital project compared to this one is behind almost a year due to unforeseen problems with supply chain issues, cost overruns, financing.  We're hitching our wagon to an unexperienced horse and that is a problem.  That is something that could come back to haunt us in the future if this project does not stay on budget and on schedule.  I remain opposed to it for these reasons.  I will be voting no today and I encourage you to join me in a vote of opposition to this project.  Thank you.  Thank you, Alderman Hopkins.  Any other members of the body that wish to speak Alderman Burnett? Yes.  Thank you very much Madam President.  Just like my colleague Alderman Hopkins who's very articulate, you know him and I are going into the next four years without an opponent.  Neither one of us have a race so we thank God.  I know I thank God for that.  I'm sure you do too.  We're very grateful for that but at the same time myself, like some other colleagues who step in the side, I had the opportunity to step aside too.  I got all my time.  I'll be 60 next year.  It's like I'm here and I have nothing to lose but one of the things that I will not do in this body is allow anyone to disrespect me no matter who they are, how big they think they are, how strong they think they are.  Nobody's going to disrespect me and I'm not talking about anybody in this body but I would say and those that I'm referring to know who I'm talking about.  I don't need anything from anybody.  Nothing.  Nothing.  I'm here.  I don't need anything.  I don't need anything.  I'm here.  I don't need nothing.  God bless
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Villegas brings up the need for a project manager to oversee a large construction project. Unforeseen obstacles tend to come up with something like this, and the project manager would help to avoid these issues. Alderman Burnett says that nobody will disrespect him, and he does not need anything from anyone.

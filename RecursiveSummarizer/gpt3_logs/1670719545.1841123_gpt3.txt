@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Smith provides, but, if she did provide that, if it's a plug-and-play website where the couple, for example, is putting in their names and -- and using their website, then you don't have compelled speech because you don't have a speech creator. But even in the context of putting in names -- JUSTICE SOTOMAYOR: I'm sorry. Show me on your website -- show me in -- on the pages of your petition for a writ of certiorari, show me a page on that website that is an endorsement of a marriage as opposed to the story of a couple. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 16 Official - Subject to Final Review MS. WAGGONER: Well, either one  violates the Compelled Speech Doctrine.  JUSTICE SOTOMAYOR: No, no, no.  MS. WAGGONER: You can't -- JUSTICE SOTOMAYOR: Please show me a page on your website that's attached to your  petition. I'll start you on page 51.  MS. WAGGONER: Pages 53, 52, 54 -- JUSTICE SOTOMAYOR: Okay. But leave this -- MS. WAGGONER: -- 55, and 56 all represent an invitation and a celebration -- JUSTICE SOTOMAYOR: Fifty-three says "Our Photo Gallery." Fifty-four says "Funny Dating Story." How is that your story, your photo gallery? MS. WAGGONER: Fifty -- JUSTICE SOTOMAYOR: It's the couple's photo gallery. Page 54 is "Funny Dating Story." It's their story, not your story. I'm looking at every page, and, basically, it's the story of the couple. It's a date on page 51. Fifty-two is "Our Special Day." Fifty-three is RSVP. "Our Photo Gallery." Fifty-four is a funny dating story. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 17 Official - Subject to Final Review I keep looking at all of the mockups, and all of them relate to what Lilly and Luke are saying or doing, who they are, who are their grooms, who  aren't their -- who's their bridesmaids. I  don't understand. How is this your story? It's  their story.  MS.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether a wedding website violates the Compelled Speech Doctrine by compelling speech from the couple. Justice Sotomayor is questioning the attorney for the website, asking her to show how the website is anything other than the story of the couple. The attorney cannot provide a satisfactory answer.

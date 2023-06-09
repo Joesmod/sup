@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+me -- MS. WAGGONER: -- very well. JUSTICE SOTOMAYOR: -- what the clear line is. It's compelled -- MS. WAGGONER: The clear -- JUSTICE SOTOMAYOR: You're saying it's compelled speech, correct, not compelled service? MS. WAGGONER: I'm saying that in the public accommodation cases, this Court has routinely looked at whether there's speech and whether the message is affected and whether the objection lines up with the final speech. JUSTICE SOTOMAYOR: But the one -- one line -- MS. WAGGONER: That -- JUSTICE SOTOMAYOR: -- that you're missing is Justice Gorsuch's line. Whose speech Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 25 Official - Subject to Final Review MS. WAGGONER: The Pulitzer -- JUSTICE SOTOMAYOR: -- is the person  viewing it going to think is talking? You -- MS. WAGGONER: The Pulitzer Prize doesn't go to the customer or to the subject; it goes to the photographer, and there's a reason  for that. That reason is because you are  requiring that artist to speak a message. It is their work. It might also be the customer's and the customer can use that. But the First Amendment is broad enough to cover the lesbian website designer and the Catholic calligrapher. The line is that no one on any side of any debate has to be compelled to express a message that violates their core convictions because, as this Court found, it's demeaning to them. JUSTICE SOTOMAYOR: But the line you want us -- JUSTICE JACKSON: So can I -- JUSTICE SOTOMAYOR: I'm sorry. JUSTICE JACKSON: -- can I ask you a hypothetical that just sort of helps me to flesh that out? Because I also heard you suggest Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 Official - Subject to Final Review earlier that there's something different about  race, maybe the person wouldn't sell to someone of a different race.  So -- so suppose -- you say that photography
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss the line between compelled speech and compelled service. Justice Sotomayor asks if the person viewing the work will think is talking. Ms. Wagganer responds that the Pulitzer Prize goes to the photographer, and that the reason is because they are requiring that artist to speak a message. The conversation then turns to a hypothetical about race and selling to someone of a different race.

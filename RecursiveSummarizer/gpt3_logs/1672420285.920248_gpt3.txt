@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+citywide municipal sidewalk snow removal program and include the $750,000 pilot program in the upcoming city budget.  Thank you.  Thank you, Mr.  Frisch.  We'll now move to those witnesses here with us in person.  The first speaker is DeTonia Jefferson Dunbar.  Good morning, everyone.  Good morning.  I'm councilperson Peddell, would you please, if you would please sign this, pay our passes, amendment to plow the sidewalks because I'm in your ward.  I'm in third ward.  Also, I live in the Hilliers, which is in between the red line and the green line.  And because there are several businesses that have been closed down, when I'm headed toward the green line, I have to go on the street if the snow is allowed.  And that's extremely dangerous.  As well as the red line, going under the body, I guess, never plow.  If I need to go to the red line again, I have to get in the streets.  And even if I'm stuck, preferably a person will help me get out.  If not, I'm just stuck there.  And if you could just please pass this, apply the snow.  I'd appreciate it.  You've done so much for our community.  And I appreciate that.  I would appreciate it even more if you pass this.  It's very important because I don't want to be just confined to my house.  I do like to travel.  And I am sick in employment.  And I need to just be able to get out and about.  My ability to use the peer transit services is limited.  I have conditions on that.  So I do need the public transportation to get out and about.  Thank you so much.  Thank you, Ms Dunbar.  Thank you for coming down today.  Our next speaker is Cheryl Nell Lane.  While Ms.  Lane is moving forward to the mic, I want to acknowledge Vice Chair Silverstein, Alderman Knudsen, and Alderman Mitchell have joined us and for quorum.  And to remind the speakers that we have three minutes, you have three minutes and that you have to speak on all the items on the agenda.  If you've got other items on the agenda, please include them in your remarks.
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Citywide municipal sidewalk snow removal program

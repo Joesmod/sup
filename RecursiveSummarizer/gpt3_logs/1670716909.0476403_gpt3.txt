@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+you've been able to sustain that for seven years, that you're certainly in the larger, the group of larger, larger contractors.  You know the federal courts are so worried about, you know, minority firms getting too big or too rich that we didn't want to push it too far.  And I think that's a number that the city could could revisit over time.  You know, as it plays out.  So, you know, I think to be honest, you know, 150 160 140, you know, those are basically judgment calls but this seemed to us to be a pretty clean and straightforward way to address the fact that these are national standards.  And I think that's a point I'm talking about.  You know, we would not have to do that.  But I know for a city of our size and the complexity of the projects that the city of Chicago does.  We thought we could probably reasonably defend this number.  the components that we currently have, is that correct? Yeah, our suggestion is in some sense to leave well enough alone there.  The actual utilization has exceeded those numbers.  We're concerned that the federal courts, we could be attacked in federal court for overreach or raising numbers.  And in the end, what I think contractors care about are the goals that are in the specific solicitations.  And we're certainly recommending that the city use the current data that we can provide in the availability tables.  Happy to work with the city.  There is a goal setting module in the C2 system that I have personally worked with that vendor to put together to try to use disparity study data to provide a way to set narrowly tailored defensible contract goals.  And given the fact that overall the city has exceeded those goals, it just seemed to us the more prudent approach in this extraordinarily negative judicial climate to just, these are aspirational goals, they're overall, they don't really have anything to do with any particular contract.  And let's just leave well enough alone and concentrate on improving the implementation and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is currently meeting or exceeding its goals for minority contracting, but the federal courts are concerned that these goals may be too ambitious. The city should therefore focus on improving implementation rather than setting higher goals.

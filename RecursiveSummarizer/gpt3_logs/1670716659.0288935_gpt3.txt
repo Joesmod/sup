@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+what six digit industry codes they're in what race and gender they're in what services that they perform, where they primes, or where they subs.  So the utilization file really reflects the city's contracting activity.  And then of course in a disparity study what you what the courts require you to do is to compare that utilization to availability.  And so we also did that in the report.  How do you account for what do you think the reason is for the African American utilization numbers declining from the last disparity study to now.  Well, I have to be honest about it I wouldn't say that you really had any analysis close to what we did.  And I think that's what I would say in your prior reports from Dr Blanchflower.  So I really can't compare those.  He did not engage in that type of extensive utilization analysis I think he looked at a very tiny subset of contracts so I actually can't tell you why it might have been a very tiny subset of contracts.  And I'm not sure that it did because his previous work really did not have anything close to this breath and depth of information so I don't really know that there's a way to compare those two.  Yeah.  So, you know, in his study book or whatever he said that he just calculated all of the contracts from procurement that were let average from 2013 to 2014 and that's how he got to his so how did you get to yours.  And he looked at the contract records and went back and filled in all of the missing information so there's just simply no way that that that could have been done before.  And so we looked at prime contracts and subcontracts.  We actually didn't even need to sample.  We looked at all of the city's construction contracts for the five years study period so I really in that sense can't speak to what Danny did.  He like, he only looked at a tiny handful of contracts he didn't fill in any contract data you didn't go back and assign any codes.  So, I just really can't answer, you know, for what he might what his
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This person discusses the methodology used in the most recent disparity study, which was more comprehensive than the one used in the previous study. They note that the decline in African American utilization could not be accurately compared to the previous study.

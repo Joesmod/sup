@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+banners, Colorado may not force Ms. Smith to create and speak messages on pain of investigation, fine, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 5 Official - Subject to Final Review and re-education. I welcome this Court's questions.  JUSTICE THOMAS: Counsel, would you spend just a few minutes on whether or not this -- your case is ripe?  MS. WAGGONER: Sure. This Court has  considered pre-enforcement challenges before, and, in those contexts, it has looked at the  facts. This is one of the strongest pre-enforcement cases, I think, that this Court has considered in that the parties have stipulated every message that Ms. Smith would create has a unique, customized message and that it celebrates a wedding and celebrates a marriage. It's also difficult to imagine a scenario where there is a more aggressive enforcement history by Colorado. Ms. Smith's speech has been chilled. For six years, she has been unable to speak in the marketplace. She's ready to do so today, and she's ready to post her website statement today, which makes this case ripe. JUSTICE KAGAN: Ms. Waggoner, unless you're not through with that -- sorry. Your -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 6 Official - Subject to Final Review MS. WAGGONER: I'm through.  JUSTICE KAGAN: Okay.  MS. WAGGONER: Thank you.  JUSTICE KAGAN: Can I give you a  hypothetical? It's not really a hypothetical, because I happen to have two clerks in my chambers this year who are engaged, so, in looking at this case and preparing this case, I  looked at their websites. And so the hypothetical is about, like, I'm going to call it the standard website. They both have their names on it, the date of the wedding, a picture of the couple. Then there are a bunch of places that you can click to, and one is the schedule of events and the other is travel and hotel arrangements,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether or not the case is ripe. Ms. Waggoner argues that it is ripe because the parties have stipulated every message that Ms. Smith would create has a unique, customized message and that it celebrates a wedding and celebrates a marriage. She also argues that Colorado has a history of aggressive enforcement against Ms. Smith, which has chilled her speech for six years.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an explanation of the following and how it is a waste of the City's money:
+
+
+authorize the department of planning and development what will drive the department planning and development the authority to acquire the now vacant central arms hotel located at five eighteen through five twenty four east forty seven street and the adjacent vacant parcel located at five twenty six east forty seven street the subject properties in the third war and lies within the boundaries of the forty seventh in king tiff the third war alderman pat dale is aware of this request and is in attendance today to provide her support the first slide is the first site is a three-story brick mixed-use commercial residential property that was at one point time a sixty two unit s r o the building was vacated several years ago due to the poor condition of the units and mismanagement by the owner the building is in very poor condition in the need of significant renovations to be saved the second site is a vacant is vacant and directly adjacent to the central arms hotel it is the planning department's opinion that the two sites be considered as a single package in order to realize the best possible use the next three slides provide a street view for both sites the gross area of both sites is thirteen thousand eight hundred and sixty square feet and the current zoning is b one three both sites reside in the bronzeville invest south and west corridor in the grand boulevard community area where no fewer than eight projects are in various stages of development within a half mile of each other the taxpayer record for the central arms hotel is a san francisco based llc out of san francisco the taxpayer record for the vacant parcel is five twenty six east forty seven street both owners of record have been notified through certified mail the overall goal of the forty seventh in king redevelopment plan is to reduce or eliminate conditions that qualify the area's blight acquire buildings and land to facilitate new development attract private investment into the area in conclusion
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is proposing to spend money to acquire a vacant hotel and an adjacent vacant parcel, in order to redevelop the area. The hotel is in poor condition and would need significant renovations, while the vacant parcel is just empty land. The two sites together make up a total of 13,860 square feet. The owners of both properties have been notified of the city's plans. The goal of the redevelopment plan is to attract private investment and reduce blight in the area.

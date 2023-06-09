@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+learned from her years later was her passion for Latino theater.  And I did not know that she had moved from the Westtown Economic Development Movement and endeavor into working for the arts and trying to develop and solidify the Latino theater area in the city of Chicago.  And I also remember on a personal level, I mean, she used to, I mean, we used to have a very friendly, personal relationship.  And she used to tell me over the years, Vto? T mcora la mucho de mi primerepos? You remind me so much about my ex-husband.  Right? Junior Michel.  That's in Puerto Rican.  It's Michel, right? Junior Michel.  He used to, we used to call it Junior Michel.  I never met him.  I had never met him in my life.  But to me, I never asked her if that was good or that was bad.  I just left it at that.  But I always gonna remember Myrna as a very good personal friend.  We could, we possibly would not see each other for a year or two years.  And it was like seeing her and engaging in a conversation like if I had seen her the day before.  That's how engaging she was and how, and that was the type of personal impact she left upon you.  She would miss, you have a wonderful, beautiful mother.  And I know that you're gonna cherish it in your heart.  And I know that she's looking upon you right now as we speak.  Thank you, Audemars.  Any other members of the body that wish to speak to this resolution? The chair recognizes, Audemars-Lee.  Thank you, Madam President.  And I also rise in support of this resolution.  To Myrna's family, I had one opportunity to work with your mom a couple of times in a previous life, my job at United Airlines.  And I recall hearing the news of her passing suddenly and just thinking to myself, what a loss for our community.  You didn't need to know her very well to understand and feel all of the passion that she had for the work that she did.  That just oozed out of her.  So I wanna thank you for her and her contribution to this entire city.  We were talking
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Myrna was a passionate Latina theater artist who worked to develop and solidify the Latino theater community in Chicago. She was also a good friend, always engaging in conversation. She will be missed by many.

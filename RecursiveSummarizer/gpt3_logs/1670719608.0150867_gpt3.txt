@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+important to point out that if that artist were being asked to perform that song in a live way, for example, sang at a Democratic inauguration and they were asked to perform at the Republican one, under Colorado's theory, they could be compelled to do so in a number of jurisdictions. Nineteen jurisdictions have political ideology. And when we think about that, there's no limit to what the government could compel. JUSTICE BARRETT: Thank you. CHIEF JUSTICE ROBERTS: Justice Jackson? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 51 Official - Subject to Final Review JUSTICE JACKSON: But isn't an artist  typically sort of a -- a freelancer and they are  selling their own messages? They're not purporting to be a business for hire in -- in -- in any meaningful sense. And so I -- I want to kind of go back to Justice Kavanaugh's thought  of, like, where do we place your client as between, you know, restaurants and artists.  I thought that there really isn't that clear a distinction in a situation like this because your client is an artist for hire essentially. Yes, she does customize things, they're not off the shelf, but she purports to be a public accommodation providing customized things to anyone who pays her, except for people whose messages are those that she disagrees with. And I just don't know that I've ever seen that kind of scenario, even in the cases that you're talking about, because sort of what Justice Gorsuch was saying, it's -- it's relying on the implicit message that she does not want to convey by supporting this person. There's an explicit message in the actual work, but to the extent that actual work Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 52 Official - Subject to Final Review is identical to the -- to the work that she  would otherwise sell to the gay couple except  for their names, then she is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The artist in this case is a freelancer who provides customized services to anyone who pays her. However, she refuses to provide services to people whose messages she disagrees with. The question is whether she can be compelled to provide services to those people in 19 jurisdictions that have political ideology laws.

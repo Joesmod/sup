@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+recently the Managing Deputy of Finance and Human Resources.  Thank you for allowing me to join you this morning, and I look forward to partnering with you to deliver the best services for the City of Chicago.  Thank you very much.  I also want to acknowledge we've been joined by Alderman Moore and Alderman King to make up also towards our quorum, and we will start our questioning with Alderman Osterman.  Thank you, Madam Chairman, if you could add me to the role.  Ms.  Blakemore, I just want to commend you on your work with AIS, and I think that the department's got a lot of responsibility in addition to keeping our facilities, working with the various departments on the needs that they have with their expanding role.  One of them, and I'm glad Dr.  Awadie's in the box here today, is the issue of migrants who have come to Chicago that need a place to stay and to get on their feet in addition to those that are homeless in our city.  And I think that we've gotten correspondence.  Many of us who have homeless in our communities are looking for facilities.  I would like you as the head of AIS to get the various departments together to have people that are in the real estate industry under contract with the city go out and find places in Chicago that can house those, whether they're migrants, whether they're homeless, before it gets cold.  I think that there's a way that AIS can do this, and I just call on you to take a leadership role with the departments to get the specifics of what's needed so that it's a more efficient way to do it than reaching out to all of us.  And all of us, trust me, have kind of combed our communities, but I think looking at it citywide, I think that's a role that AIS would be is best suited to do, working with I think OEMC as well.  So we're at November 2nd or 3rd today.  It's going to be very cold.  So I think that the sooner the better, but I look forward to working with you as a chairman of the Housing and Real Estate Committee and look
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+finance, human resources, city of Chicago, alderman, quorum, migrants, homeless, real estate, AIS, OEMC, chair

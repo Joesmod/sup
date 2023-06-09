@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 110 Official - Subject to Final Review What I want to begin with today is to explain why that way of approaching the problem  is also inconsistent with this Court's cases, most notably Rumsfeld versus FAIR, which you mentioned, Mr. Chief Justice. That case was not just about access to the law schools' rooms. The law schools had a separate claim that said we provide other services to recruiters in the  form of e-mails, newsletters, other things of that nature. And this Court did not disagree. It said those things are clearly speech. And the law schools also said, when we are required to provide those services to the military, it changes our message because it forces us to support a cause we deeply oppose. And this Court did not disagree. Instead, it said that compulsion of speech is permissible because it's incidental to a content-neutral regulation of conduct and that law schools are required to speak only if and to the extent they would provide the same speech for others. I welcome the Court's questions. CHIEF JUSTICE ROBERTS: I do think the Court in -- in Rumsfeld was dealing with the Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 111 Official - Subject to Final Review sort of compulsion that is significantly  different from the compulsion here. In what  other case have we upheld compelling speech, in other words, not simply just restricting speech but actually compelling an individual to engage  in speech contrary to her beliefs?  MR. FLETCHER: So I think, Mr. Chief Justice, Rumsfeld really is one of those cases.  And I want to emphasize that the law schools there really did have a very credible claim, I think, that they deeply opposed the military's policies and that -- CHIEF JUSTICE ROBERTS: Well, they opposed the military's policies, but all they really had to do was give them an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker explains that the Supreme Court's decision in Rumsfeld v. FAIR was based on the fact that the law schools in that case were required to provide the same speech and services to the military as they would to any other recruiter, and that this was incidental to a content-neutral regulation of conduct.

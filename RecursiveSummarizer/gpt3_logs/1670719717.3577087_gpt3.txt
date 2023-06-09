@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+discrimination against same -- gays and lesbians because status and conduct is  inextricably intertwined.  The public accommodations laws and the  anti-discrimination laws generally don't work that way in general. We don't think that the expression of particular views is inextricably intertwined with having a particular religion or being a Democrat or a Republican. In general, in public accommodations laws, we say, when you discriminate against someone because they want you to print a website or serve an event or cater an event for something that you disagree with, we wouldn't say that that's a status-based refusal. And I think that's correct. I -- I don't think -- JUSTICE BARRETT: So this is a carveout that's applicable just to the same-sex context? MR. FLETCHER: I think it's a context -- it's like the Court's recognition in Bray Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 126 Official - Subject to Final Review that a tax on yarmulkes is a tax on Jews. There  are certain rare contexts where status and  conduct are inextricably intertwined, and I  think the Court has rightly recognized that  same-sex marriage is one of them.  JUSTICE BARRETT: Thank you.  CHIEF JUSTICE ROBERTS: Justice  Thomas?  Justice Alito? JUSTICE ALITO: I want to make sure I understand some of the contours of your argument. So my first question is whether you believe that speech can be compelled so long as the person who is compelled to speech -- to speak is -- is not associated with the compelled speech. MR. FLETCHER: That's not the line that we draw, Justice Alito. I think we focused on is it being compelled pursuant -- incidental to a content-neutral regulation of conduct as in FAIR or is it not. JUSTICE ALITO: Well, outside of that context, in general, does the prohibition or restriction of compelled speech apply only where there is no danger of attribution? Heritage Reporting Corporation
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker argues that discrimination against gays and lesbians should not be allowed under public accommodations laws, because the expression of particular views is not inextricably intertwined with having a particular religion or being a Democrat or a Republican.

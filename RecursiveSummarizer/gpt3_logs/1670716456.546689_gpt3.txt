@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+proposal or price proposal, they submit that to DPS.  So we review it, and we look at that point, the compliance plan that's being proposed, and if it doesn't meet the goals of the, if that particular project is in compliance with the goals of the project, then the contractor is required to submit a letter with that proposal, saying that the reason why they can't meet it, and that they also have a letter of intent to meet it on future projects.  Now, there's also slides there regarding all the current city of Chicago JOC contractors for the user department, the name of the contractors, and a brief description of the type of work that's under this JOC.  And the time-log.  Can this slide be made bigger? Are these the 12, you have 12 contracts on the screen currently, are those all of the JOC contracts that the city holds? Yes, sir.  Okay.  And this will be shared with the committee, right? Yes, we'll get a copy of the presentation and share it with members.  Can we expand the, or is it just me? Because I can't read anything on that screen, and I have on glasses.  You know what? I have a fairly large screen, so I could understand it maybe a little smaller on that.  And I think that if you could walk through, Mr.  Whitaker, the contracts, or Ms.  Falesqui, as we could walk through the contracts that exist, these 12 contracts, and their purposes, and their various certifications.  Okay, I'll do that.  Okay.  Can everybody see the screen now? I mean, the list? Yeah, the list is on the screen.  Go ahead.  Okay, the first one, for the Department of Water Management, their prime contractors is Anchor Mechanical, and they utilize their jocks for site work, mechanical and electrical work, and things of that nature.  So that contract's specific to that project description.  The second one is Ashlaw Construction as the prime contractor, and that's for the Department of Transportation.  That contract is utilized for flat work, flat work and site work, which kind of like is
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago has 12 JOC contracts with various contractors for different types of work. The contracts are reviewed by DPS, and if they don't meet the goals of the project, the contractor is required to submit a letter explaining why and outlining their intent to meet the goals on future projects.

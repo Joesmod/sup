@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+subcontractors.  And then our third source of overall business availability was Hoover's, which is what Dun & Brass street is now called because of course, availability is a percentage.  So that means if you have your numerator is minority owned firms, you have to have something as your denominator of all firms that fit within those parameters.  So, D&B is of course a well accepted and certainly traditionally accepted which obviously is important source of business information.  It is also comprehensive and it is reasonably current to about 90 days.  So this is the overall business universe that we've used in all of our studies for three years now, and that we used in the successful defense of many clients cases, including that for the Illinois Tollway a couple years ago.  So those were our three sources of availability.  In the study we provide two different types of analysis of availability.  We have what you might call current headcount, which is just a straight who's out there now, but we also using an analysis of disparities in the Census Bureau's American Community Survey came up with an estimate of what availability might be or expected availability if some of these discriminatory barriers were reduced.  So trying to get at the point of or the question of what would availability look like but for these barriers or but for discrimination.  So sometimes called a but for analysis.  So you see in the report that we do provide both estimates of availability, both current and count as well as expected availability.  Okay.  And how does how does that relate to the utilization number, the availability, or, or does it, or do you just directly count the utilization from a particular year or.  Well we looked at five years worth of data from the city for the its utilization of minority and women owned firms both as prime contractors and subcontractors on associated contracts.  So again, that's that's essentially going to count who got got got contracts, who they were,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This study provides an analysis of the availability of minority- and women-owned businesses in the city, as well as the utilization of those businesses by the city over a five-year period. The study found that while the number of minority- and women-owned businesses has increased, the city has not been utilizing them to their full potential.

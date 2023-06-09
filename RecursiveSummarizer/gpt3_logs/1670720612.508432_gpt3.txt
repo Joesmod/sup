@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a dollar amount and what the spending is for of the following:
+
+
+with you, Sandra.  Thank you very much, Alderman.  Thank you, Alderman.  I want to acknowledge Alderman Coleman, a non-member who joined us this morning.  Next questions come from Alderman Solowski Garza.  Thank you, Chairwoman.  Commissioner Blakemore.  Well, hello.  I know you've been here for a while.  I just have a quick question about technology.  So all of our offices pay for phones.  We pay for printers.  And we all pay different amounts.  This is something that we talked about four years ago.  I know you weren't here, but is there a way that the city can kind of maybe bundle? Now I sound like the progressive commercial, but can we get a better price for printers and for phone service? Because it runs the gamut on what each of us pay.  And I think that if we can get 50 offices under one roof for printers and phones, it might be a huge cost saving to the city.  Yes, Alderman.  I would like the opportunity to look at that because I believe in leveraging the power of the city of Chicago to get better pricing for us.  We really need to really push leveraging our economies of scale.  So I'd like the opportunity to look at how we can get better pricing on technology, equipment, and services for the award offices.  Awesome.  Anything that I could do to help, please let me know.  Maybe you could start by asking each Alderman what they pay for their phone systems and their printers or something.  So that's all.  Thank you and welcome aboard.  Thank you.  Thank you, Alderman.  Alderman Capelman.  Madam Chair, good morning.  I'm a former Franciscan friar and I say that because a lot of religious orders are going way down in numbers.  And that means that we have a lot of rectories and convents that are now vacant.  So I would just also support what Chairman Osterman is saying.  We desperately need housing, especially for those people living on the streets.  I think the Roman Catholic Church's mission to help those who are most vulnerable ties in with our mission as well.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Alderman Capelman proposes spending money to convert vacant rectories and convents into housing for the homeless.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+date and time of the next meeting.  I've handed up to the clerk and ordinance that said in the dating time with the next meeting.  Mr.  Clerk, please read.  Moved by the city council of the city of Chicago, section one, the next regular meeting of the city council of the city of Chicago shall be held on Wednesday January 18 2023 beginning at 10 o'clock in the city council chamber on the second floor and city hall 121 North LaSalle Street Chicago Illinois section to disorder shall take effect and being forced from and after its passage.  Order, or the Mitchell the omnibus.  Madam President move that matters in the omnibus be passed by the most first most favorable roll call vote by the Committee on Finance and the associated unsuccessful motion to reconsider.  So, so ordered and ladies and gentlemen before we adjourn let me remind you that I am treating you for a holiday lunch immediately after city council here, each drink and be married.  Thank you.  All of them in Mitchell and emotion to adjourn, Madam President, there being no further business before this body I move that we adjourn.  There are no objections so ordered.  Merry Christmas.  Happy New Year.  Happy Kwanzaa.  Happy Hanukkah.  Thank you.  Thank you.  Thank you.  Thank you.  Thank you.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The next regular meeting of the city council of the city of Chicago shall be held on Wednesday January 18 2023 beginning at 10 o'clock in the city council chamber on the second floor and city hall 121 North LaSalle Street Chicago Illinois section to disorder shall take effect and being forced from and after its passage.

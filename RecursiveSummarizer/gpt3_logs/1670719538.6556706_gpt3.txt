@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+anything but creating a speech. And when you switch out those names, you're switching out the concept and the message that is actually in the website. Think of an example Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 12 Official - Subject to Final Review JUSTICE SOTOMAYOR: Where?  MS. WAGGONER: -- of "God bless this  marriage."  JUSTICE ALITO: Suppose that be a -- JUSTICE SOTOMAYOR: Well, that's -- that's a particular message. But I looked to your proposed website, and turn to page 51. It  says Save The Date, Lilly and Luke, November 17,  2017. So what's the message if it says, Save The Date, Lilly and -- Lilly and Lillian or Lilly and Mary? What's the message there? MS. WAGGONER: That's an invitation to celebrate a marriage, and -- JUSTICE SOTOMAYOR: But why is it your invitation? I go to a wedding website. It's something that I send, meaning you, your client, I send it to my family and friends or Lilly and Luke send it to their family and friends. You don't send it. They go to this website. You're not inviting them to the wedding. Lilly and Mary are. So how does it become your message? MS. WAGGONER: In the same way that it is the message of a ghostwriter who writes an anonymous press release or a book. It is still Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 13 Official - Subject to Final Review that writer's speech. The whole point of the  Compelled Speech Doctrine is to ensure that in  JUSTICE SOTOMAYOR: So what's the  limiting line of yours -- of yours? Justice  Kagan asked you about another website designer. But how about people who don't believe in interracial marriage or about people who don't believe that disabled people should get married? What's -- where's the line? I choose to serve whom I want. If I disagree with their personal characteristics, like race or disability, I can choose not to sell to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about a wedding website designer who is being sued for refusing to create a website for a same-sex couple. The designer argues that she should not be forced to create speech that she disagrees with. The justices ask whether there are any limits to this argument, and the designer says that she should not be forced to sell her services to anyone she disagrees with.

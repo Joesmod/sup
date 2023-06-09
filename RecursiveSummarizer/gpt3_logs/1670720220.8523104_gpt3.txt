@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a short summary of the following in a style that a second grader could understand:
+
+
+situations and cases that are not religious.  In the US, there is a debate about whether or not people should be forced to participate in same-sex weddings if it goes against their religious beliefs. Some argue that website designers, for example, should not be forced to design websites for such weddings because it violates their right to free speech.  The Supreme Court is hearing a case about whether a Colorado law requiring designers of websites to sell their services to same-sex couples violates the designers' right to free speech. The argument is that the websites are customized for each couple, and therefore the artist is expressing a message by designing them. However, the other side argues that since the websites are just a product and not actually expressive, the artist should not be required to sell them to everyone.  The Supreme Court is hearing a case about a same-sex couple who was denied service from a wedding website company. The company is arguing that they should be allowed to deny service to same-sex couples because it violates their freedom of speech. However, the Supreme Court has previously ruled that public accommodation laws apply to all businesses, regardless of their type of service. Therefore, the company should not be exempt from these laws.  The conversation is between two people discussing a law that states businesses cannot discriminate based on sexual orientation. The first person asks if a website designer who puts a message on their website that they do not serve same-sex couples is violating the law. The second person responds that the website designer is not violating the law because they are not turning away same-sex couples, they are just choosing what services to offer.  In Obergefell, the justices discuss whether a business can refuse to serve a customer based on race, sex, religion, or sexual orientation. Mr. Olson argues that there is no protected characteristic anywhere that would allow for this type of discrimination. The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether it should be against the law for businesses to discriminate against people based on their sexual orientation. Some people argue that businesses should be allowed to deny service to same-sex couples because it violates their freedom of speech. However, the Supreme Court has previously ruled that public accommodation laws apply to all businesses, regardless of their type of service. Therefore, the company should not be exempt from these laws.

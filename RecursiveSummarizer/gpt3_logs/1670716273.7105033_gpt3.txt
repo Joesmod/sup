@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Americans here in the Chicago area.  It poses serious harm, not just to our community here, but to our city.  Here's some comparisons from their study between Arab Americans and non Latin Latinx Latin Latinx whites in the Chicago metropolitan area survey show that Arab Americans with bachelor's degrees or higher, do not generate incomes commensurate with their education.  College educated Arab Americans are 11% less hourly wage and Arab Americans were paid 13% less than similarly situated non Latinx whites.  The wage gap between non Latinx whites and Arab Americans has more than doubled, doubled in the last decade, going faster than all other racial groups Arab Americans medium household income as declined by over a third in the past decade.  The largest decline of any ethnic racial group in metropolitan Chicago.  The medium household income of Arab Americans was roughly 21,000 below the overall Chicago land population.  What does this mean? It means that Arab Americans in Chicago metropolitan area are 23% more likely to live in poverty and 11.5% more likely to lack health insurance.  This impacts the city.  This data shows that the economic situation in our community is deteriorating, and that we need to have access to a full range of occupational and business opportunities to stop this economic slide.  These poor economic outcomes are likely due to discrimination.  We face in a wide range of industrial and occupational sectors.  Now, we are told from time to time, and time again, that there's no quantitative data there's qualitative data of hate crimes and so on, but there's no quantitative data available documenting the economic status of Arab Americans, and therefore Arab Americans cannot make their claim of what we all know to be discrimination.  It is true we are missing many quantitative data sets, which prevent us from being considered a recognize or presumed minority.  However, when we ask governments institutions and agencies to begin collecting this
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study compared Arab Americans and non Latinx whites in the Chicago metropolitan area and found that Arab Americans with bachelor's degrees or higher do not generate incomes commensurate with their education. Arab Americans were paid 13% less than similarly situated non Latinx whites. The wage gap between non Latinx whites and Arab Americans has more than doubled in the last decade. The largest decline of any ethnic racial group in metropolitan Chicago. Arab Americans in Chicago metropolitan area are 23% more likely to live in poverty and 11.5% more likely to lack health insurance.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Anybody else that has joined us? Okay, go ahead Commissioner Velasquez.  Thank you.  Thank you Chairman Ervin.  Good afternoon.  I'd like to thank Alderman Ervin and Alderman Sawyer for their support of the proposed amendment to the ordinance.  The proposed amendment is meant to promote equitable employment opportunities for a greater number of eligible residents and to provide contractors and subcontractors with a larger pool of qualified individuals from which to staff your workforce whose hours will count towards the new requirement.  The proposed amendment removes the project area residency requirement replacing it with a new requirement which stimulates that the total hours worked on the project must be performed by residents of social economically disadvantaged areas for projects that located in a socially economically disadvantaged area.  The contractor and subcontractor can staff their workforce with individuals who are from any area of the designation, within the designation and their work hours will count towards the requirement.  Additionally, the proposed amendment aligns closely with Mayor Lifer's old workforce position.  Thank you.  Thank you.  Also joining us, we have Jay Rao from Hire 360, Mike Masileo from the Building Trade Council as well as our industry individuals.  I do have a hand up for Alderman Austin, go ahead.  Thank you, Mr.  Chairman.  Commissioner, are you saying that for the requirements that we already have in place, you wanna replace that with the new one and saying that you can take the workers from anywhere and not from any designated community? Oh, the workers will be taken from social economic disadvantaged areas, not anywhere, only social disadvantaged economic areas.  So if they're working in the 10th Ward and you're saying that they don't have to utilize residents from the 10th Ward, they can utilize residents from the ninth, the eighth, the 13th, they anywhere.  If there are social disadvantaged, economic be disadvantaged
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The proposed amendment to the ordinance removes the project area residency requirement and replaces it with a new requirement that the total hours worked on the project must be performed by residents of social economically disadvantaged areas. The contractor and subcontractor can staff their workforce with individuals who are from any area of the designation, within the designation and their work hours will count towards the requirement.

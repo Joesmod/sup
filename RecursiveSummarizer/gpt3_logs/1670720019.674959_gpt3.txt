@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+struggling to find a way to draw the line between gay marriage and other types of discrimination.  The conversation is between Justice Sotomayor and Ms. Waggoner, a lawyer. Justice Sotomayor is questioning Ms. Waggoner about why she should be allowed to refuse service to a gay couple. Ms. Waggoner argues that the Compelled Speech Doctrine does not apply in this case because the speech is already in the public domain. She also argues that there are 20 states that have filed an amicus brief in support of her position.  The lawyer for a Colorado baker who refused to make a cake for a gay couple's wedding argues that her client's actions are protected speech under the First Amendment. Justice Sotomayor points out that the baker is essentially saying that she does not want to serve gay couples, just as a restaurant in a previous case said it did not want to serve black people. The lawyer argues that the baker is not trying to send a message through her conduct, but Justice Sotomayor says that she is being asked to shape her speech by a third party.  The Chief Justice asks whether a website that is only available to heterosexual couples could be constitutionally be applied under the Colorado statute. The lawyer for the case responds that the speech could be compelled if the only indication of any limitation was a tag line at the end saying these services are for heterosexual couples only. The Chief Justice then asks what if the website said that it would not provide services for anything other than heterosexual marriages because of religious reasons. The lawyer responds that the religious basis is not determinative here and that the Compelled Speech Doctrine applies in a host of situations and cases that are not religious.  The Supreme Court is hearing a case about a wedding photographer who refused to serve a same-sex couple. The photographer argues that she should be allowed to refuse service based on her religious beliefs. The justices are questioning whether the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about a wedding photographer who refused to serve a same-sex couple. The photographer argues that she should be allowed to refuse service based on her religious beliefs. The justices are questioning whether the Compelled Speech Doctrine applies in this case. The lawyer for the case argues that the speech could be compelled if the only indication of any limitation was a tag line at the end saying these services are for heterosexual couples only. The Chief Justice then asks what if the website said that it would not provide services for anything other than heterosexual marriages because of religious reasons. The lawyer responds that the religious basis is not determinative here and that the Compelled Speech Doctrine applies in a host of situations and cases that are not religious.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Amendment rights that artists possess. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 44 Official - Subject to Final Review But then, at least as I read the briefs, the case comes down to a fairly narrower -- narrow question of, how do you characterize  website designers? Are they more like the restaurants and the jewelers and the tailors, or are they more like, you know, the publishing  houses and the other free speech analogues that are raised on the other side?  That's what I took away from the briefs. A lot of agreement on broad legal principles and some disagreement about how to characterize the website designers. So why are you right about how you characterize website designers or, put another way, why are they different -- and you've gotten this question -- but why are they different from, say, restaurants or caterers, for example? MS. WAGGONER: Because they're creating speech. In those other examples, speech is not at issue, that is creating speech, announcing a wedding, or announcing anything. And art is different. And so, while there may be agreement on that, there also is a problem with Colorado's advancing theories that keep narrowing and providing alternatives. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 45 Official - Subject to Final Review But, in the end, one thing is certain:  Those who object to same-sex marriage and creating messages about them, those are the ones that can't speak, but everyone else seems to be able to do so under Colorado's theory.  In addition, this Court has already articulated how we determine whether speech is involved for an artist, and I think the Court could follow those tests here, with words, graphics, videos, and, again, symbolic speech. JUSTICE KAVANAUGH: So, for you, as -- as there's an effort to protect both the equal rights of gay and lesbian people and same-sex
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between two people discussing a court case involving gay marriage. One person argues that website designers should not be compared to restaurants or caterers because they are creating speech, while the other person argues that everyone should be able to speak under Colorado's theory.

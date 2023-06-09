@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+supplies Election-Related Legislation: Making the use of vote centers permanent  Early voting sites as vote centers on election day within Chicago  100 early voting sites  Early Voting Sites  $100,000 for advertising and increased staffing for election day  Marketing for upcoming election  $1.5 Million for New Voting Machines Aldermanic Resolution to Support Proposed Legislation to Create a Voter Database  $16 million from the federal emergency management agency for the emergency food and shelter program.  The Department of Housing is requesting to accept additional federal grant funds in the amount of 8 million 345,000 from the US Department of Treasury for the emergency rental housing assistance program, additional funds will be used to provide rental assistance payments to tenants and landlords under the federal emergency rental assistance program, and in particular court based programs. The Department of Public Health is requesting to accept additional federal grant funds in the amount of 644,000 from the US Department of Health and Human Services for the building epidemiology and health it capacity program, also known as epidemiology and laboratory capacity for infectious disease program.  Body Art and Tanning Inspection Program Budget Proposal: HIV Behavioral Surveillance Program Budget Proposal: Lead Hazard Reduction Program  Free Exposure Prophylaxis Program Budget Proposal: Grant for Training and Services to End Violence Against Women with Disabilities Budget Proposal: Transit and Homeless Support Program  $2 million for CTA outreach to homelessness Budget Proposal: $0 for MPV response  HUD Lead Hazard Reduction Program  2023 annual appropriation ordinance  -Create a separate office for the mayor with various responsibilities as outlined in the management ordinance -10 positions budgeted for this office, including the chief sustainability officer, grants research specialists, and project managers -Division within the office of the mayor that will serve as
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Transit and Homeless Support Program HUD Lead Hazard Reduction Program 2023 annual appropriation ordinance

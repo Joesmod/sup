@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+you know, that every single day, there are officers across the city, in every district, every unit, every watch, who are doing these kinds of acts of kindness, going above and beyond, connecting with people in the community and showing their true humanity.  So I wanna thank you for being a shining example of what our officers actually are.  And I joined the call of Alderman Talley, a federal and Alderman Spizzato to say, media, please tell that story.  Because these are stories that are happening every single day across our city.  Our officers are heroes.  And importantly, they're our neighbors.  They're our brothers or sisters, their fathers, their mothers, and they need to be treated with the respect that they deserve for running towards danger to protect us.  So officers, thank you so much on behalf of a grateful city and on behalf of a Marian.  And I also wanna talk about the principles.  The principles has been on the front lines for the last couple of years.  They never left their buildings when we want to remote learning.  Because I had to make sure that teachers were supported, that the cafeteria workers, the janitors, the security officers, that the buildings were ready were when students came back.  So principal Escamilla, I just wanna say, thank you, sir, for doing what you're doing, for making sure that your school is strong and standing up in the face of very, very difficult circumstances, our principals across the system at the elementary school level and the high school level deserve our thanks for everything that they've done to make sure that our students were still able to be, to learn, to be nurtured and fed in a safe and welcoming environment.  So it is like a parable where we see all the parts of the goodness of the world coming together.  Bless you, happy holidays and thank you for your service.  Thank you.  Thank you.  Yeah.  Okay.  Thank you.  Thank you.  Thank you.  Thank you.  Thank you.  This is Alderman Mitchell.  Madam President, I move
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Chicago Police officers are doing acts of kindness every day, going above and beyond to connect with the community. Alderman Talley and Spizzato are calling on the media to tell these stories, because they show the true humanity of officers. Principal Escamilla is also doing an amazing job supporting teachers and students through remote learning.

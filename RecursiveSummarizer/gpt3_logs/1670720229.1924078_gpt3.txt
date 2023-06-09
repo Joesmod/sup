@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a short summary of the following in a style that a second grader could understand:
+
+
+public after viewing her website.  The conversation is about whether or not a state can broadly define a public accommodation, and whether there are limits to how far the state can go in defining what is a sufficiently substantial interest to justify scrutiny under the O'Brien test.  This is a conversation between Justice Kagan and Mr. Fletcher about whether businesses should be able to discriminate against customers based on the business owner's beliefs. They discuss a hypothetical case in which a woman is asked to say "God bless this union" as part of her job, and Justice Kagan says that she would come out one way if the woman was only asked to say the words, but she might come out the other way if the woman was being asked to do something else as part of her job. The conversation then discuss a case in which a woman is refusing to provide websites for same-sex marriages, and they discuss whether or not this type of relief is appropriate.  This conversation is between Justice Gorsuch and Mr. Fletcher regarding the case of Ms. Smith, a Colorado baker who refused to make a cake for a same-sex wedding. Justice Gorsuch asks whether the outcome would be different if the protected status was changed, and Mr. Fletcher responds that it would still be discrimination. Justice Kavanaugh then asks about a hypothetical in which Muslim filmmakers are required to promote Scientology, and Mr. Fletcher says that it would still be discrimination. This conversation is about a hypothetical situation in which a writer is being forced to write a speech that violates their deeply held convictions. The question is whether or not this hypothetical situation is the same as the case at hand, in which a speech-writing business is being required to apply a public accommodations law. Fletcher argues that the two situations are not the same, because in the hypothetical situation, the writer is being directly compelled to write something they disagree with, while in the case at hand, the speech-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This is a conversation between two people about whether businesses should be able to discriminate against customers based on the business owner's beliefs. They discuss a hypothetical case in which a woman is asked to say "God bless this union" as part of her job, and Justice Kagan says that she would come out one way if the woman was only asked to say the words, but she might come out the other way if the woman was being asked to do something else as part of her job. The conversation then discuss a case in which a woman is refusing to provide websites for same-sex marriages, and they discuss whether or not this type of relief is appropriate.

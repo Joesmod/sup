@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+with that, Justice Gorsuch. I think the way we answer any status-based discrimination question is we change the protected status, we hold everything else constant, and we ask does the outcome change. And in Ms. Smith's case, you change the protected status, it's, you know, Jack and Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 143 Official - Subject to Final Review Taylor, and you ask will she make the website -- JUSTICE GORSUCH: Except for that runs  into all those stipulated facts in which the  plaintiff has said repeatedly that she will serve everyone and she would deny everyone this  kind of website.  MR. FLETCHER: But denying everyone,  whether it -- it -- it's -- JUSTICE GORSUCH: Everyone, regardless of status. MR. FLETCHER: Right, but it -- it's JUSTICE GORSUCH: Right? MR. FLETCHER: -- race discrimination to say I won't serve interracial -- I won't create inter -- websites for interracial marriage and I won't sell them even to a white wedding planner. That's still race discrimination. JUSTICE GORSUCH: It can be -- it can be status or it can be message, and we have to figure that out in this case, right? MR. FLETCHER: What I -- but the way you would figure it out is, does -- has Colorado validly defined it as status-based Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 144 Official - Subject to Final Review  discrimination, and I think the answer that the  Court gave at pages 1727 to 1729 in Masterpiece  is yes.  JUSTICE GORSUCH: Okay. Got it.  Thank you.  CHIEF JUSTICE ROBERTS: Justice  Kavanaugh?  JUSTICE KAVANAUGH: I just want to  follow up there and ask about one thing in your brief. On page 32 of your brief, you deal with a few hypotheticals. The hypotheticals you dealt with were requiring Muslim filmmakers to promote Scientology, compelling lesbian artists to design church websites criticizing same-sex
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justice Gorsuch and Mr. Fletcher regarding the case of Ms. Smith, a Colorado baker who refused to make a cake for a same-sex wedding. Justice Gorsuch asks whether the outcome would be different if the protected status was changed, and Mr. Fletcher responds that it would still be discrimination. Justice Kavanaugh then asks about a hypothetical in which Muslim filmmakers are required to promote Scientology, and Mr. Fletcher says that it would still be discrimination.

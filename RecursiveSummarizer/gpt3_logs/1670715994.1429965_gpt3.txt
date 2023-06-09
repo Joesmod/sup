@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+ We will have Kennedy Bartley start us off.  Mr.  Bartley.  Hey, good morning everyone.  Can you hear me? Yes, we can.  Okay, good morning.  Thank you.  Hi, y'all.  As the chairman said, my name is Kennedy Bartley and I am here in support of the budget amendment for the Chicago Social Justice Memorial that was introduced a couple of weeks ago and sent to the budget committee be heard.  During the agenda item 7A that will hear the series of proposed corrections and revisions to the 2023 budget recommendations.  This is a budget item properly.  It's not an item that should be heard outside of the context of the budget.  When we are thinking about a year where we have a surplus where we're able to give upwards of $220 million.  Additionally, the pensions were able to sit on a couple of billion dollars of ARPA funds.  The money is there.  The priorities have to be.  The Chicago Social Justice Memorial was one seven years ago in 2015 when a historic legislation for reparations of survivors of police torture was one.  Seven of the eight demands have been fulfilled and still there is no memorial.  I work with survivors every day.  I work with survivors every day.  I'm watching survivors get older.  Survivors are watching each other pass away.  Their families pass away.  This is justice to not.  When we say survivors of police torture, we're talking about predominantly black folks and Latinx folks being cattle prodded, electrocuted, suffocated, called every racial slur in the book.  These are folks who day after day wait for city council to do the right thing, wait for the county to do the right thing, wait for the state to do the right thing and are slapped in the face day after day again because justice delayed is justice denied.  Folks deserve to see the monument that acknowledges the decades of denial of torture commemorated.  A survivor said to me not long ago, why does it feel like we're climbing up a mountain that we're supposed to already be on top of? This torture
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The budget amendment for the Chicago Social Justice Memorial was introduced a couple of weeks ago and is scheduled to be heard during agenda item 7A. The memorial is for survivors of police torture, predominantly black and Latinx folks. A survivor said to me not long ago, why does it feel like we're climbing up a mountain that we're supposed to already be on top of? This torture

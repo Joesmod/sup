@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Community Survey. There is concern that the map does not accurately capture all residents, particularly undocumented immigrants.  The city ordinance being discussed stipulates that a certain percentage of workers for city projects must come from the local community. Alderman Villegas asks why the number is 25%, and is told that it is the lowest quartile of income earners in the city. There is no specific cutoff for the 25%, it is just the lowest quartile.  Higher 360 is a new organization that aims to help eradicate poverty in Chicago by providing guaranteed basic income to low-income residents. DPD is working on a project to map out what areas would be most helped by this initiative. However, as the area expands, the ability to lift people out of poverty decreases.  The Chicago Infrastructure Trust is working to ensure that the $100 billion in mega projects coming to the city over the next 10-15 years is done equitably and inclusively. They are doing this by scaling up diverse contractors and suppliers, and by working with schools and community organizations to encourage young people to enter the trades. They are also working with workforce development partners to help recruit individuals from socioeconomically disadvantaged areas and connect them to work.  The ordinance being discussed would give preference to socioeconomically disadvantaged individuals when awarding construction contracts. The project area would be defined as the area where the construction project is taking place.  The proposed ordinance defines "project area resident" as a person who lives in the part of the city designated as the project area in the information for bidders issued by the Department of Procurement Services. This allows for a more objective view of who is considered a project area resident, rather than relying on the Department of Planning's definition.  The city of Chicago is changing its requirements for contractors to include more socioeconomically disadvantaged individuals,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is discussing an ordinance that would give preference to socioeconomically disadvantaged individuals when awarding construction contracts. The project area would be defined as the area where the construction project is taking place, and "project area resident" would be defined as a person who lives in the part of the city designated as the project area in the information for bidders issued by the Department of Procurement Services. This allows for a more objective view of who is considered a project area resident, rather than relying on the Department of Planning's definition.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+call vote.  Vice Chair Silverstein.  Alderman King.  Alderman Harrison.  Alderman Sawyer.  Alderman Mitchell.  Alderman Harris.  All she said I all the men so last week ours.  Alderman Lee.  Alderman card in us.  Alderman Quinn.  Alderman more.  Alderman Curtis.  Alderman O'Shea.  Alderman brookins.  Alderman Rodriguez.  Alderman to bars.  Alderman Scott.  Alderman Burnett.  Alderman urban.  Alderman tally a feral.  Alderman Alderman the palatano Alderman Riley.  Alderman Knudsen.  Alderman Tony.  Alderman capital men.  Alderman Osterman.  Chairman Dowell votes I.  Alderman Mitchell votes I.  All right.  Everyone I miss.  Okay, the eyes have 18 to 12 items.  Seven a and seven b on the agenda passes and will be reported out at the next City Council meeting on Friday.  Item number eight on the agenda and ordinance concerning expenditures of 2023.  This ordinance will be explained by budget director Susie Park.  Thank you chairman item number eight.  As you stated as an ordinance approving the expenditures of the portion of the state motor fuel tax funds that has been or may be allocated to the city for the period of January 1st 2023 and ending December 31st 2023.  Thank you.  Thank you.  I want also want to acknowledge Alderman Burke who has joined us and as a non member.  Any questions on this matter.  Is there a motion to recommend approval.  So moved by Alderman Harris.  All those in favor signify by saying aye.  Aye.  All those opposed.  In the opinion of the chair the ayes have it.  The do pass recommendation of item eight will be reported out at the next city council meeting.  Item number nine on the agenda is an ordinance approving an intergovernmental agreement with the Chicago Transit Authority in Cook County for the allocation of motor fuel tax funds to the Chicago Transit Authority as year 2023 matching grant pursuant to regional transportation authority act.  Susie Park.  Thank you chairman.  Item number nine is an ordinance approving an intergovernmental
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City Council is voting on a number of items, including expenditures for the year 2023. One item is an agreement with the Chicago Transit Authority for the allocation of motor fuel tax funds to the Chicago Transit Authority as a year 2023 matching grant.

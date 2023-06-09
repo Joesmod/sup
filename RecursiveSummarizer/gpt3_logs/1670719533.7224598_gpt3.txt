@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+mean, you know, just like -- I -- I mean, I have to think that your client does something similar. You have lots of graphics, you have, you know, typefaces, and, you know, maybe, you know, some are a little bit more you talk to the client and some are a little bit less you talk to the client. But, basically, you know, clients are coming in and they're saying, we just want a standard website, you know, that tells people where to stay and what -- how to travel there and -- and, you know, what our favorite things to do are. And -- and the question is, can a website designer say, sorry, that's not my kind of marriage? MS. WAGGONER: The website designer -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 9 Official - Subject to Final Review JUSTICE KAGAN: There's no scripture, there's no ideology, there's no nothing.  MS. WAGGONER: There is ideology. And this Court has already recognized that there is ideology and different views on marriage. And the Court's promise in Obergefell is to protect  those who would believe marriage is between a man and a woman from having to express a view  that violates their conscience. But I think -- JUSTICE KAGAN: Okay. So I think that if I understand you, you're saying, yes, she can refuse because there's ideology just in the fact that it's Mike and Harry and there's a picture of these two guys together. MS. WAGGONER: That is speech. You are announcing a wedding. And if you believe the wedding to be false, then the -- the government would be compelling you to say something that you otherwise wouldn't say, which makes it -- JUSTICE KAGAN: So -- MS. WAGGONER: -- content-based. JUSTICE KAGAN: -- so it's really nothing about the content of this speech. I mean, it could be Mike and Pat and you don't Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 10 Official - Subject to Final Review actually
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether a website designer can refuse to design a website for a same-sex couple on the basis of her religious beliefs. The Supreme Court has already recognized that there is a difference of opinion on the issue of marriage, and the designer is arguing that she should not be required to express a view that violates her conscience. Justice Kagan points out that the refusal is not based on the content of the speech, but on the fact that the couple is same-sex.

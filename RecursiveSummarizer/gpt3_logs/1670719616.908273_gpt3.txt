@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+as I understand it and that I want to put out there in the world and it has my signature on the bottom of it, so people are seeing my photos, and I want my photos of "It's a Wonderful Life" to be as authentic as possible, meaning no people of color. MS. WAGGONER: It seems, in each iteration of the hypothetical, the objection is changing. What I can articulate is the test. And I can also say that when there's an overlap between message and status, message does win. And "Hamilton" provides an example of that. JUSTICE JACKSON: All right. Thank you. MS. WAGGONER: But I -- I would -- CHIEF JUSTICE ROBERTS: Thank you, counsel. Mr. Olson. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 58 Official - Subject to Final Review ORAL ARGUMENT OF ERIC R. OLSON  ON BEHALF OF THE RESPONDENTS  MR. OLSON: Mr. Chief Justice, and may  it please the Court:  The central dispute here is what  public accommodations law target when they  require a business to provide equal access to  its services. The company claims that because it wants to sell websites, the law somehow targets expression and therefore violates the First Amendment. But, because Colorado law targets the commercial conduct of discriminatory sales and its effect on expression is at most incidental, it easily satisfies the framework set out in O'Brien. The company can choose to sell websites that only feature biblical quotes describing a marriage as between a man and a woman, just like a Christmas store can choose to sell only Christmas-related items. The company just cannot refuse to serve gay couples, as it seeks to do here, just as a Christmas store cannot announce no Jews allowed. Here, the company seeks a Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 59 Official - Subject to Final Review  pre-enforcement order allowing it to turn away all gay couples, even if, as we've
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about whether a Colorado law requiring businesses to provide equal access to their services violates the First Amendment. The company that is challenging the law claims that it targets expression, but the state argues that it only targets the company's discriminatory sales practices.

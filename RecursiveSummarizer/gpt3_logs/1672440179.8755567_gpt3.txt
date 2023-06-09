@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Katarina Nowakowski for their service, express to them our heartfelt gratitude for going above and beyond the call of duty to help students at Foreman High School and extend to them our best wishes for continued growth and success.  And be it further resolved that a suitable copy of this resolution be presented to officer John Bauer and officer Katarina Nowakowski and placed on permanent record in their personnel files as a sign of our appreciation and esteem.  Thank you, sir.  The chair recognizes all the women mitts.  Thank you, Madam Chairman.  I stand here today.  We just heard a resolution on hate.  But now we are hearing a resolution on love, on caring, on being the good Samaritan that we all should be.  I stand here to share with you Omar James is a resident of the 37th war.  I really didn't put the name with the face until I saw him again.  He like, you know my grandmother.  I said, what's her name? Betty Fletcher.  Oh yeah, she works for me.  Now you got that one.  So this family, have endured a lot of tragedy.  I was there when his sister, Amara, passed away that gunshot through the house as she was there sitting on the couch.  This family have went through tremendous tragedy.  But Omar, Amara, you have exemplified some strength.  I saw the courage in you, the determination to move forward, to share what your brother and sister could not get a chance to do that opportunity.  You are determined to do it.  But for our officers, we are determined to do it.  But for our officers, there's not enough thank yous that I could even give you.  As I shared to you, this young man would not have had that opportunity if you had not opened up your heart to give it to him.  You didn't look at him as another young black man that's not gonna be anything.  You look beyond that to say, what can I do to help him, even though he's not white, he's black.  He wouldn't be in college.  Maybe if I'd have took him down there, I might have had a little problem.  I think race has a
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The resolution expresses gratitude to officers John Bauer and Katarina Nowakowski for their service and extends best wishes for their continued success. A copy of the resolution will be placed in their personnel files as a sign of appreciation.

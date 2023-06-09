@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+include environmental inspections and homes, nursing home case management, community engagements and enforcement activities, if needed to identify and control and control lead based paint hazards and eligible privately owned rental and owner occupied housing populations.  The Department of Public Health is requesting to accept additional state grant funds in the amount of $3,000 from the Illinois Department of Public Health for the free exposure prophylaxis program funds are used to screen clients for HIV risk.  Connect clients with prescribers access to PR EP payments programs and provide HIV navigational services and medication, adherence support to clients who are taking the medication.  In order to increase the number of at risk people accessing the medication and disease and decrease the number of new cases of HIV infection.  The mayor's office for people with disabilities is requesting to accept new federal grant funds in the amount of 425,000 from the US Department of Justice, Justice for the training and services to end violence against women with disabilities.  This grant will increase the city's capacity to address gender based violence specifically sexual violence experienced by people with disabilities and deaf individuals.  The proposed project seeks to focus on sexual violence experienced by people by individuals with disabilities due to those with disabilities, being at higher risk of sexual violence and individuals who do not have a disability.  MOPD will be the central source and will hire one staff person to manage this grant and through the grant MOPD will provide resources on accessibility and best practices and other materials for training and outreach.  The Department of Family support services is requesting to accept new public grant funds in the amount of $2 million from the Chicago Transit Authority for the transit and homeless in this support program.  Funds will be used to support coordinated services for additional outreach services by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Public Health is requesting additional state grant funds to screen clients for HIV risk and connect them with access to medication and disease prevention services. The mayor's office is requesting additional federal grant funds to focus on sexual violence experienced by people with disabilities. The Department of Family Support Services is requesting additional public grant funds to support coordinated services for additional outreach services by the Chicago Transit Authority.

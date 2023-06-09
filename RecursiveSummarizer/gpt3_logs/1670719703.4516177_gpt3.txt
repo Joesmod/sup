@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+military, or would that make Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 115 Official - Subject to Final Review that case more like Hurley?  MR. FLETCHER: So I guess here is the way I'd answer the question, is the way that Hurley did. We read Hurley to ask is the compulsion, is the burden on speech, is it truly  incidental to the content-neutral regulation of  conduct.  And what Hurley started with on pages 572 to 573 is being emphatic in saying this parade is not excluding people because they are gay and lesbian. It is excluding them solely because of the message that they want to send. And so the Court said applying the public accommodations law to them is not incidental, it's not serving the content-neutral regulation of conduct because they're not discriminating on the basis of status. Instead, the law in Hurley, the Court said, was equivalent to a law saying that the parade had to include any message that any protected group wanted to offer. That is not an incidental burden on speech. That is a direct burden on speech. And the reason why we view this case as being like FAIR and not like Hurley is Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 116 Official - Subject to Final Review because Colorado is not asking Ms. Smith to say messages or to speak messages that she would not  speak for anybody. The only thing that it is  saying is you can't discriminate based on status and you can't define your services based on  protected status, so that you can't say the thing, the message that I object to that I won't speak for anybody is a message that is tied to  the customer's status. JUSTICE KAGAN: But what -- JUSTICE SOTOMAYOR: Well, I -- I don't know how many of my colleagues have looked at the actual website. I don't even see celebration of marriage in any of the examples. Exhibit A, page 51, says Save The Date,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between two people discussing a case. The first person argues that the case is like Hurley, where the Supreme Court ruled that a public accommodations law could not be applied to a parade because it would be a direct burden on speech. The second person argues that the case is more like FAIR, where the Court ruled that a public accommodations law could be applied to a university because it would be an incidental burden on speech.

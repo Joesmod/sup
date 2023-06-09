@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+issue.  What data sources are you gonna use? We don't have anything like Dun & Bradstreet sources for that.  How are you gonna define which groups? And so we ask people about it anecdotally, but in terms of trying to include it, LGBT individuals separately somehow from their race and their gender was just really something to be frank about it.  Nobody's done in the country.  I get asked about this probably once a week, and the data sources are really a huge issue, as well as what's the right legal standard.  That's not even clear.  Are they subject to the, is sexual orientation and gender presentation? Are those subject to the same legal test as race and gender? Maybe yes, maybe not.  I mean, if the Supreme Court says that those are not protected classifications, that has some implications for our work.  And so we just kind of don't know, but we did ask people, and we were always very careful to do as much outreach as we can to get people to participate and to tell us about their experiences and to try to tease that out from race and gender.  But from a statistical standpoint, there's really nothing we can do with that at the moment.  Give me 10 years, and maybe we'll be able to get some better data sources, but not right now.  Sure, yeah, and I know there's like the national group that does the chamber certifications for like the national LGBTQ chamber.  So I guess when trying to find those data points, I'd be interested if potentially through the chair, what those data points that you would prefer would look like, just to kind of, rather than it only being a survey on our end, to try to figure out how to make inroads and make that connect.  Because I think what's challenging for me is, and this is not just because you're saying, because I understand this is a reality legally of what this looks like, that I can imagine the world where before, black, brown, and women were able to get those kinds of protections, that that might be the same argument.  They're like,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The data sources for LGBT individuals are very limited, and it is difficult to define which groups to include. The legal standard for sexual orientation and gender presentation is also unclear. The chamber certifications for the national LGBTQ chamber may be a potential data source.

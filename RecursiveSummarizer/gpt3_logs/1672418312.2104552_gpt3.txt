@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a summary and dollar amount along with the likliness of the bill being passed on a scale from 1 to 5, 5 being the most probable. Here's an example of that format: Machine & Equiptment | $63,000 | 4.2:
+
+
+briefings and I think this requires more back and forth more dialogue and so I'm going to ask you if we can take this out and move forward with everything else.  That's my cause and while they're considering that um the the the second part um on page 10 uh with the low bidder as opposed to the lowest responsible bidder um the contract values these are things that they that we should be discussing that are all additions to this point.  Okay all right moving on this requires a lot of this requires some conversation.  All right so under section 13 uh sub b submit a debt check application what is that? Um I'm gonna as opposed to the affidavit they took out the affidavit.  Yes um I'm gonna ask the comptroller to just clarify the difference.  Thank you.  Rishmasoni city comptroller.  So the debt check section is for a process that we're already doing.  All employees new employees that join the city do go through a debt check process and then either we put them on a payment plan or they can pay in full whatever they prefer.  This is to clarify and and allow that volunteers would not have to go through the debt check process as long as they're not a part of a commission.  Okay and then why did we choose to get rid of the affidavit and do the debt check application is that just modernizing it or? Yes so to your point Alderman Harrison we're trying to modernize the process we're trying to make it easier for people you know we all know that hiring is a big issue and so we're trying to balance both the fact that we do need people who are working for the city to to pay their debt you know they represent the city and we want to make sure that they're doing their part but also we don't want to make it unduly burdensome.  Okay thank you um the office of labor standards can you tell me or can whoever it is I see that there is can you refer to the page oh page 13 and 14 and I'm starting on page 13 so there is a commissioner and then there is a director who shall be appointed by the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The bill proposes spending $63,000 on machine and equipment. There is a 4.2 chance of the bill being passed.

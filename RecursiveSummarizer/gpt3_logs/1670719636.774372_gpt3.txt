@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+to the public, yes. JUSTICE ALITO: Okay. So what does "open to the public" mean? Does that mean no selectivity whatsoever? Anybody who wants this service can get it and it may be, if there's a greater demand, then the demand exceeds the supply, you've got to wait in line. But, if there's any selectivity at all, they're out? MR. OLSON: Well, again, it's not presented in this case. The way that Colorado has historically addressed that question is -- are, say, golf clubs who had limited their membership to one gender, you know, did they make money from the public coming to their courses, did they -- did you have to be a member Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 70 Official - Subject to Final Review to dine in the restaurant, et cetera.  So selectivity as the Court discussed in Fulton certainly is a factor, but it -- but  it is a -- a fact-specific determination that -- that awaits more facts than we have here because  it can -- JUSTICE ALITO: Well, you should  understand what your statute means. So suppose  a website designer says, I'm -- I'm offering my services, but I'm really in -- I -- I'm in a lot of demand for my services and I reserve the right to decide who I will provide a website for and who I will not. Is it a public accommodation then? MR. OLSON: If that's the only factor, then yes, but it can make decisions about who to supply that -- that aren't based on protected characteristics and choose its clientele just fine. What it can't do is say I reserve the right to refuse service which means in practice I will not serve black people. JUSTICE JACKSON: And isn't part of the problem here in terms of trying to answer Justice Alito's various hypotheticals that we're Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 71 Official - Subject to Final Review presented with a record of stipulated facts and  that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the Justices are trying to determine whether a website designer who only provides services to certain people based on their demand is considered a public accommodation. Mr. Olson argues that as long as the website designer is not discriminating based on protected characteristics, then they are allowed to choose their clientele.

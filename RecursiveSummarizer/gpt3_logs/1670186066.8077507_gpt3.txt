@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a clear sidewalk in the wintertime? I primarily get around by bike, but in the few times that I do walk in the wintertime, I'm an able-bodied person and I still struggle when I'm trying to carry my groceries home from the grocery store that's about three quarters of a mile from my home.  I know I'm not alone in this.  You've heard from other people here today who have been impacted.  And I know that we have the funds for the pilot program.  I know that we have the funds to fully implement this program, especially if we can line the pockets of Shell, BP, and all these other companies and pollute the air.  That doesn't benefit us at all as a city.  Thank you so much for your time.  Thank you, Ms.  Cobbs.  I would like to acknowledge we've been joined by Alderman Harrison, Alderman Riley, Alderman Osterman, Alderman Tunney, and Alderman Sawyer.  Good morning.  Our next speaker is Ella Lubienzki.  Hello, my name is Ella Lubienzki.  I'm a resident of the Bucktown neighborhood.  And I'm also a proud film worker here in Chicago.  I work on movies and television.  And today I'm here to support the plow the sidewalks campaign.  As a part of my job in the film industry, I have a very physical job.  I'm carrying cameras around a lot.  And so in the winters, when I need to go walk my dog in my neighborhood, it gets very dangerous if she sees something that's interesting to her, or if I just slip and fall on the ice, I can injure myself and not be able to make a living.  I also love walking around my neighborhood and supporting the local businesses in the Bucktown and the Wicker Park and the Ukrainian village neighborhoods, because I can get to those on foot.  In the winter, I can't do that because it becomes very treacherous to try to move around just my local area.  And it's not just my mobility and accessibility for the neighborhood.  For me, it's also for everyone, statistically speaking, the people who need to do local errands are more likely to be women, more likely to be
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker is in favor of the "plow the sidewalks" campaign, which would clear sidewalks of snow and ice in the winter. They argue that this is necessary for people who need to walk for their job or errands, as it can be dangerous to walk on icy sidewalks.

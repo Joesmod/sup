@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+meetings every Thursday for Reverend Jackson.  And one of the guys, yes, a fresh out of Pontiac, the other one fresh out of St.  Ville.  Do you know we were able to put them gas to work on a Section 3 project on the northwest side that make in 72, 90 an hour? And those guys had not returned back to crime.  They built in now their own business.  They're now able to enhance the steel set.  They go into training programs and constantly making sure that their trade is something that their family could be proud of and they could get jobs and contract.  We have done that.  It was over 100 and something companies that was in this program.  Even when I told Reverend Jackson to reach out to Miss Scott, a thing of name, Tracy Scott, we reached out to her and met with her, told her to try to get that program back up and running.  Nothing's been done.  Not even the people that's already in the new program barely get jobs and contracts.  And you wonder why we have crime.  You wonder why we have baby shot.  You wonder why young men are selling stuff on the corner.  It's because we're not doing the right job for them.  We're not showing them that they can make a middle class living overnight.  This is the only industry that I could take an ex-offender and make him a middle class person and be able to provide for his family without a link card with a good wage.  Be able to buy his own vehicle.  Don't have to jack nobody off on the car.  This is real business for us, my friends, that if we don't save ourselves, we're not gonna be able to save this community because you gotta understand something.  Every one of us on this line got to get out of the car and go out of our homes and get in the car, gotta leave our church and get in our vehicle.  And we gotta make sure that our homes stay safe.  And the only way that we stay safe is we make sure everybody's safe.  And I'd like to thank you guys for doing this.  And I hope it shared some light on what is needed to be done with that
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Reverend Jackson meets with ex-offenders every Thursday in an effort to help them find work and stay out of crime. The program has been successful in helping some ex-offenders find jobs and start their own businesses. However, the program is not reaching all ex-offenders, and many are still resorting to crime. Reverend Jackson is urging officials to do more to help ex-offenders find work and turn their lives around.

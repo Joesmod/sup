@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+less than the 15 in the mayor's press office.  So if you want to talk about where our priorities lie as a city, I think it's pretty clear from this budget appropriation.  There are a few questions that I believe deserve clarification and that should be on the record.  A number of people have been fighting for many years now to get the Chicago torture justice memorial built.  Is there funding in this appropriation to get that done? Yes, there is funding within DK's budget existing.  It's not coming before you in an amendment, but there is funding set aside for this planning process.  So it is not in this budget.  It's not in the amendment, but it's already there.  It's not in the amendment, but it's in funding that is for DK's.  Yes, under DK's.  Do we know what line item it's in for DK's? I do not have that in front of me but I can definitely provide that through the chair.  And do we know the amount? It's about 250,000.  And this 250,000 is for planning purposes.  It's just for planning.  I think, you know, my understanding, and you know I don't speak too far ahead of Commissioner Harkie who's been working this planning process, but it's also for planning as we determine kind of what the full needs are around that.  Okay, thank you.  Does this appropriation continue to include the $8.9 million allocated for ShotSpotter technology? Yes, that line is still there in the budget.  Okay.  Does this budget reopen any of the shuttered mental health clinics? It does not.  It does not.  I've got to say, you know, we were promised good governance.  I don't think that continuing to fund to the tune of $8.9 million per year technology that has not been independently verified.  Studies from our own inspector general, from the MacArthur Justice Center at Northwestern University, Johns Hopkins University, all of these experts have looked at ShotSpotter technology and cast serious doubts on this technology.  As a result of that, cities have canceled contracts, police departments
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Chicago torture justice memorial Budget Proposal: ShotSpotter technology

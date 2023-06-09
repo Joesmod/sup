@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+testimony on this ordinance today, Alderman Harris for question.  Most artists would like to be recorded as present.  We got you down.  Nelson Chung.  Good afternoon.  Can you see my screen.  Yes, you do okay.  Thank you.  For the record on Nelson Chung city Chicago Department of Planning and Development.  I'm here to present his land sale of 7339 South, South Chicago Avenue to the Comer science and education foundation.  This item is a market rate sale again property 7339 South South Chicago Avenue is to the Comer science education foundation they currently operate the Gary Comer college prep high school and youth center is located about a block away.  The project is located greater grand crossing community area is one block south of the college prep facility again is the fifth ward the sale of properties a single lot has in praise value of $13,000 which they are prepared to purchase for that amount.  These currently improve as a flight field they will continue to use it as is I'm going to show you a context map.  You can see the highlighted city parcels mark red, and you can see where the athletic field is right at the intersection of 73rd and South Chicago Avenue, so a black north is where the youth center is and where the Gary Comer college prep is.  And the arrow photograph shown the, the symbol site.  So the outline in yellow or all the properties controlled by Gary Comer science education foundation, and the item change this board and says the outline and read which is the one single lot so by completing the acquisition is last remaining a lot, the entire prep will be controlled by the Gary Comer science center.  The most like from the stream view, again they're planning to happen maintaining this as operating as a athletic field, and we will continue to do so for the use of the, their students in the community.  The project has the support of all the Harrison and the problem is review the project and recognize the approval for the sale of this parcel to the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is selling a parcel of land to the Comer science and education foundation for $13,000. The land will be used as an athletic field for the Gary Comer college prep school and youth center.

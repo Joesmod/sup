@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+had a briefing on this we had hearings on this.  Can you just quickly go over some of the things that you are changing, and I think everybody got it, the gist of it but just in summary of the things that you're expecting to enhance on this ordinance.  There really are three important components to the ordinance at least to my understanding.  The first one of course is that it extends the program.  It is going to sunset, otherwise, on September 30, and clearly in the disparity study report we found that the program remains necessary and vital to the continued growth and development and even possible existence of minority and women owned firms that do business on city construction contracts so that is absolutely critical, because we certainly could, I think, predict that if the ordinance is not renewed, and that starting October 1 Miss Menes and her department can no longer set goals on contracts that that would have a devastating effect on minority and women owned construction firms.  There are a couple other pieces to the to the ordinance.  One is to raise the size cap on the gross receipts of an individual firm to 150% of the US Small Business Administration size standards.  Currently the city, like most everybody in the country, is following the SBA's size restrictions which you can find in the Federal Register.  And we made that recommendation because we heard loud and clear from the minority and women firms that we interviewed and let me note that I personally interviewed 175 people for this study.  So I'm quite confident about the breadth of the information that we received.  And we did hear loud and clear, both from currently certified firms as well as many of the large non-MWBEs that the SBA size standards, while certainly necessary to have some limit, the federal courts are extremely clear that you can't just make up numbers or have no restrictions, but that the current limits really were too low for a community of the size and diversity and costs, frankly,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The ordinance being discussed extends the current program, which is set to expire on September 30. It also raises the size cap on the gross receipts of an individual firm to 150% of the US Small Business Administration size standards. The purpose of the ordinance is to continue to support minority and women owned businesses in the city.

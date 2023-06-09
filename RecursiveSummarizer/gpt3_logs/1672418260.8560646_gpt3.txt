@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a summary and dollar amount along with the likliness of the bill being passed on a scale from 1 to 5, 5 being the most probable. Here's an example of that format: Machine & Equiptment | $63,000 | 4.2:
+
+
+the mayor's office budget.  Okay, so it is equal.  I still think I know that, um, you know this administration talked about re implementing a department environment, and I think that I really wish we would do that.  I don't want this to be another like smoking mirrors office that just has meetings with people and does a lot of talking and does nothing.  So, thank you.  Thank you.  Thank you alderman Garza alderman Ramirez Rosa.  Thank you so much, Chairwoman.  So, on this conversation of the department environment, I find arguments that we just don't have enough time to get it done this budget disingenuous.  I want to read something to you all breaking we released our environmental policy exclamation point.  We've got to bring back the Department of Environment to combat climate change and ensure the Chicagoans have clean air to breathe and safe water to drink, no matter their race, economic status or zip code.  This was tweeted out by Mayor Lightfoot on January 10, 2019, a little more than a month before the primary.  We've had four years to get the Department of Environment done.  This was a central piece of a policy platform that was promised to the people of the city of Chicago, people who wanted to undo the harm caused by eight years of Rahm Emanuel when he shuttered the Department of Environment 2012.  And here we are with the last budget of this term that this body will pass.  And with the death of seniors in Rogers Park as a result of not being prepared as a city to deal with climate change and record heat with people suffering losses to their property as a result of record flooding occurring regularly in our city, and we still do not have a Department of the Environment.  So I find it insulting.  I find it disrespectful to the people who voted for change that in this budget.  After four years the fourth budget that this mayor will now propose and pass, we have failed to get to a Department of the Environment, and the 10 positions in this office.  That's
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The mayor's office budget includes $10 for positions in the office, but does not include funding for a Department of Environment, which was promised during the campaign. This is insulting and disrespectful to the people who voted for change.

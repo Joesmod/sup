@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+about the  characteristics that form the basis for an impermissible denial of service? Any limit to those? MR. FLETCHER: I think there, the same answer. So not in the sense that a state can define its public accommodations laws however it wants. But, yes, when it starts to bump up against the First Amendment and you're applying the O'Brien standard, protection for some characteristics, you know, things that go beyond the traditional things, like race, sex, sexual orientation, religion, those at issue here, and get out into political affiliation or, you know -- JUSTICE ALITO: It can't define it as political affiliation? MR. FLETCHER: I -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 131 Official - Subject to Final Review JUSTICE ALITO: It can't define it to  include political affiliations -- MR. FLETCHER: I'm not saying it can't  JUSTICE ALITO: -- or ideology?  MR. FLETCHER: -- I'm not saying it  can't define it that way. I'm just saying that the interests supported by such a prohibition would be weaker than the really core ones like those that we see at issue here. JUSTICE ALITO: Along -- okay. So how much selectivity do you think is required? MR. FLETCHER: So that's going to be, I think, in the first instance, as a state law matter or as a constitutional sort of backstop matter, I think it's hard to give a precise answer. I think the Court's opinion in Fulton gives some guidance and says more selectivity, more individualized review is less likely to be a public accommodation, and in contrast, an entity that generally holds itself out as open to the public can't escape the public accommodations laws just by imposing a discriminatory limitation or some pretense of selectivity. And I -- I know I can't give you a Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 132 Official - Subject to Final Review bright line, but
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether or not a state can define what constitutes an impermissible denial of service. The answer is that a state can define its public accommodations laws however it wants, but when it starts to bump up against the First Amendment, the interests supported by such a prohibition would be weaker.

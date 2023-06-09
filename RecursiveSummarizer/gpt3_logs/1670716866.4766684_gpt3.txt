@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+better qualified to answer than I am? It's a distinct honor to be here.  This is home for me.  I've known some of you back since I was an Assistant Corporation Counsel for the City of Chicago and had the honor, under the leadership and tutelage of the late Alderman Lemmy Milaustin, to captain on behalf of the Law Department, the drafting and adoption of the very first ordinance for the City of Chicago's MWBE program back in 1991.  So I sort of feel like I had a baby then, and now it's all grown up and time to move to the next level.  So Mr.  Dawson is going to be advancing my slides.  So next slide, please.  And of course, I'm happy to answer any questions that you may have along with Dr.  Pitts when I've concluded this mercifully brief PowerPoint.  I want to start with just a couple of comments about the legal standards because everything that we do is directed towards meeting the very, very stringent constitutional standards that the federal courts have imposed on race and gender-conscious contracting programs.  As many of you know well, the courts are extraordinarily hostile to these programs, and I'll talk about some recent cases just to give you a little flavor in just a second.  But an MWBE program since 1989 has been subject to the highest level of judicial review called strict constitutional scrutiny.  And essentially, it means that the government has to come forward with strong evidence that there continues to be a need for the highly disfavored use of race in public contracting, and that the program that it adopts is narrowly tailored to that evidence.  So we say that strict scrutiny really has two tests.  The first is that the government has proven its compelling interest in using race or gender through strong statistical and qualitative evidence of past discrimination and the current effects of past discrimination or current race and gender-based barriers.  And secondly, as I mentioned, the program has to be quote-unquote narrowly tailored, those are the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker discusses the legal standards for race and gender-conscious contracting programs, which are subject to strict constitutional scrutiny. The government must prove a compelling interest in using race or gender through strong evidence of past discrimination and current effects of past discrimination or current race and gender-based barriers. The program must also be narrowly tailored to meet this interest.

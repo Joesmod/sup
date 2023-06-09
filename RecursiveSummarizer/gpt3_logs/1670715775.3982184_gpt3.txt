@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+negotiated sale price for $90,000 and the third ward, Nelson Chung from the Department of Planning and Development is here to provide testimony on this ordinance.  Good morning, for the record, I'm also Chung city Chicago Department of Planning development, you see this green from you.  Yes.  Thank you.  Thank you, chairman of this agenda item as the, as the marker rate land sale of property located at 6121 East 45th Street to morning word view church, the church located Jason to the locate Jason city property right now at 613 East 45th Street.  The purpose currently zone RT dash for and grand Boulevard community area parcel currently is fast and is ready improve this open space by the church.  The praise value for churches $90,000, and they have agreed to purchase it for that amount of $90,000 again a lot size of the city lot is 125 by 120.  So price me through 30,000 square feet, the site has informal cleaners, and we have support from ultimate owl.  Let me show you the location of the site is again located in grand Boulevard area to the long 45th Street just next to Armstrong Park.  You can see the area of view of the site facing southward you can see the current church where situated middle of the block, and the city lot is outlined in red, right next to the city lot right next to church.  You can see the view of it again you can see the city lot next to is improved as green space next to church, the church is a great to pay market value for this property, and their intent to keep it as open space within future longer term plan for a church addition.  And that concludes my testimony for this project.  Any questions to members of the committee.  I have one.  All of them down.  Thank you chairman.  First of all, Nelson you said, lot size was 120 by 125 new law 21 125 is that accurate.  That is correct I misspoke.  And although I know this is a market rate sale.  You claim that it's negotiated so I'd like to know why we use that word negotiated because it seems
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is selling a lot to Morning Star Church for $90,000. The lot is 125 by 120 and is located next to Armstrong Park. The sale is a market rate sale that was negotiated between the city and the church.

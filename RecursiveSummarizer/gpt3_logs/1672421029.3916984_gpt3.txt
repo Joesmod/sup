@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+who's going to pay for those conditions that would be for the abatement of those conditions i'm gonna ask um dr arwadi to expand from that you're hearing me there alison i already cdph um so we have funding to do the abatement um in some cases this comes from the federal government in some cases it comes from the state in some cases it comes uh from this body or from council and this is allowing us the authority to be able to do the remediation and enter into cleanup agreement so it we have this already for abatement but we didn't have it for remediation and those are two different groups so it's not about funding it's just making sure that we have the ability to do the cleanup when you all uh make sure we have funding to do it okay thank you and then just one last real quick on the short-term residential rental intermediary though the one to nine the last one on page 26 the short-term residential so if there's one short-term residential rental they have to pay 250 plus 60 dollars so 310 dollars if they have an intermediary am i reading that correctly um i don't know uh mr meyer you want to follow up on that i think this is on page 26 alderman 26 yes i'm just for the one and and and the concern is if i have a two flat or a three flat and i'm doing that short term does this license fee apply so this is for the smaller companies right now uh we have like airbnb pays 10 000 so now we're going down to a smaller smaller company that paid the 250 uh biennial fee and then they'd pay 60 to the city for the company would pay 60 for every host commissioner can you identify yourself we know who you are but for the court reporter thank you chairwoman caneth meyer commissioner of business affairs consumer protection sorry about that court reporter so i'm so the 250 is a license fee and i'm just talking about if they if they just have one residential rental that 250 fee plus a 60 is that 310 dollars that'd be actually correct but they have to be renting out on this platform
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Short-Term Residential Rental Intermediary

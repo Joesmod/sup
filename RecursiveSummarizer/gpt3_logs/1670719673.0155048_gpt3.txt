@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+education program.  MR. OLSON: I strongly disagree,  Justice Gorsuch.  JUSTICE GORSUCH: Thank you, Mr.  Olson. CHIEF JUSTICE ROBERTS: Justice Kavanaugh? JUSTICE KAVANAUGH: I'm interested in picking up on those questions and -- and what Colorado's position on the First Amendment could lead to, not what you would do based on your representation, but what your theory of the First Amendment could lead to in thinking about the proper analogy to a website designer. So I've been thinking about a publishing house that says, we're not going to publish -- we support pro choice positions. We're not going to publish books that support a pro life position or that we support same-sex marriage and we're not going to publish books that take a different position on same-sex Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 95 Official - Subject to Final Review  marriage.  Does the publishing house have a First Amendment ability to select the kinds of books that it will publish along the lines of my  hypotheticals there?  MR. OLSON: Of -- of course, it does, and I think a publishing house is not a public  accommodation for precisely the level of  selectivity and choice that -- that it goes into, just like the Court recognized in Fulton. JUSTICE KAVANAUGH: Right. But, if it were a public accommodation, it would still have a First Amendment right, correct? MR. OLSON: Yes. JUSTICE KAVANAUGH: You sure about that? MR. OLSON: Yes, because what -- all the public accommodation law says is you can't turn someone away because of who they are. And -- and it would be different if your hypothetical was they will not publish gay authors. If -- if they were -- if they were a -- a publishing house who said they will -- will not -- JUSTICE KAVANAUGH: Right. That's the Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 96 Official - Subject to Final Review
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justice Gorsuch and Mr. Olson. They are discussing Colorado's education program and whether or not it violates the First Amendment. Mr. Olson believes it does not, but Justice Gorsuch is not convinced. Chief Justice Roberts then asks Justice Kavanaugh for his opinion. Justice Kavanaugh asks Mr. Olson what he thinks Colorado's position on the First Amendment could lead to in terms of a publishing house discriminating against certain authors based on their beliefs. Mr. Olson responds that a publishing house would still have a First Amendment right to do so, even if it were a public accommodation.

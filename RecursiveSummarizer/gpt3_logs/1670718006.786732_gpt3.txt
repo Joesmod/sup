@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an explanation as to how the following will benefit the City:
+
+
+want to highlight, though, is we are seeing dramatic rises in interest costs, which is something we just talked about.  So as we move into our multi-family development projects, these initiatives support new construction along with the rehab of abandoned or deteriorated properties.  The majority of our resources do go to these multi-family development projects.  For 2022, DOH has projected commitments of over $217 million to create or preserve 2,900 units.  To date, through the second quarter, DOH has committed $288 million in resources to preserve over 2,000 of these units, representing 73% of our multi-family goal.  Just to add, through the first half of 2022, financing has been approved for six affordable developments that result in construction of almost 1,200 multi-family units, so our buildings are getting a little bit bigger in response to some of the changes we are seeing in cost.  Next slide.  So one example, June 22nd, the city council approved financing for the seventh and final affordable phase in the redevelopment of the former Henry Horner homes.  West Hamon Park 2D is going to be constructed at 145 North Damon and the 27th ward.  The 12-story building qualifies as a transit-oriented development due to its location next to the new CTA Green Line station now under construction at Damon Avenue.  The apartments will include 38 for CHA residents, 25 additional affordable units, and 33 to be resident market rate.  Looking back at some highlights, on May 20th, Mayor Lightfoot and Commissioner Novara joined Alderman Ramirez-Rosa in the 34th ward and community leaders to celebrate the opening of the Lucy Gonzales Parson Apartments and all affordable 100-unit rental complex adjoining the Logan Square station on the CTA Blue Line.  This was a transit-oriented development built by Bickerdike Redevelop Corporation on a parking lot formerly owned by the city.  Known as Emmett Street Apartments, when it was approved in city council back in May 2020, this long-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is investing in affordable housing developments that are close to public transportation. This will benefit the city by creating more affordable housing options and reducing commute times for residents.

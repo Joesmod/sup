@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+you.  So Madam President, I wanna thank them so much, and their recognition should go well beyond on what we see in a resolution today.  But what I would like to see, I would like to see our Sun Time and Tribune and our local media, aim the camera on them and write a story about this good work that they're doing.  Madam President, I'll close with this.  Not only a few short years ago, we debated the SRO program.  We debated whether or not we need officers in our school or whether they're better served on our streets and not in our school.  I present to you and the members of this body, why I fought so hard to keep them in that school, because they are good that they're doing in this school.  We don't know where Omariya might be without their love and support.  And so I stand up very proudly to say that, we have officers that go well beyond what they're required, go well beyond the eight and a half hours that they serve every day.  They go even so far as to drive a student to his next assignment in life.  And that's college no matter what that distance may be.  We have officers that are willing to stand up and do a GoFundMe page for Alderman Talia Farrell.  I'm sorry, a GoFundMe page that slipped out.  But they're willing to stand up and do a GoFundMe page for a student that they love with all their heart.  So Madam President, even though I inject a little humor, I think it's very serious that we really put our officers on the front page of our presses to make sure that they are recognized for the great work that they do.  Thank you, Officer John and Officer Catton.  Alderman Spizzato.  Thank you, thank you, Madam President.  It's been a long time coming.  I've been trying to get this resolution for a while, but boy, am I happy we have it when we're having it.  Couldn't have been at a better time.  Couldn't have been a happier resolution at a happier time of the year, Christmas time.  So I thank you.  I also wanna thank one of my many friends in the media, John
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Spizzato thanks the police officers who have gone above and beyond their duties, including driving a student to college, and calls for more recognition of their good work.

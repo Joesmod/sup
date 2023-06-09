@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a short summary of the following in a style that a second grader could understand:
+
+
+writing business is only being required to follow a content-neutral law.  The speaker in this case is arguing that the government should not be able to force people to say things against their will. They believe that this principle should apply to all forms of speech, including artistic expression.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker is arguing that the government should not be able to force people to say things against their will. They believe that this principle should apply to all forms of speech, including artistic expression.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+service to same-sex couples because it is their right to free speech.  The conversation is between two people discussing a law that states businesses cannot discriminate based on sexual orientation. The first person asks if a website designer who puts a message on their website that they do not serve same-sex couples is violating the law. The second person responds that the website designer is not violating the law because they are not turning away same-sex couples, they are just choosing what services to offer. The first person asks if it makes any difference in the real world. The second person responds that it does because the website designer will lose business from opposite-sex couples as well.  In the conversation, the Justices are trying to determine whether a website designer who only provides services to certain people based on their demand is considered a public accommodation. Mr. Olson argues that as long as the website designer is not discriminating based on protected characteristics, then they are allowed to choose their clientele.  The conversation is about whether a website can be considered a public accommodation if it is selective in the content it publishes.  A Jewish man and a Christian woman who are engaged to be married ask a Jewish website designer to build a website to celebrate their nuptials. The website designer explains that many Jews consider intermarriage an existential threat to the future of Judaism, and so the website would need to accept the second couple. However, if the website is offered mostly or exclusively to Jews, then the designer would not be required to sell it to the interreligious couple.  The conversation is about whether or not a Jewish photographer would have to take a photograph for an ashleymadison.com dating profile if asked. Justice Alito suggests that the photographer would probably have to do it, depending on the services they offer to the public.  A gay couple walks into Ms. Smith's office and asks for a quote
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between two people discussing a law that states businesses cannot discriminate based on sexual orientation. The first person asks if a website designer who puts a message on their website that they do not serve same-sex couples is violating the law. The second person responds that the website designer is not violating the law because they are not turning away same-sex couples, they are just choosing what services to offer.

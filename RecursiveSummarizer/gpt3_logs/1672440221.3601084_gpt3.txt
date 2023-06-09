@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+colleagues to do the same, and I would ask for this item and the next to be roll call votes, please.  Madam Clerk, please call the roll.  And Chairman Wagesbeck, you just want to give some context to make sure people know what they're voting on.  I'm sorry, Madam President, I couldn't hear you.  Would you please give a little context so that people know what they're voting on? Sure.  So item B in Alberta Wilson, on behalf of her minor children versus city of Chicago, involved the execution of a search warrant for firearms belonging to Denneke Mitterhoff at the plaintiff's residence, at Ms.  Wilson's residence.  That person, the children were present when that search warrant took place, no firearms were found there.  And the case involved the plaintiff indicating that firearms from the police officers were pointed at the children and that the search warrant had failed to go through with what its intent was.  So there was no gang banger or gang person here.  This was about the children having weapons pointed at them.  Am I correct that a seven year old handcuffed outside the rain? The children were nine, eight and six and the handcuffed child was eight years old.  Thank you.  Right, no weapons were found Madam Chairman for purposes of the facts on the case.  Madam Clerk, please open up the e-voting.  Thanks Ariel.  The voting is now opened.  Please hit refresh and submit your vote.  Thank you.  Alderman C.  Burke.  Alderman Berca.  Alderman Berca is a yes.  Alderman Burke.  Okay.  Alderman Burke.  Yeah, you want to take a voice vote.  Alderman Burke is no.  We'll get you some support there.  Alderman Coleman.  Alderman Coleman is a yes.  Alderman Taylor.  Alderman Taylor is a yes.  Yes.  Alderman Austin.  She's not here.  Alderman Gardner.  Oh, it came through.  Alderman Capelman.  Alderman Capelman is a yes.  Alderman Silverstein.  Alderman Silverstein is a yes.  Any more I missed? Okay.  The voting is now closed.  The yeas are 39, the nays are eight.  Alderman
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The City Council was voting on a case involving the execution of a search warrant on a residence where children were present. The warrant was for firearms belonging to Denneke Mitterhoff, but no firearms were found. The children were aged 9, 8, and 6, and one of them was handcuffed and left outside in the rain. The vote was 39 in favor and 8 against.

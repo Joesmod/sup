@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Isn't Justice -- JUSTICE KAGAN: Yeah, I -- CHIEF JUSTICE ROBERTS: Thank -- thank you, counsel. Justice Thomas, anything further? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 80 Official - Subject to Final Review Justice Alito?  JUSTICE ALITO: Well, back to my black Santa example, suppose it's a state that defines  a public accomodation -- prohibits a public  accommodation to discriminate on the basis of  political ideology. So then -- then the picture  has to be taken?  MR. OLSON: I -- I think that is  likely -- those political ideology distinctions face much more difficult constitutional scrutiny and I think are separate in kind from the kind of characteristics that we're talking about here, which are categories of invidious discrimination. I can only think, in most circumstances, political ideology did not satisfy the constitutional requirements. JUSTICE ALITO: So it has to satisfy a constitutional requirement? Your argument is dependent on that? MR. OLSON: Yes, because even under O'Brien, there's -- there's -- we have to show a basis for what we're doing. JUSTICE ALITO: In light of what Justice Kennedy wrote in Obergefell about honorable people who object to same-sex Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 81 Official - Subject to Final Review marriage, do you think it's fair to equate  opposition to same-sex marriage with opposition  to interracial marriage?  MR. OLSON: Yes, because -- in how the law applies, not in -- in the -- the discussion with folks because, of course, honorable people have different views on this issue. But I think, when you look at what Justice Kennedy said there, the way to honor that requirement is, as this Court has set forth in Fulton, in Masterpiece, of having a rigorous interrogation to make sure that there are neutral and generally applicable laws applied in fact that way
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss the argument that opposition to same-sex marriage is equivalent to opposition to interracial marriage. Mr. Olson argues that this is the case when it comes to the law, but that people are entitled to their own views on the matter.

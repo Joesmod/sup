@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a process to increase the dollar value if that's needed.  So there's a process to allow that.  And is that based on a percentage or I guess the question would be, at what point would you go out and rebid? Is it you get a 20% limit or 30% increase or is it open-ended? Not open-ended.  I'm gonna, I don't know, Giselle or Byron can chime in.  There is a limit on how much you can extend that value by.  I can't remember who.  Correct, correct.  Those contracts usually are not exceeding more than 50% of the original contract value.  It depends on the usage of the contract as well.  There's no guarantee that we would max the dollar value throughout the term of the contract.  But the vendor limit increases an option that we have that is processed through the Department of Procurement Services.  They review it and they get back to us in regards to our usage and what we estimate to be the required vendor limit to increase the contract.  So anytime the contract is increased, the participation of M&W firms has increased as well across the board.  Cause it's relevant to the entire sum of the contract.  So that the contract goals would also be adjusted based on the increase of money.  Right, I think Jesse said, so the answer was you can't exceed 50% of the original contract value, correct? Yes.  Yeah, so that's as high as we could take it all in.  Thank you.  Would the, we go back to the task order and I'll give this to procurement.  Based on the task order, our MBE and WBE percentages looked at per task order or over the life of the contract.  So case in point, if we have a $1 million task order in one of the contracts, but the overall contract is $10 million and there is no MBE participation on the contract.  Is that something that could happen under the way the JOC system is set up? This is Byron Woodker.  I'm going to address that question.  Thank you for asking that.  That gave me an opportunity to explain what DB role in monitoring the JOC program does.  First of all, the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Procurement Services has a process to increase the dollar value of contracts by up to 50%. This is done in response to requests from vendors and is based on the expected usage of the contract. The department also monitors task orders to ensure that MBE and WBE percentages are met.

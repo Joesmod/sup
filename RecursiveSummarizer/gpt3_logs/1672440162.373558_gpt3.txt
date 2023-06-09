@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+strategies, health plans all kinds of fun things to back you up I know that you've been in the word office and you know the type of work that it takes.  But now you'll be in this seat and it's a little slightly different.  I won't warn you away like some of my colleagues I think it's very worth.  It's very worth the work, it's worth the responsibility.  And congratulations on joining spotty.  Thank you alderman had in the chair recognizes all the women leave.  Madam President, and Annabelle, on behalf of the newbie caucus, the unofficial newbie caucus.  Welcome.  Welcome to the club, I'm going to be happy to have you as a seatmate, and in particular as a neighbor, a neighboring ward, look forward to working with you very closely.  As we have some got some some constituents that are going to be switching places and getting to know each other's words in that way so thank you very much and good luck.  And I'll see you soon.  Thank you all the women lead the chair recognizes all the men spasado.  Thank you, Madam President, Annabelle best wishes to you.  Just to let you know I know you know you know we're joking when we say it's not too late to run, but we know you know what the job's about we know you know the demands the hours, so on and so forth so I'm sure you're up to the task.  There are 49 people here you could lean on anytime so hopefully you get everybody's phone number, any help, we're all here, probably best leaning on to three newbies they could probably help you more than any of us can let you know what's going on so, but with that, just want to wish you the best look forward to working with you and hopefully, you know, you and me when our elections and we're working together for former year so best wishes to you.  Thank you all to miss Bizotto the chair recognizes all the men Burnett.  Thank you very much also like to rise and support of disappointment.  Congratulations to you, Annabelle.  I want to thank you for helping my friend, George, the Deaness.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Annabelle Bizotto is congratulated on her new position by the unofficial newbie caucus. They express hope to work together closely in the future.

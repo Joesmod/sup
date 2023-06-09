@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+scope of that work is for the remiteration of contaminated sites.  Old veteran is not certified.  The next is in number, the next one just shows that the AIS environmental contract was broken down into two areas, North and South of Madison.  And once again, old veteran has both problems.  And it's for the, like I said, remuneration of contaminated sites and old veteran is not certified.  Now I'm going back to the zones of AIS zone number four.  We talked about two zones.  So this is the third one, zone number four.  The general contractor is Pacific Construction Services.  And once again, it's for general construction, Pacific Construction Services is not a certified firm.  And the last one is for AIS zone two, the general contractor is Paul Borg Construction.  Once again, for general construction and Paul Borg is not certified.  Okay, thank you, Mr.  Whitaker.  Does that conclude your presentation? Yes, sir.  Point of information, Mr.  Chair.  This is Alderman Rodriguez.  Go ahead, Alderman Rodriguez.  Thank you, Mr.  Chair.  Just a quick question.  Do these firms that are not certified, could they potentially be African-American or Latino, but just not have met the, or not filed paperwork or could you clarify what would qualify someone as the MB? Jackie, are you there? Jackie Charleston.  Yes, I'm here.  Can you unmute Jackie Charleston? She's over our certification and compliance section.  I'm unmuted.  Can you all hear me? Yes, could you identify yourself for the record, please? I'm Jacqueline Charleston, Deputy Procurement Officer over certification and compliance.  Thank you very much.  Go ahead.  Hi, can you repeat your question? You wanna know if the firms that are not certified, could they possibly be African-American or Latino? Yes.  Yes, that is a possibility that they can be.  But I will tell you that Passion, Leopardo, McDonough, Pacific and Paul Borg, none of them are certification eligible due to their race.  O veterans was certified at one particular
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The scope of the work is for the remediation of contaminated sites. The old veteran is not certified. The next one just shows that the AIS environmental contract was broken down into two areas, North and South of Madison. And once again, old veteran has both problems. It's for the, like I said, remediation of contaminated sites and old veteran is not certified. Now I'm going back to the zones of AIS zone number four. We talked about two zones. So this is the third one, zone number four. The general contractor is Pacific Construction Services. And once again, it's for general construction, Pacific Construction Services is not a certified firm. And the last one is for AIS zone two, the general contractor is Paul Borg Construction. Once again, for general construction and Paul Borg is not certified.

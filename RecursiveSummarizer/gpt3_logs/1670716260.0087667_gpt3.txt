@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+  The committee on contracting oversight and equity is here by call to order.  Given the governor's disaster proclamation and my determination that an in person meeting is not practical or prudent at this time due to the ongoing COVID-19 pandemic.  Attendance for this meeting will be conducted by video conferencing.  We will call the role to establish a quorum.  Please note that your yes or present response will be deemed as a yes vote when the quorum role is called is used for reference for vote for labor items.  Audemars please make sure your mics are unmuted.  Thank you.  Vice Chairman more present.  Audemars.  Here.  President chairman.  Here.  Here.  Okay.  Much to your delay chairman I am here.  Thank you.  All the Taylor.  Here.  Thank you.  All the Rodriguez.  Present.  All the Miss Scott.  Present.  All the Missy to Lopez.  Present.  All the member net.  All the member net.  All the member Boris.  All the member Boris.  All the member card on here.  Thank you.  All the men Austin here.  All the members Rosa Ramirez Rosa present.  Thank you.  All the members of the Vegas.  And I am present.  There are four team members present.  We have a.  Present chairman.  Are you voting sir.  Sure.  Thank you.  All right.  At this time we will have a comment period.  I believe there's one person or public comment.  I'm an urban on the next is present as a non member.  Oh my apologies all the men.  Thank you.  Mark you present.  Any other.  Any other non members present was to be recorded.  We will have you.  Mark we have one public comment.  Are they present chairman.  I don't see any public speaker for today.  My name is William had it I'm present.  Thank you.  Now I've got you later.  Judge that.  Okay.  Be there no public comment that will close the public comment period.  We'll move forward with the agenda.  The committee will not move to hear three items on today's agenda we will have two substitutions for items two and three in ordinance and a resolution are
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The committee on contracting oversight and equity is meeting by video conference due to the COVID-19 pandemic. They will vote on labor items. There is one person present for public comment. The agenda includes two substitutions for items two and three in ordinance and a resolution.

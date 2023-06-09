@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+even know whether Pat is a woman or a  man. There's really nothing about the content  of this speech, am -- am I right?  In your case, you have, like,  scripture examples, and so that might, you know, be different maybe, but you're being forthright  and saying it's really not about that. It's  nothing about the content of the speech. It's  just that the content is being -- what -- what -- whatever the graphics and typefaces and, you know -- you know, which hotels are -- you know, have been reserved for the wedding, it's being used in a same-sex marriage. MS. WAGGONER: No, it's not about the use. It -- what it's about when a person is creating speech, it is what is the message that they are expressing. The Hurley framework asked this Court to first look at is their speech, and there clearly is words, graphics, text, videos, pictures. That's speech, and it's generally protected. The second is to ask is the speaker's message affected. And when you're requiring a speaker to create a message to celebrate something that they believe to be false, you're Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 11 Official - Subject to Final Review  compelling their speech and it's affecting their  message.  JUSTICE JACKSON: So their message is not actually the content of the website. I  mean, this is Justice Kagan's point. We could  have a situation in which the identical website is being offered, one to Harry and Ann and one to Harry and Steve, but everything on the website is exactly the same. I think I hear you saying that the message that the designer would be sending when she offered the website to Harry and Steve would be different and contrary to her beliefs, and so -- so it's -- it's the implicit message that she's endorsing that wedding -- MS. WAGGONER: No. JUSTICE JACKSON: -- that's the problem. MS. WAGGONER: No, she's not -- it's not about whether she's endorsing it. She's not speaking through
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker is arguing that the content of the website is not the issue, it is the message that the website is sending by being used in a same-sex marriage.

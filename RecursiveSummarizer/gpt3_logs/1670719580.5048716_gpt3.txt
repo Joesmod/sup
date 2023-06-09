@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+regularly. She has  all kinds of clients. JUSTICE SOTOMAYOR: Tell me how that's different, by the way. What you're basically saying is, in our Ollie's Barbecue case, the company there said, I'll serve blacks but only on a takeout window, not inside my restaurant because that sends a message that I endorse integration. MS. WAGGONER: Ms. Smith isn't looking to send a message through her conduct. She's look -- JUSTICE SOTOMAYOR: No, she -- what you're saying is, I want to give gay couples a limited menu, not a full menu, just the way that luncheonette said. MS. WAGGONER: No. Just as this Court found in Hurley, she's being asked to shape her speech by a third party, and it's -- again, it's Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 Official - Subject to Final Review 34  about what messages she is creating. In Ollie's  Barbecue, they weren't engaging -- JUSTICE SOTOMAYOR: Well, when I sit down to eat a meal by a full chef who creates this beautiful picture on a plate, why can't he say, I make specialized meals for my clients. I will not serve a black person. I won't serve a disabled person because they can't appreciate  fully what I'm creating. That's basically what you're saying. MS. WAGGONER: No, I don't think it is what I'm saying. We're conflating service and speech in that instance. A chef isn't -- JUSTICE SOTOMAYOR: But why is yours not a service? MS. WAGGONER: May I answer the question? CHIEF JUSTICE ROBERTS: Yes. MS. WAGGONER: Because it is creating speech. And the public accommodation law is broad enough to ensure that we're not crushing consciences not just of Ms. Smith but of her LGBT friends. CHIEF JUSTICE ROBERTS: Thank you, counsel. If your client's website -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 35 Official - Subject to Final Review MS. WAGGONER: Stay?  CHIEF JUSTICE ROBERTS: Yeah, don't  go.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The lawyer for a Colorado baker who refused to make a cake for a gay couple's wedding argues that her client's actions are protected speech under the First Amendment. Justice Sotomayor points out that the baker is essentially saying that she does not want to serve gay couples, just as a restaurant in a previous case said it did not want to serve black people. The lawyer argues that the baker is not trying to send a message through her conduct, but Justice Sotomayor says that she is being asked to shape her speech by a third party.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+assistance to migrant families and individuals experiencing homelessness.  The program also provides supplemental funding for humanitarian relief efforts by by providing social service organizations that provide shelter and other support services to families and individuals encountered by the Department of Homeland Security eligible activities include shelter food transportation, provided by the CTA basic health and first aid covert 19 testing and other support services.  The Department of Housing is requesting to accept additional federal grant funds in the amount of 8 million 345,000 from the US Department of Treasury for the emergency rental housing assistance program, additional funds will be used to provide rental assistance payments to tenants and landlords under the federal emergency rental assistance program, and in particular court based programs.  There are two additional allocations that have been received one in the amount of 5 million 677,000, and the other is 2 million 668,000, which is a reallocation from other jurisdictions.  The Department of Public Health is requesting to accept additional federal grant funds in the amount of 644,000 from the US Department of Health and Human Services for the building epidemiology and health it capacity program, also known as epidemiology and laboratory capacity for infectious disease program.  The support funds provide support for public health surveillance detection and response to infectious and diseases funded activities include specimen collection and laboratory testing in congregate settings, including testing for covert 19 and shelters and nursing and other health care facilities, additionally fund support testing to detect covert 19 and wastewater's currently performed by the by the University of Illinois at Chicago and monitoring of covert 19 variants by genomic sequencing performed by the Rush University Medical Hospital in partnership with the Chicago Department of Public Health.  The Department of
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Department of Housing is requesting additional federal grant funds to be used for the emergency rental housing assistance program. The Department of Public Health is requesting additional federal grant funds to be used for the building epidemiology and health it capacity program.

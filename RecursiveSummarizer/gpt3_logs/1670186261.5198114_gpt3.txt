@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+mayor shall select a candidate or reject the candidates or reappointment candidate and provide the commission with a written explanation.  So what is a reappointment candidate? If if if there's already somebody on the board and that person is going to be reappointed that's a reappointment candidate.  But that person is is you know isn't necessarily going to be reappointed.  So that person would have to be a candidate.  Okay that's a little confusing that's that's very confusing.  So I thought it was a typo because if they're a reappointment candidate they're a reappointment or to reappoint or to reappoint a candidate.  Fair enough.  All right I I can I can appreciate where you're coming from.  Just clean it up please.  All right moving down to section eight.  Diverse has the same meaning as minority.  Can you explain that? Because they each have different definitions.  They do have different definitions and in fact but the uh there is this is a very similar definition to the other um with the addition of uh American Indians which includes all people from the uh from indigenous to the Americas.  Okay but they would be included under the other stuff.  I mean there there is a reason that the term minority was used historically and who it implies to by changing that definition to diverse and I'm not saying that it should not be diverse but you also cut out a group of people who under the term minority were meant to be included.  These are people that were historically excluded and so now we're going to exclude them even more.  The list of I'm sorry there's no question.  Huh there is a question.  Explain the difference to me.  The list is the same with the addition of of of those.  So let me pull up.  So minority includes uh under 292 670 n uh African American African Americans are Blacks under a Hispanics under b Asian Americans under c American Indians under d.  Um did I capture everybody who was there? Well yeah I mean American Indians and under I individual members
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The mayor is responsible for selecting a candidate or candidates for reappointment to the commission, and must provide a written explanation if they reject a reappointment candidate. "Diverse" has the same meaning as "minority", including all people from the Americas who were historically excluded.

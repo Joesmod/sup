@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+is not just at the hands of CPD.  Every level of government was complicit.  The city, the county, the state, and we have to act now.  We're asking for $2.25 million.  We've already raised $500,000 and in seven years we couldn't have gotten there yet.  I think that that's unconscionable.  I think the fact that we are even fighting to get a piece of legislation that has well over 20 co-sponsors that has been sent to the proper committee put onto an agenda is a denial of our voices.  It is demoralizing when we are trying to get people to be civically engaged.  We're watching and it's time to do the right thing, to stand with the least of these, to stand with those whose voices have been systematically silenced, and to stand with folks who are the expression of the worst types of state violence.  Please do the right thing when we're talking about public safety.  Thank you, Ms.  Bartley, for your comments this morning.  Mark Clements is next.  Hello, my name is Mark Clements.  Can you hear me? Yes.  Can you hear me? Yes, please continue.  Okay, for the next two minutes I respectfully request that every member of the budget committee give me the space and time to listen to me and to once again face the reality that men and women were tortured by members of the Chicago Police Department.  In May of 2015, the Chicago City Council passed decorations involving disgraced commander John Byrd.  In that piece of ordinance, it called for and was approved that the city of Chicago would build a memorial for victims of police torture, their families and most important the community of the city of Chicago.  For over seven years, that memorial has yet to be built.  The decision to build the memorial on the south side of Chicago was a collective one reached by survivors of police torture.  As a victim of Chicago police torture in 1981, while as a 16-year-old child and later railroaded to prison to serve a natural life sentence based on a confession that made totally no common sense,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Mark Clements, a victim of police torture in Chicago, is asking for the city to build a memorial for victims of police torture. He notes that the decision to build the memorial on the south side of Chicago was a collective one reached by survivors of police torture, and that the city has failed to act on this decision for over seven years.

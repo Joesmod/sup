@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+we're going to present is total I'm sorry, we're going to request an amendment totaling 36 million 263,000.  The request is from the Office of Budget and Management.  It is requesting federal grant funds in the amount of $16 million from the federal emergency management agency for the emergency food and shelter program.  This is an anticipated award that will be reimbursed for services rendered for providing shelter food and other support services to migrants and migrant families experiencing or at risk of experiencing hunger and or homelessness, specifically for providing humanitarian assistance to migrant families and individuals experiencing homelessness.  The program also provides supplemental funding for humanitarian relief efforts by by providing social service organizations that provide shelter and other support services to families and individuals encountered by the Department of Homeland Security eligible activities include shelter food transportation, provided by the CTA basic health and first aid covert 19 testing and other support services.  The Department of Housing is requesting to accept additional federal grant funds in the amount of 8 million 345,000 from the US Department of Treasury for the emergency rental housing assistance program, additional funds will be used to provide rental assistance payments to tenants and landlords under the federal emergency rental assistance program, and in particular court based programs.  There are two additional allocations that have been received one in the amount of 5 million 677,000, and the other is 2 million 668,000, which is a reallocation from other jurisdictions.  The Department of Public Health is requesting to accept additional federal grant funds in the amount of 644,000 from the US Department of Health and Human Services for the building epidemiology and health it capacity program, also known as epidemiology and laboratory capacity for infectious disease program.  The support funds provide support for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Department of Homeland Security is requesting $16 million from the Federal Emergency Management Agency for the Emergency Food and Shelter Program. This program provides social service organizations that provide shelter and other support services to families and individuals encountered by the Department of Homeland Security. The Department of Housing is requesting to accept additional federal grant funds in the amount of 8 million 345,000 from the US Department of Treasury for the emergency rental housing assistance program. The Department of Public Health is requesting to accept additional federal grant funds in the amount of 644,000 from the US Department of Health and Human Services for the building epidemiology and health it capacity program.

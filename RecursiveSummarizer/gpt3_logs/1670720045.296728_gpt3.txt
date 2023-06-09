@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+responds that if the principle is that the work is expressive and the message has changed, then anyone should be exempt from public accommodations laws.  The conversation is about a photographer who does not want to take pictures of Santa with children because he feels it is inconsistent with his beliefs. The question is whether or not this photographer can be forced to take these pictures.  The conversation is about whether a Christian organization can be compelled to publish an announcement for a same-sex couple's marriage. Mr. Fletcher argues that the organization does not have to because the refusal is not based on status. Justice Barrett asks why it is different in this case, where the status of the club is inextricably intertwined with the message they want to speak. Mr. Fletcher says it is for a couple of reasons, one being that the Court has recognized that same-sex marriage is a circumstance where status and conduct are inextricably intertwined.  The speaker argues that discrimination against gays and lesbians should not be allowed under public accommodations laws, because the expression of particular views is not inextricably intertwined with having a particular religion or being a Democrat or a Republican.  This conversation is about whether or not it is permissible for a website to include a statement that marriage is only between one man and one woman. Mr. Fletcher believes that it is permissible, while Mr. Olson believes that it would cause the website to lose business.  The conversation is about whether a state can broadly define a public accommodation, and whether there are limits to how far the state can go in defining what is a sufficiently substantial interest to justify scrutiny under the O'Brien test.  The conversation is about whether or not a state can define what constitutes an impermissible denial of service. The answer is that a state can define its public accommodations laws however it wants, but when it starts to bump up against the First
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether or not a state can broadly define a public accommodation, and whether there are limits to how far the state can go in defining what is a sufficiently substantial interest to justify scrutiny under the O'Brien test.

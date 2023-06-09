@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+holding in this case. Could -- could it be that we would say, you know, the First Amendment protects the web designer's abilities to, you  know, not have this kind of a same-sex wedding website only if it would be clear from, you know, a neutral observer or from the audience that having that website is their own expression? MR. OLSON: So two things to say on that, Your Honor. First is I think both Spence and Hurley itself talked about the importance of how an onlooker would look at the message and -- and who the onlooker would attribute the message to. So I think you certainly could -- could -- could build on that. And, again, here, there's no evidence whatsoever that -- that anyone would look at a wedding website designed by 303 Creative and say, oh, that is, you know, the speech and beliefs of the designer as opposed to the couple getting married. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 109 Official - Subject to Final Review JUSTICE JACKSON: Thank you.  CHIEF JUSTICE ROBERTS: Thank you,  counsel.  MR. OLSON: Thank you.  CHIEF JUSTICE ROBERTS: Mr. Fletcher.  ORAL ARGUMENT OF BRIAN H. FLETCHER  FOR THE UNITED STATES, AS AMICUS CURIAE,  SUPPORTING THE RESPONDENTS  MR. FLETCHER: Thank you, Mr. Chief Justice, and may it please the Court: My friend, Ms. Waggoner, offered a two-part test this morning for when a commercial business is entitled to an exemption from a generally applicable public accommodations law. She said, number one, is their product speech, and, number two, does serving a particular customer change the message in the view of the business. Now, as the questions today have already explored, that leads to extremely sweeping results. It means that any provider of expressive services is entitled to put up a sign saying we do not serve people with particular characteristics whenever they believe that serving those people would change their message. Heritage Reporting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation discuss the implications of the First Amendment on public accommodations laws. Specifically, the question is whether or not a web designer can refuse to create a website for a same-sex wedding if it goes against their religious beliefs. It is noted that if this were the case, then any provider of expressive services could put up a sign saying they do not serve people with particular characteristics if they believe that serving those people would change their message.

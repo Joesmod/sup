@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+accommodations law and speech. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 61 Official - Subject to Final Review MR. OLSON: I think we see some public accommodation law being applied to examples that are speech today, tailors, barbers, et cetera. But what we don't see over the long history of public accommodation laws in this country is people raising First Amendment speech objections  to those laws applying to it.  JUSTICE THOMAS: Well, I think that in part depends upon whether or not you're engaging in speech. If you're running a train business or a riverboat business, that's not exactly -- doesn't implicate speech. So those are straightforward. I understand that. What I'm interested in is, when you are talking about public accommodations laws directly or indirectly regulating speech, is there a tradition of that? Can you point to cases? Can you point to common law treatises, et cetera? MR. OLSON: So I think that the historical record is sparse on both sides, but the two things I would say, Justice Thomas, is what we don't see is a history of public accommodation laws carving out speech. They all are laws of general applicability that apply to Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 62 Official - Subject to Final Review all those operating a trade to the public. They  don't say except those engaged in expressive  conduct.  And, with that framework, we do not  see a history of cases where people raise their hand and say it shouldn't apply to me because  I'm speaking. And so I think the public accommodations brief on our side in this case  sets that out quite nicely. But -- but there is no case from 150 years ago that comes out either way with this exact issue. JUSTICE GORSUCH: Mr. Olson, I -- CHIEF JUSTICE ROBERTS: Well, just -- JUSTICE GORSUCH: I'm sorry, Chief. CHIEF JUSTICE ROBERTS: Not -- not 150 years
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the justices are discussing whether public accommodation laws can be applied to speech. Mr. Olson argues that there is no history of people raising First Amendment speech objections to these laws. Justice Thomas is interested in whether there is a tradition of public accommodation laws regulating speech. Mr. Olson argues that there is no such tradition.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a summary and dollar amount along with the likliness of the bill being passed on a scale from 1 to 5, 5 being the most probable. Here's an example of that format: Machine & Equiptment | $63,000 | 4.2:
+
+
+So that would be good to also look into and perhaps they would give us a good price on it too.  Thank you so much.  Thank you, Madam Chair.  Thank you, Alderman Capelman.  Alderman Spizzato.  Thank you, Madam Chair.  Good morning, Acting Commissioner.  I don't really have any questions for you.  I just want to say thanks for studying the ship as we've been going along.  I appreciate you.  Appreciate the phone call.  And I just want to let you know you will have my support in your confirmation.  So best suited to you in the future and look forward to working with you.  Thank you so much.  Thank you, Madam Chair.  Yes, thank you, Alderman.  I just want to acknowledge that Acting Commissioner Blake Moore has with her today in the box, her husband, Mark Blake Moore.  Archie Mack, her longtime friend and mentor.  Iris O'Donnell, her assistant.  Carmen Rocha, contracts expediter and Raquel Rodriguez, Northern, the finance deputy of the department.  And I want to say I'm excited about this appointment as well.  Many of you don't know, but the commissioner and I are line sisters and very I've watched you and I know your commitment to everything that you do, how you put your heart and your passion and your intellect.  You're a serious straight no chaser type.  And I'm really excited about your leading the department.  And I would like to know if there's an Alderman Burnett.  Point of information, Madam Chair.  First of all, congratulations to you.  Just wanted to know, are you related to George Blake Moore, or is George Blake Moore related to you? I can defer that question to my husband.  Okay.  You walked out earlier.  Okay.  All right.  I was maybe moving a little too fast.  I'm so excited about this appointment.  Alderman Hairston and Alderman Lopez.  Thank you.  I too want to congratulate you.  You've done a great job so far.  I just have a question and it might not be for you, but I'm going to start with you since you're in the chair.  So I know that several city
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The proposed spending is for a machine and equiptment, totaling $63,000. There is a 4.2 likelihood that the bill will be passed.

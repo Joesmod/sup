@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+for that.  And for the record, could you state your name.  I can repeat myself because I realized I wasn't on mic.  Good morning everyone.  My name is Angela to have our I'm the chief sustainability officer.  Okay, so you're going to be running this department.  Yes, that is correct it's a, it's an office.  Yes.  Okay, so you can be running the office so can you tell us what your vision is for this office and what this office will be doing.  Sure.  So the Office of Climate and Environmental Equity is intended to work cross sectorally across all sectors and departments to advance the vision that we set forth in the climate action plan.  We released a climate action plan this year, it gets the city to a 60% reduction in our greenhouse gas emissions by 2040, while also driving equitable co benefits that our communities need.  In addition to that, we will be working with departments so we serve as a coordinating body, which is the function that we have now.  This is intended to codify the function that already exists with this team in terms of serving as a coordinating body to work across all departments to lower the greenhouse gas emissions of the city of Chicago to drive co benefits that our communities need now, and to advance a wide range of environment and sustainability priorities on behalf of the city.  So, why this office and not the Office of the Department of Environment.  So, I think that the immediate answer to that is there should be a governance structure that helps advance the city to a clean energy future.  And right now and what we have seen we have done a best practice scan across many cities, most cities have both the effort on behalf of an office at a higher level that is charged with strategic coordination is critical here.  So most cities, if you look at New York.  If you look at Los Angeles if you look at Boston Philadelphia, there is both a coordinating climate office and a Department of Environment.  We don't have a Department of Environment and
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Office of Climate and Environmental Equity is a new office that will be responsible for coordinating the city's efforts to reduce greenhouse gas emissions and advance environmental and sustainability priorities. The office will be headed by the chief sustainability officer, who will work with all city departments to achieve these goals.

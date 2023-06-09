@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+they say we want "God bless this union" on our website, and the web designer says that's fine, but you understand under our name at the bottom we say on every website we believe that marriage is only between one man and one woman and we're going to put that on your website? Justice Alito says maybe that person will walk away, and maybe they will. But the point is, if they do that in Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 107 Official - Subject to Final Review every situation and it's clear that it's not  their statement, then do we solve the -- the -- the difficult Justice Kagan problem of, like,  who's -- who's making an expression here?  MR. OLSON: I think we -- we make  progress towards solving it. And I think, back to the stipulations, I think it's notable that the stipulations here do not address that  question that you raise, Justice Jackson. What the company says is, well, every website has "Designed by 303 Creative" at the bottom. That's paragraph 83 of the stipulations. And then they say: And, if a viewer of a wedding website goes to 303 Creative, then they will understand our philosophy -- our own website, then they will understand our philosophy and understand that there's some implicit, you know, recognition or endorsement, whatever, of the wedding. But, on the stipulated facts here, the question you pose is totally wide open. There's no evidence in the record whatsoever and no websites in the record to look at to see whether anyone would attribute the speech about the couple on the wedding website to the designer as Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 108 Official - Subject to Final Review opposed to the couple.  JUSTICE JACKSON: Should -- should we have that as part of our standard in the holding? Like let's say we don't want to go as  far as you're suggesting perhaps with the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The question at hand is whether or not a web designer can be forced to include a statement on a website that marriage is only between one man and one woman if the company they work for holds that belief. The stipulations in this case do not address that question, so it is wide open.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+I think this is a familiar  problem in public accommodations law.  JUSTICE ALITO: Okay. Suppose -- last -- I -- I think my last question. Suppose 303 Creative says that there's so much demand for our services that we have to be selective in who  we choose. Would this be -- would that make  this case -- would this case come out  differently then? MR. FLETCHER: I don't think so, Justice Alito. I think that a business that is open to the public and serves the public but has more business than it can handle and so has to be selective is still a public accommodation. JUSTICE ALITO: Thank you. CHIEF JUSTICE ROBERTS: Justice Sotomayor? Justice Kagan? JUSTICE KAGAN: Mr. Fletcher, when I read your brief, I had the sense that you and General Olson, Colorado, parted ways on -- on -- on some matters, and I'll just -- on my hypothetical, God blesses this union, I thought that you might find -- find that more difficult than General Olson, and I'm wondering if I'm Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 133 Official - Subject to Final Review  right about that and -- and if I am right why  and what that says about your argument  generally.  MR. FLETCHER: So let me give you the  answer I'd give today. I'd start with just the  same observation that General Olson gave you,  which is that I think there are free exercise  clause issues might come into play. I'll put those to the side because this is a speech case, right? And I think what that pushes on is can the person who's providing services credibly say I'm not denying service just because of status, I'm denying service because there's some message that's not just tied to status that I'm not willing to speak for anybody. And, to me, some -- JUSTICE KAGAN: Gay marriages are wonderful to take the religion out of it. MR. FLETCHER: Right. Right. So, obviously, Ms. Smith can say, I will not make any wedding website for anyone that says gay marriages are
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This is a conversation about whether a business can discriminate against customers based on the business owner's beliefs. Mr. Fletcher argues that a business should be able to refuse service if the owner has a religious or moral objection to the customer's request. Justice Kagan asks whether this would also apply to a business owner who objects to gay marriage, and Mr. Fletcher says yes.

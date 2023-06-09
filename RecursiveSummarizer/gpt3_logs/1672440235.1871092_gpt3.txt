@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+50th wards.  I move passage of these items by the same motion if there's no objection.  Hearing no objection so ordered.  Madam President that concludes my report of the November 29th meeting will now move on to the second report, which is Madam President members of the city council presenting a series of reports for your committee on zoning landmarks and building standards, which held a meeting on December 13 of 2022.  These reports are grouped for convenience and the following items were passed by majority of members present.  Each one contains document number 02022 dash 3777.  The amendment of municipal code titles 2411 14a 14b 17 and 18 and technical corrections to the Journal of proceedings of April 21st 2021 for ordinance number 02021 dash 1193 and the September 21st 2022 ordinance s 02022 dash 208 regarding Chicago construction codes.  I move passage of these items by the last most favorable roll call vote of the committee on finance and associated unsuccessful motion to reconsider.  Hearing no objection so ordered.  Page 1 contains document number 02022 dash 3729 the amendment of ordinance 02022 dash 1869 the zoning reclassification of map number 14 dash h at 1920 through 1924 west 59th street.  I move passage of this item by the same motion if there's no objection.  Hearing no objection so ordered.  This one is the casino one just in case people are paying attention to this one.  Page 2 contains document number 02022 dash 2629 a map amendment in the 27th ward for the addresses commonly known as 643 through 741 west Chicago avenue 641 through 739 north Halstead street 632 through 740 west Erie street 627 through 661 west Erie street 501 through 531 north displaying street and 524 through 630 west grand.  I understand a few of our colleagues would like to say a few words and that there will be a roll call at the end of the discussion.  Those wishing to speak on this this item.  Alderman Hopkins.  Yes, thank you, Madam President.  Rise in opposition to this
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city council passed a series of reports on zoning, landmarks, and building standards at their December 13, 2022 meeting. The reports included amendments to the municipal code and technical corrections to previous ordinances. The council also passed a map amendment for the 27th ward.

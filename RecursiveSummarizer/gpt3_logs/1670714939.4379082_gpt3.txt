@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+having people work on the job for three weeks and then get dropped.  That's the biggest concern and complaint that we get from residents when we have projects in the community that we wanna try to create long term paths to employment, which could include local residents, but we wouldn't wanna see local residents dropped off of projects merely because they don't necessarily meet a residency requirement.  So that's the balance here back and forth.  I appreciate that, but I don't see how that ordinance addresses that point specifically.  I agree.  Okay.  Thank you.  Oh, sorry, thank you.  Alderman Rodriguez.  Thank you, Mr.  Chair.  My understanding is we're talking about the 25, forgive me, the lowest socio-economic status, 25 community areas or wards or how are we defining this geography? I'm gonna ask Brian Hacker from the Chicago Department planning and development to weigh in on the classifications.  Yeah, good afternoon, everyone.  Yeah, I'm Brian Hacker from the Department of Planning Development.  So if it's possible to share my screen, I can show a map of that, but the biggest answer to your question Alderman Rodriguez is that these are determined by a census tract geography using three different data points and they're all equally weighted to determine the areas, the greatest socio-economic disadvantage and the data points used to determine that are the median household income, poverty rate and unemployment rate.  And so the census tracts that are qualifying represent the lowest 25% of households in the city of Chicago.  And you said, and by the way, Mr.  Chair, forgive me, I'm not in a position to put my video on it, I'd like to do that, forgive me.  Thank you, Mr.  Hacker.  You said you had a map that you wanted to share? Yeah, if it can be allowed.  No, that's not right.  The one addition that I like to just articulate is that many individuals who lack documentation status don't show up on these types of analysis.  So I'm wondering if that was taken into
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is proposing an ordinance that would give preference to local residents for jobs on city projects. The biggest concern with this ordinance is that it would result in people being hired for three weeks and then let go. Alderman Rodriguez is concerned about how this ordinance will specifically address that issue. Brian Hacker from the Department of Planning and Development explains that the ordinance is based on census tract data that does not take into account undocumented residents.

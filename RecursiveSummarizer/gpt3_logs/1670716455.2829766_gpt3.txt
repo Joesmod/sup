@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+book is specific to the Midwest industry, construction costs for the items.  And the bidder can either bid the price of the book, lower or higher.  And the JOC contracts are used to respond to task orders related to the user department specific scope of work.  The value of the JOC contract depends upon the department needs and their budget.  No projects are identified at the time of bidding.  Contract is for a fixed term and has the potential dollar value, a minimum and a maximum dollar value.  The department of procurement, this is not only the cloud, but my way of information.  The Department of Procurement Service has oversight management of the city JOC contracts.  Although the departments are awarded JOC contracts and those contracts have a vendor limit, any type, any work that is being performed under those contracts must be approved by the chief procurement officer.  And that's done by the department requesting approval via a, what we call a memorandum of authorization, acting MOA, that MOA identifies which contract they wanna use, without the anticipated estimated dollar value of that contract, and as well as the scope of work for that contract.  And it's also asked why do they believe, the department believes is this JOC appropriate? And is there any other means or methods that the department can procure these services or goods under and work under other than JOC? So that it has to be kind of justified as to why this project is JOC appropriate.  Now, once it is determined by CPS that the project is JOC appropriate, that memorandum of authorization is found by the chief procurement officer, and then the user department can begin engaging the JOC contractor as to preparing their documentation to perform that work.  And that documentation includes a cost proposal, as well as what is their proposed minority and women-owned business plan, compliance plan to achieve the contract goals on the contract.  And when that's done, once the department has received a cost
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The book is specific to the Midwest industry and construction costs for the items. The bidder can either bid the price of the book, lower or higher. And the JOC contracts are used to respond to task orders related to the user department specific scope of work. The value of the JOC contract depends upon the department needs and their budget. No projects are identified at the time of bidding. Contract is for a fixed term and has the potential dollar value, a minimum and a maximum dollar value.

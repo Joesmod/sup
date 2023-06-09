@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+one doubt it was speech, but because it was incidental, the Court upheld it. JUSTICE JACKSON: Thank you. CHIEF JUSTICE ROBERTS: Thank you, counsel. Rebuttal, Ms. Waggoner? REBUTTAL ARGUMENT OF KRISTEN K. WAGGONER  ON BEHALF OF THE PETITIONERS MS. WAGGONER: Mr. Chief Justice, the Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 150 Official - Subject to Final Review United States says that you can refuse to  express messages unless those messages are about marriage and unless those views on marriage have to do with believing that marriage is between a  man and a woman. That's a significant concession that the government has made.  In terms of this issue of categorical denial, the only categorical denial that Ms. Smith seeks or a categorical request she seeks is to have message-based protection that the First Amendment already provides. It's based on the message. And, in that way, this Court decides every speech case based on the message. We can look at FAIR. We can look at Miami Herald, Tornillo. All of the Court's cases on speech where compelled speech is applied, you will see the "affect or alter the message" test, including in Hurley. And in order to rule against Ms. Smith in this particular case, it does seem that the Court would essentially have to overrule that Hurley framework. Second, Chief Justice Roberts raised the issue of FAIR and how FAIR applies, and the United States has suggested that somehow this case is closer to that. But, in FAIR itself, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 151 Official - Subject to Final Review FAIR was about a duty to give access to empty  rooms. The logistical e-mails that were to send directions to how go to those rooms was a duty that was required to facilitate legal conduct.  This case is speech that's only  incidental to speech. When you have a speech  corrector --
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chief Justice and Justice Jackson question the United States' counsel on the issue of compelled speech in the case of Masterpiece Cakeshop v. Colorado Civil Rights Commission. The United States concedes that marriage is a message, and that the First Amendment already provides protection for message-based speech. However, they argue that the petitioner in this case is seeking a categorical denial of service, which is not allowed. Chief Justice Roberts asks about the case of FAIR v. Rumsfeld, and the United States argues that this case is closer to that one.

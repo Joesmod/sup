@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Thank you for your patience with him.  You're, you're strong lady, you know, and you help to propel him to where he is.  I know a lot of staff for a lot of us really do a lot of the work for us in the community so I appreciate what you've done, you know for the community, and I know you're going to do well so congratulations to you and we're all here to help you.  Thank you.  You all are in Burnett.  Any other members of the body that wish to speak to this resolution.  I'm in Lopez.  Thank you, Madam President Good Morning members of the city council and good morning, Annabelle and to your family.  It's a miracle, not just because of my clothes, but I get to actually commend the mayor on this pick, or someone I know personally, someone that my husband and I both have had the pleasure of working next to both for the greater good of our shared experiences but also on the political front as well.  And to say that we've been in the trenches together before and to see you here now is truly a remarkable thing that I'm proud to be a part of to witness.  I also want to offer my services in case you need any good fashion sense.  I do have none, but Hugo is available for you.  But I do have a word of caution for my colleagues as well.  I'm going to talk about Annabelle.  Don't take her lightly.  She comes from great stock.  And if you didn't know she could deadlift 290 pounds very easily, which means she could probably take out any one of us at any given time.  If we don't cooperate and show us show her our best.  Madam President, I gladly support your nomination.  I welcome you to your seat and look forward to working with you now and in years to come.  Thank you, Madam President, the chair recognizes all the men more.  Thank you, Madam President.  Actually I was just, you know, gonna ditto what everybody else said but the young lady in the back of you in the pink is that your niche your daughter your sister.  She's so excited and happy up there she is.  She's, she's sitting
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker thanks the person being nominated for their patience and hard work, and congratulates them on their success. They express a desire to work with the person being nominated in the future.

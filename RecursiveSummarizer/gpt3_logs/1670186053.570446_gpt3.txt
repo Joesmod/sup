@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Our next speaker is Cheryl Nell Lane.  While Ms.  Lane is moving forward to the mic, I want to acknowledge Vice Chair Silverstein, Alderman Knudsen, and Alderman Mitchell have joined us and for quorum.  And to remind the speakers that we have three minutes, you have three minutes and that you have to speak on all the items on the agenda.  If you've got other items on the agenda, please include them in your remarks.  Ms.  Lane.  Hello, my name is Cheryl Nell Lane, and I'm a disabled resident in Chicago.  Every year we know that snow is coming, especially in Chicago.  I am a very active, well-traveled person with disabilities.  And during the winter months, my whole social life, work life activities are halted because of the snow.  There are more people than people with disabilities that need to travel the sidewalks, mothers with strollers, senior citizens, just normal ability residents.  We have black ice on our sidewalks, and sometimes we are forced to walk in the streets.  This is unacceptable.  We need to come together to put on the budget the funds needed to plow the sidewalks.  The fines are not enough.  We have to consider that everyone is not able to do the physical labor required to keep the sidewalks clear.  There are people who can't afford to do it either.  So we have to consider all residents of this city, all residents that need to get out.  And if you have a problem putting yourself in their shoes, think of it like this.  If there was an invisible force stopping you from leaving out of your front door to get to work, to get to this council meeting, to get to family gatherings for the holidays, what would you do then to make sure that you made the invisible force go away? This is how we have to consider the plow the sidewalks campaign, because if we don't plow the sidewalks, that's exactly what we're doing to a lot of residents in Chicago.  So please consider adding to the budget the funding needed for the pilot program to plow the sidewalks in Chicago.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Cheryl Nell Lane, a disabled resident of Chicago, urges the city council to fund a pilot program to clear sidewalks of snow and ice. She argues that this is necessary to ensure that all residents can safely get around, regardless of their ability level.

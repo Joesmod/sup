@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Because the company, unlike our first example of the speech writer -- JUSTICE GORSUCH: Yeah. MR. OLSON: -- the company here says in no uncertain terms will they ever sell a company -- a -- a -- a -- a product or a service to a same-sex couple permitting that I -- JUSTICE GORSUCH: No, what they say is we will not sell to anyone -- anyone a -- a message that I disagree with as a matter of religious faith, just as a speech writer says or the press release writer, the freelance writer, says I will not sell to anyone a speech that offends my religious beliefs. MR. OLSON: But, here, they are defining their service by excluding someone based on their -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 93 Official - Subject to Final Review JUSTICE GORSUCH: That's their  religious belief.  MR. OLSON: Well, in Colorado -- JUSTICE GORSUCH: You can't change  their religious belief, right?  MR. OLSON: No, but -- but -- well,  two -- JUSTICE GORSUCH: And you protect religious beliefs under the statute, right? That is one of the protected characteristics in theory. MR. OLSON: Yes, and in practice. If it wasn't in practice, we'd have heard about it over -- over the past several years, and -- and my friend has pointed to no example where this has been applied in a -- JUSTICE GORSUCH: Mr. Phillips did go through a re-education training program pursuant to Colorado law, did he not, Mr. Olson? MR. OLSON: He -- he went through a -- a process that ensured he was familiar with -- JUSTICE GORSUCH: It was a re-education program, right? MR. OLSON: It was not a re-education program. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 94 Official - Subject to Final Review JUSTICE GORSUCH: What do you call it?  MR. OLSON: It was a process to make sure he was familiar with Colorado law.  JUSTICE GORSUCH: Someone might be excused for calling that a re-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the Justices are discussing whether or not a company can refuse to sell a product to a same-sex couple based on religious beliefs. Justice Gorsuch asks if the company's religious beliefs can be changed, and Mr. Olson responds that in Colorado, the company would have to go through a process to ensure they are familiar with the state's law.

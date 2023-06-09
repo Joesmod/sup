@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+equity is adjourned.  Thank you all so much.  Thank you.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The equity is adjourned. Thank you all for your time and effort.

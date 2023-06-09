@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+situations you've raised, there would not be speech. JUSTICE SOTOMAYOR: But why not? I'm saying your identical website, and I don't see a page in here where it says I am speaking, 303. That's on your personal website. It's not on the wedding website. I've asked you to show me where, in which pages, it's your message as opposed to the couple's message. MS. WAGGONER: Every page is my client's message -- JUSTICE SOTOMAYOR: But that -- MS. WAGGONER: -- just as in a newspaper that posts an op-ed written by someone Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- -- 32 Official - Subject to Final Review else -- JUSTICE SOTOMAYOR: So why doesn't the  MS. WAGGONER: -- or Hurley, the  parade.  JUSTICE SOTOMAYOR: But then why does  an off-the-shelf website -- the creator of an  off-the-shelf website is then speaking? That's  what you're saying. MS. WAGGONER: No, because the Compelled Speech Doctrine doesn't apply once you've entered that speech into the stream of commerce. When the speech is completed, the Compelled Speech Doctrine no longer applies. But, in addition, there are 20 states that have filed an amicus brief in this case and said they are right now using their public accommodation laws to allow message-based protections, as Hurley would require, and they're not experiencing these issues. And in JUSTICE SOTOMAYOR: But you're not asking for that. You're saying, I don't want to serve a particular person, a disabled person, a black and white couple, a disabled couple, a -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 33 Official - Subject to Final Review a gay couple. You're basing it not on the  nature of the message, you're basing it on who  you're serving.  MS. WAGGONER: That's -- I don't think  that's a fair characterization. The stipulated facts in this case are that Ms. Smith has LGBT  clients. She serves them
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justice Sotomayor and Ms. Waggoner, a lawyer. Justice Sotomayor is questioning Ms. Waggoner about why she should be allowed to refuse service to a gay couple. Ms. Waggoner argues that the Compelled Speech Doctrine does not apply in this case because the speech is already in the public domain. She also argues that there are 20 states that have filed an amicus brief in support of her position.

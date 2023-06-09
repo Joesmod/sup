@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an itemized summary of any proposed spending, starting with the amount proposed to spend and what that money spent will do in the following:
+
+
+about this.  You don't see a slide, dude.  No, we don't.  Do you see it now? I see you, Bob.  No.  Bob, are you clicking on the share button after you click on the share button and you select your presentation, you have to click on the other share button on the lower right side.  I'm hitting the share button on the right.  It's giving me a one drive.  No, you don't want to share one drive.  Right.  So when you click on share, then select your PowerPoint, click on your PowerPoint and then click on the shared blue color button.  Oh, you may have gone to the files tab from the top.  Select basic.  Yeah, it seems like I'm on files.  Yeah, from the upper portion of your shared window, basic is what you want to click on.  It says basic advance and files.  I'm sorry, everybody, for this.  If you want to unmute me, your presentation.  Trying to bring up the slideshow.  I'm sharing.  Now we see it.  It's your entire screen.  But.  Okay.  Do we have do you see it now? Yes.  Okay, excellent.  Thank you.  Sorry for that delay.  Well, you introduced the project already.  It's the sale of a former library at 6435 North California.  We had originally received an offer for this former library from an organization called called the Yocket, and they were planning to buy the former library and use it for for programs for individuals with disabilities.  And we did the advertisement in the newspaper as required, and we got two other offers for the property.  And so we went through a round of basically asking people for a highest and best offer as well.  So the bottom line is that the library is here in the Westridge area of the city.  And so these were the original offers.  And we did a highest and best offer as well.  So we far exceeded the appraised value of $630,000.  And this is also one of the properties that was identified as a land sale prospect for the city to fill the budget gap from last year.  So this is a big win in terms of the amount that we received from it.  It's also a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is proposing to sell a former library at 6435 North California for more than the appraised value of $630,000. The proceeds from the sale will go towards filling the budget gap from last year.

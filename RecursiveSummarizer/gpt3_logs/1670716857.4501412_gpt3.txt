@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+item on today's agenda.  A subject matter hearing on item number 02021-2865.  A communication recommending a proposed ordinance to amend municipal code 2-92- Mr.  Chair, if I could, if I could just jump in real quick.  We do have the one public speaker if we could allow Ms.  Oh, we do have one public speaker.  To speak.  Yes.  Okay.  Thank you so much.  Please.  Could you all call on the public speaker and give their name.  Me, as a public speaker.  Well, they usually let us know who's the public speaker, but since you want, you could go ahead and state your name and begin to speak.  I'm Catherine Toyega, and I'm calling on behalf of WCOE Women Construction Owners and Executives.  Good afternoon, Chairman Austin and members of the committee.  As I mentioned, my name is Catherine Toyega, and I am the owner of CT Mechanical and an active member of WCOE.  I started my business in 2008 and have been in the construction industry for nearly 25 years.  And I'm here to speak on behalf of WCOE.  The CME supports Mayor Lightfoot's ordinance to continue the MWBE construction program.  Our members averaged 35 years in business, and this ordinance has made it possible for WCOE members to work on every major public construction project in Chicago.  Despite our significant years of experience, WCOE members still face substantial discrimination in the construction industry.  The MWBE construction program has afforded women and minority-owned construction companies the ability to work on public construction projects.  However, those lucrative private construction projects in Chicago continue to elude us.  For example, of the 354 private projects that have been taken up by the Chicago's planning commission since 2017, only 11 of those projects actually agreed to meet Chicago's MWBE goals, and that is a mere 3%.  WCOE firmly believes this is a disparity that Chicago can and should address to provide additional opportunities for women and minority contractors.  WCOE also urges the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The CME supports Mayor Lightfoot's ordinance to continue the MWBE construction program. The MWBE construction program has afforded women and minority-owned construction companies the ability to work on public construction projects. However, those lucrative private construction projects in Chicago continue to elude us. WCOE urges the city to address this disparity and provide additional opportunities for women and minority contractors.

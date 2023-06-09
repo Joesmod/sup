@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+could have a store that can say we sell products that are solely for -- related to Judaism, and it's not likely to be appealing to Christians or Hindus, but no one thinks the store is violating the public accommodations laws unless it says no Christians or Hindus may enter, and then it is violating the public accommodations laws. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 129 Official - Subject to Final Review JUSTICE ALITO: Is there any limit to how broadly a state can define a public accommodation? So suppose a state defines it as  any business provide -- a business that provides services to a significant portion of the public.  MR. FLETCHER: I -- JUSTICE ALITO: Would that make -- mean it's no -- it can't be regarded as public  accommodations anymore? MR. FLETCHER: I don't know about that line specifically, Justice Alito. I -- I will accept the premise of the question. I do think there are limits as to how far the state can go at least when we're talking about what's a sufficiently substantial interest to justify or to pass scrutiny under the O'Brien test. JUSTICE ALITO: Well, I ask this because a lot of the arguments on your side seemed to view public accommodations -- that if it's a public accommodations law, it's generally okay, there's no problem with it. And that's why I want to know how far that can be expanded. So some selectivity would not necessarily take a business outside of the -- the definition of public accommodations? The Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 130 Official - Subject to Final Review same arguments would apply?  MR. FLETCHER: Some selectivity wouldn't take them out, but I think the farther the state wanders from the sort of traditional core of commercial establishments that hold themselves out as serving the public, the weaker  the state interest is.  JUSTICE ALITO: What
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about whether a state can broadly define a public accommodation, and whether there are limits to how far the state can go in defining what is a sufficiently substantial interest to justify scrutiny under the O'Brien test.

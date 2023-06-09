@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+JUSTICE KAGAN: Yeah. So then -- I mean, the difference is one couple is opposite Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 39 Official - Subject to Final Review sex, one couple is same sex. How is this -- you  know, what -- what are the different meanings? What is the speech that your client is  expected -- is -- is required to provide in the  way I expressed it to you?  MS. WAGGONER: The purpose of the  websites is to celebrate an upcoming wedding.  It's to announce a wedding. And so -- JUSTICE KAGAN: It is to announce a wedding. I mean, let's -- this is a standard site. You know, there's not a whole lot of, gosh, isn't this great? It's just like here's the registry, you know. It's announcing the wedding. It's announcing where to get the hotel reservations and so forth, right? So what speech is being -- I mean, that's -- that's what -- that's what websites do, just like it's what invitations do, right? So, you know, next, we'll have the stationer up there saying, you know, we print the station -- the stationery, right? I mean, it would be the same. It is announcing the wedding. What's the speech that's been required of your client that we -- I mean, I'm going to have lots of questions for these guys too, but, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 40 Official - Subject to Final Review in -- in that context, what is the speech that is required of your client that would violate  the First Amendment?  MS. WAGGONER: She believes that  same-sex weddings contradict scripture and she's announcing a concept of marriage that she believes to be false.  And, in addition to that, even -- JUSTICE KAGAN: I mean, but that just sounds to me like I would be participating in a wedding, I would be, you know, lending my services to a wedding. You know, as Justice Sotomayor suggested, the florist, the baker, and the guy who
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justice Kagan and Ms. Waggoner, who is representing a client who owns a website design company. The client believes that same-sex weddings contradict scripture and refuses to design a website for such a wedding. Justice Kagan asks what speech is required of the client that would violate the First Amendment, and Ms. Waggoner responds that the client believes same-sex weddings are a concept of marriage that she believes to be false.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Speech Doctrine protects the LGBT website designer, who won't be forced to have to create a website essentially advocating for a view of marriage that they don't hold. JUSTICE KAGAN: Can I ask not just -- JUSTICE GORSUCH: Well, what do we -- Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 21 Official - Subject to Final Review what do we do -- JUSTICE KAGAN: -- and this is -- JUSTICE GORSUCH: -- what do we -- I'm  sorry. No.  JUSTICE KAGAN: No, go ahead.  JUSTICE GORSUCH: No, no, please.  JUSTICE KAGAN: No, no, no.  CHIEF JUSTICE ROBERTS: Justice --  Justice Gorsuch? (Laughter.) JUSTICE GORSUCH: I -- I -- I -- I'm sorry. JUSTICE KAGAN: No, no, no. JUSTICE GORSUCH: One can view these websites, or last time around we had cakes, as either expressing the maker's point of view or the couple's point of view, and -- and that's really at -- at the heart of a lot of this. And I guess I'm -- I'm a little confused because sometimes, as I -- as I understand it, you're saying inherently here it is my client's point of view and not just the couple's point of view. I'm being compelled to speak. I get it. And sometimes Colorado agrees with you, for example, when it comes to the example Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 22 Official - Subject to Final Review you just gave, which is why it popped up. I believe it was William Jack in -- in the Masterpiece Cake example where Colorado said he didn't have to create cakes that -- that spoke  against same-sex marriage, that that would be  his compelled speech, not just the couple's  speech.  So what do we do about this level of  generality problem, if you will, where people slide back and forth based upon their priors? How do we avoid that as a Court? What rule would you have us draw? MS. WAGGONER: The Court should follow a rule that says, if speech is being created and there's an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about the line between a person's right to free speech and the government's ability to compel speech. In this case, the question is whether a website designer can be forced to create a website that advocates for same-sex marriage, even if they don't agree with that view. Justices Gorsuch and Kagan are questioning whether the website designer's speech is their own speech or the speech of the couple getting married. Colorado has said in the past that cake makers don't have to make cakes that advocate against same-sex marriage, because that would be the cake maker's speech, not just the couple's speech. The question is how to draw a line between free speech and compelled speech in a way that is clear and consistent.

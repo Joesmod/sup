@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+opening up your ears.  Just Google can TV.  Just Google and you'll see I haven't changed my language and my tone haven't changed about changing lives.  Thank you very much Mr.  Bailey for your comments.  Our next speaker is Vance White.  Mr.  White are you present? Our next speaker is Zach Savela Stollard.  Mayor Lightfoot and members of the City Council.  My name is Zach Savela Stollard, a resident representing Stop Predatory Gambling Illinois.  Fire of a national nonprofit that works to prevent gambling operators from targeting vulnerable victims.  I come here today to respectfully ask members of this body to vote no on the Valley's casino proposal.  Valleys have shown casinos increase addiction locally and this casino will profit at the expense of our neighbors with increased social costs for the city canceling out any revenue.  I realize this process seems to be moving towards an inevitable casino but you still have a chance today.  Chicago has been down this road before deals with short-term gain and long-term pain from lack of transparency and choosing the wrong partners.  As Alderman Riley said yesterday this process began with a secret evaluation followed by a council committee which has been bypassed by the mayor who chose Valleys without the real support or consultation of this council.  All of this took place in just over a month without adequate traffic studies or public safety plans for both sites.  Valleys seems to have been chosen as one thing in mind the $40 million upfront payment that could make this year's budget work before an election.  Valleys is a fitting partner for such a short-sighted choice as they themselves have a clear pattern of short-term gain and long-term pain.  Their leaseback deal chases cash in exchange for greater long-term financial obligations.  It is a sign of their poor cash position and creates a concerning lack of clarity about who actually owns this significant property as no legally required updated economic disclosure
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The next speaker is Zach Savela Stollard, a resident representing Stop Predatory Gambling Illinois. He asks the members of the City Council to vote no on the Valley's casino proposal, as casinos increase addiction and social costs locally. He points out that the process of choosing Valleys seems to be driven by the $40 million upfront payment they are offering, rather than what is best for the city in the long term.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+correct precinct polling place if they're going to the wrong polling place.  We've got signage at all former polling places that are not serving as a polling place for this upcoming election, directing people to their correct location or to resources where they can check that.  And we will have additional support at election central at our headquarters at 69 West Washington on election day.  So we are preparing for a very busy Tuesday, and that busy Tuesday is directing voters to their best options, whether they be their assigned precinct polling place or letting them know of their vote center options if that's more convenient for them as well.  So you answered the question in the last sentence about having additional resources.  I just know that it's somewhat difficult to get a real live person.  And then the other thing is since I've received the mail that my polling place has changed.  I had to read the fine print because normally I get these kind of mailers, they're the same look.  They're the same, obviously, it doesn't look any different about alerting people that you might have a new polling place.  I just think a lot of people who already have their card or know what they're doing, they just not even open it.  And then they realize that, oh, my God, we have a new, for the first time in many, many years, I got a new polling place.  And some of these buildings, as you know, are in high rises that have, in some cases, voting in their building.  They are not happy.  I already know the people that seem to know that it's been changed.  So we're going to have a real, we're going to need extra help on election day and people will not be happy.  I know that what 50% is either vote by mail or early voting.  But I'm more worried about the confusion on election day.  And I thought the marketing could have been a little bit more unique.  That was my two cents worth.  Thank you.  Thank you, Alderman Tunney.  Alderman King.  Yeah.  Thank you, Chair.  I just want to lift up
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+voting, polling place, election, resources, vote center, mail, confusion, marketing

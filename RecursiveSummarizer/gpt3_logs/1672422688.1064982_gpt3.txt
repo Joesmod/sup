@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following text:
+
+
+time to do the right thing, to stand with the least of these, to stand with those whose voices have been systematically silenced, and to stand with folks who are the expression of the worst types of state violence.  Please do the right thing when we're talking about public safety.  Thank you, Ms.  Bartley, for your comments this morning.  Mark Clements is next.  Hello, my name is Mark Clements.  Can you hear me? Yes.  Can you hear me? Yes, please continue.  Okay, for the next two minutes I respectfully request that every member of the budget committee give me the space and time to listen to me and to once again face the reality that men and women were tortured by members of the Chicago Police Department.  In May of 2015, the Chicago City Council passed decorations involving disgraced commander John Byrd.  In that piece of ordinance, it called for and was approved that the city of Chicago would build a memorial for victims of police torture, their families and most important the community of the city of Chicago.  For over seven years, that memorial has yet to be built.  The decision to build the memorial on the south side of Chicago was a collective one reached by survivors of police torture.  As a victim of Chicago police torture in 1981, while as a 16-year-old child and later railroaded to prison to serve a natural life sentence based on a confession that made totally no common sense, that confession was schoolbed to me by detectives.  I repeated it after being tortured inside of a interrogation room on two different occasions.  The disgrace that these detectives working under the command of Byrd's calls the black and brown communities remain to be visible today, especially considering that attorneys have collected $37.5 million in compensation while there has been over $100 million shared out intentions to police officers is a outrage.  The harm of police torture upon communities of Chicago have left them traumatized and without any place for treatment until the
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mark Clements, a victim of police torture in 1981, is requesting that the budget committee build a memorial for victims of police torture. He says that the decision to build the memorial on the south side of Chicago was a collective one reached by survivors of police torture, and that the memorial is needed to help the traumatized community heal.

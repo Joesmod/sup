@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+understand your argument, the kind of you can say anything you want as long as you say it to everybody or not say anything you want as long as you don't say it to anybody. So a gay couple walks in to Ms. Smith's office and says, we want a quote from Obergefell, and she says, I don't do that. That's okay with you, yes? MR. OLSON: Yes. JUSTICE KAGAN: Because she doesn't do it for anybody, yeah? MR. OLSON: Correct. JUSTICE KAGAN: Okay. Gay couple walks in and says -- this is the harder one, all Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 77 Official - Subject to Final Review right? A gay couple walks in and says, I'd like  the standard website, you know, everything  standard, the kind of website we were talking about before, but I want something in addition  to that. I want -- I want in the -- on the home page the website to say "God blesses this  union." All right?  And Ms. Smith says -- well, that's a problem, Ms. Smith says. And the gay couple says, well, you would say that if -- if we were an opposite-sex couple, right? And -- and she says, we -- I would say that if you were an opposite-sex couple. And the gay couple says, well, what's the big deal then? I don't know, I think that that kind of is different, so I'm wondering whether you think it's different. MR. OLSON: Well, I -- I think it's different in part because it implicates the very compelling free exercise concerns of the vendor, which aren't present in this case, right? This is just a procedure -- JUSTICE KAGAN: Yeah, possible. I get the -- I get the idea that there's a kind of religious element to it. I wish I could think Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 78 Official - Subject to Final Review of one that didn't have that component because I  feel like there's something else going on there as well, that it is a statement of opinion about the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+A gay couple walks into Ms. Smith's office and asks for a quote from Obergefell. Ms. Smith says she doesn't do that, and the gay couple asks why not. Ms. Smith says it's because she doesn't do it for anybody. The gay couple asks if she would say it if they were an opposite-sex couple, and Ms. Smith says she would. The gay couple asks what the big deal is then, and Ms. Smith says she thinks it's different in part because it implicates the very compelling free exercise concerns of the vendor, which aren't present in this case.

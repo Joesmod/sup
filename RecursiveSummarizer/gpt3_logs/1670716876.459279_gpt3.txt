@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+databases for this, and we certainly did find, not surprisingly, that women and minorities form businesses at a lower rate, they earn less, and they continue to experience disparities compared to similar white males and non- and WBEs.  We also took a look at the extensive government and academic research about barriers to access to capital on an equal basis and found that there is plenty of research out there that supports the proposition that all is still not fair and that race and gender remains significant obstacles to business success.  We used those Census data findings to come up with what we called expected availability.  So let me spend just a second explaining what that means.  We took the current headcount of who was available in the Chicago market and then using a rubric from the census, tried to estimate what the availability of MWBEs would be if their business formation rates looked like those of similar white males.  So we call that what you might expect absent at least some of the discriminatory forces.  I want to stress this is not a model that predicts what world would look like in the complete absence of discrimination, but it is at least a formulaic approach that the federal courts have looked to to at least try to gauge the impact of discrimination on the availability currently of women and minority owned firms.  What we mean by weighted is that this reflects the actual spending patterns of the city in the construction industries in which it purchases.  So for example, heavy civil work gets weighted much more highly because that's where the city spent a lot more dollars than let's say landscaping or something that's a much lower dollar value.  If you don't wait your availability, you can get some very odd results that really don't reflect the way the city operates in the marketplace.  So you see there and unfortunately we're a little bit cut off at the bottom there.  The expected availability for MBEs in total and then broken out and then down at
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study found that women and minority-owned businesses are formed at a lower rate, earn less, and continue to experience disparities compared to similar white-owned businesses. The study used census data to come up with an expected availability of MWBEs, taking into account the current headcount of who is available in the Chicago market and a rubric from the census. The study found that the expected availability for MBEs is lower than what is currently available, indicating that some discriminatory forces are still at play.

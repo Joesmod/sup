@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+  The committee on contract and oversight and equity is called to order.  I will now call on the committee to announce my determination that an interperson meeting is not practical or prudent at this time due to ongoing COVID-19 pandemic attendance for this meeting.  Attendance for this meeting will be conducted by video conferencing.  It should be duly noted that no vote will be taken at this meeting.  I will begin the roll call.  I will now call on the roll to establish a forum.  Please make sure that microphones are unmuted.  Thank you.  Alderman Nespada.  Present.  Alderman Pat Dow.  He was coming out in five minutes.  Alderman Sophia King.  All call.  Alderman Roderick Sawyer.  Here.  Alderman Cardenas.  Alderman Raymond Lopez.  Alderman Taylor.  Alderman Rodriguez.  Alderman Scott.  Present.  Alderman Sincho Lopez.  Here.  Alderman Burnett.  Here.  Alderman Jason Ervin.  Alderman Ervin is present.  Thank you, Chairman.  Alderman Rivera's.  Present.  Thank you.  Alderman Cardona.  Present.  Alderman Ramirez Rosa.  Ramirez Rosa present.  Present.  Alderman Scott.  Present.  Present.  Present.  Present.  Present.  Present.  I'm telling up the numbers right now to see if we, how many members we have and to make sure we have a quorum.  Mr.  Chair, did you, did you get Alderman Scott? I called Alderman Scott and I'm, I'm saying here, I'm present so I just wanted to make sure you had me sir.  Thank you so much.  We have 10 members present.  I'm concluding this with Alderman Scott.  And therefore we have a quorum.  Vice Chair Alderman Vasquez here to be counted as well.  My apologies.  Thank you.  Alderman Vasquez will be counted.  That's 11 members.  So Alderman Burnett, I know you counted me once.  If you want to make a quorum, you can count me twice.  Thank, we have a quorum, but I appreciate it.  Alderman Burnett.  As our first order of business, I acknowledge we have one public speaker and open floor to hear their comments if there is no objection.  We have one
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The committee on contract and oversight and equity is meeting by video conference due to the ongoing COVID-19 pandemic. No vote will be taken at this meeting. One public speaker is allowed to speak.

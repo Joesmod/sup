@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+  Good morning, city council.  This is your friendly reminder to please log in before council begins so we can have a seamless.  Roll call.  Please log in so we can do our quorum roll call.  We will begin to the council shortly.  If you forgot your login information or need help, call one.  you you you you ladies and gentlemen the city council can you please log in so we can get a quorum count and start the meeting.  I think we're at like 30.  No atoms and please call emergencies Theatre.  We are open.  Please log in.  Please submit present for the quorum.  Yes, one.  All right, I will now call if we don't have your vote in.  Alderman Hopkins not present.  Alderman King.  Alderman Harrison not present Alderman Sawyer not present Alderman Mitchell as is present Alderman Baill not present Alderman Sal manufactures not present Alderman Burke not present.  Coleman not present Alderman Curtis not present Alderman crochet not present, alderman Taylor.  not present, Alderman Brookins not present, Alderman Maldonado not present.  Oh, Alderman Maldonado, I have you.  I was on a roll.  Alderman Mitchell is present.  Alderman Nugent.  Alderman Vasquez.  Alderman Osterman.  All right, that will be, and we are closing the vote.  All right, there are 35 members present.  We have a quorum.  Please rise for the Pledge of Allegiance and remain standing.  A Pledge of Allegiance.  To the flag of the United States of America, to the Republic for which it stands, one nation under God, indivisible, with liberty and justice for all.  Please remain standing for the invocation, which will be delivered by Bishop James C.  Austin, Senior of St.  Luke Church of God in Christ.  As for the floor is yours.  God bless you.  Mayor Lightfoot, the Alderman, and members of this great council, I invite you to join me in the throne room of God, where we can obtain mercy and find grace to help in time of need, let us pray.  Our Father, which art in heaven, hallowed be thy name.  Thy kingdom come, thy
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city council is reminded to log in so that the quorum roll call can begin. If you forgot your login information or need help, please call one of the numbers provided.

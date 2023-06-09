@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+consideration or not.  So this is done using US Census Bureau data, Alderman.  I think that the current map is based on 2014 American Community Survey data.  So it's only as robust as that data is.  And although I don't have any data to support it, I do know that it doesn't capture everyone, particularly undocumented folks may not be capturing that data.  Yeah, I'm just worried.  Okay, and there's definitely concern of mine, Mr.  Chairman, on this.  My understanding is that this classification was used in various government subsidies offered by the city of Chicago.  And I am concerned that we may be missing some of our most vulnerable residents.  And I don't have any other questions other than I would like to see the map that Mr.  Hacker mentioned.  Okay, well, as far as the census data is concerned, individuals who are undocumented are also considered in the census calculations and the census information.  So as far as individuals not being able to be considered as part of that, I think would be somewhat of a misstatement that those individuals who are undocumented aren't included in that conversation as they are counted and information is collected from individuals who are undocumented as well.  No, I think you certainly have a point as far as documentation, but you and I know that various communities are undercounted in the census.  So I am skeptical at the extent of which undocumented immigrants are including these assessments.  I also realize that it's, what else are you gonna use? I get that.  I may have some ideas about what you can do though, but I'm glad to see swaths of my ward certainly included in this map and wanna dig a little bit deeper, but I'll leave it at that and take a look at this map and come back if I have any other questions.  Thank you, Mr.  Chair.  Thank you, Mr.  Chair.  And Alderman Moore.  Thank you, Chairman.  So I'm just coming back to, because I wanna be clear, I know we heard Alderman Dow, but is the, I have that same concern and I'm
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The map of Chicago's 14th ward is based on data from the US Census Bureau's 2014 American Community Survey. There is concern that the map does not accurately capture all residents, particularly undocumented immigrants.

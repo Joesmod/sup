@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+And students at my age, and actually let me tell you about my father.  My father went to Lindbloom High School from Chinatown.  For decades, yeah, hey.  Students from this area have not had a viable neighborhood option for many, many years.  Students today who are in the area that will be served by this neighborhood open enrollment high school, travel sometimes up to 90 minutes in each direction, costing them really valuable time to be involved with extracurricular activities, to do homework.  And this is a long time coming and I'm proud to be associated with it.  I know that it did not come without a lot of hard work and engagement.  And I was part of that engagement.  And I think this is going to be a wonderful addition to our area.  It will also help to tear down these barriers that we have with the Dan Ryan as well.  People cross that all the time and it no longer needs to be a barrier.  And it's going to bring our two communities, our three communities, all of our communities together because this is going to serve the near South region, which is made up of the South Loop Chinatown Bridgeport.  We have so many opportunities to have our young people especially learn to be together and relate to each other as human beings.  I know firsthand the value of that.  When my parents sent me to public school and it was life changing to be able to have that ability.  And I want that for the students in our communities and I want them to be able to do that in an open enrollment neighborhood high school.  So thank you for your leadership on this.  Thank you, Alderwoman Dowell for your leadership as well.  Thank you.  The chair recognizes Alderwoman Dowell.  Thank you, Madam President.  I want to also express my thanks to Alderman Lee for her camaraderie and partnership on this important institutional educational opportunity that we're going to put in the South Loop.  This is not just a school for Chinatown.  It is a school that will serve residents of the South Loop,
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A new high school is being built in the South Loop area of Chicago, and it will serve students from the Chinatown, Bridgeport, and South Loop communities. This high school is a much-needed addition for students in the area, who have had to travel long distances to attend school or participate in extracurricular activities. The new school will help to tear down barriers between the different communities, and provide opportunities for students to learn and grow together.

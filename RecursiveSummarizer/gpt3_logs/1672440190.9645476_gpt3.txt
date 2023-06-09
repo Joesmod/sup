@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+passage of this resolutions in the Honorable.  Hearing no objection, so ordered.  I now move a return to the regular order of business.  Hearing no objection, so ordered.  Next up, ladies and gentlemen, is communications.  Madam Clerk.  Reports and communications from the mayor, communications from our honor, the mayor, to the honorable, the city council of city Chicago.  Ladies and gentlemen, request the commissioner of planning and development.  I transmit here with an ordinance authorizing the execution of a TIF redevelopment agreement with M-HUB for the renovation of the property located at 240 North Ashton Avenue.  Fable consideration is ordinance be appreciated.  Very true years.  Lori Lightfoot, mayor, for the committee on finance.  Ladies and gentlemen, the request the commissioner of planning and development.  I transmit here with ordinances, authorizing the sixth amendment to the Bronzeville TIF redevelopment project and plan.  Your favor consideration this ordinance will be appreciated.  Very true years.  Lori Lightfoot, mayor, for the committee on finance.  Ladies and gentlemen, the request the commissioner of planning and development I transmit here with ordinances, authorizing the first amendment to the Mars and Wells TIF redevelopment project and plan.  Your favor consideration of these ordinances will be appreciated.  Very true years.  Lori Lightfoot, mayor, for the committee on finance.  Ladies and gentlemen,...  the commissioner of planning and development I transmit here with ordinances, authorizing the third amendment to the 43rd and Cottage Grove TIF redevelopment project and plan.  Your favor consideration of the ordinances will be appreciated.  Very truly yours.  Lori Lightfoot mayor for the committee on finance.  Ladies and gentlemen, request the commissioner of planning and development I transmit here with an ordinance authorizing execution of an amendment to the administrative service agreement with summer summer core.  Very concerned to
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city council of Chicago passes resolutions and hears reports and communications from the mayor. The mayor transmits an ordinance authorizing the execution of a TIF redevelopment agreement with M-HUB for the renovation of the property located at 240 North Ashton Avenue. The mayor also transmits ordinances authorizing the sixth amendment to the Bronzeville TIF redevelopment project and plan, the first amendment to the Mars and Wells TIF redevelopment project and plan, and the third amendment to the 43rd and Cottage Grove TIF redevelopment project and plan.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+an ordinance to amend the municipal code designating a portion of the 19th ward as restricted residential zone prohibiting additional shared housing and vacation rentals.  I move the City Council concur in the recommendations of the license committee and pass this item by the same roll call vote as number one in the finance committee and the same affiliated unsuccessful motion to reconsider.  There are no objections so ordered.  Ordinance 22-3031 an ordinance to allow a one-time exception so the Chicago Cubs can hold a Major League Baseball night game at Wrigley Field on the evening of July 14th, 2023 in the 44th ward.  I move passage of this item by the same motion if there's no objection.  There are no objections so ordered.  Two ordinances regarding liquor moratoriums in the 8th ward and the 49th ward the first being 22-3651 in the 8th ward 22-3454 in the 49th ward.  I move passage of these two items by the same motion if there is no objection.  There are no objections so ordered.  Thank you Madam President this concludes my report.  Thank you.  Next up the committee on pedestrian and traffic safety chairman Burnett.  Thank you Madam President reporting for your committee on pedestrian and traffic safety for which a meeting was held on Thursday December 8th, 2022.  Before the committee there were 63 items.  There were 63 routine traffic items that passed and two routine traffic items that did not pass.  Madam President I do have an amendment on page four ward 44 to repeal disabled parking number 98880 for it says 721 north Aldean Avenue it should be 721 west Aldean Avenue.  If there's no objections I move for passage of these ordinances and the honor bus thank you and that concludes my report.  Hearing no objection so ordered thank you Mr.  Chairman.  Next up the committee on special events cultural affairs and recreation chairman Spazade.  Thank you Madam President you forgot one thing and a happy committee so I didn't want to steal your thunders.  And today is
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The ordinance amends the municipal code to designate a portion of the 19th ward as a restricted residential zone, prohibiting additional shared housing and vacation rentals. The ordinance also allows a one-time exception for the Chicago Cubs to hold a Major League Baseball night game at Wrigley Field on the evening of July 14th, 2023. Finally, the ordinance imposes liquor moratoriums in the 8th ward and the 49th ward.

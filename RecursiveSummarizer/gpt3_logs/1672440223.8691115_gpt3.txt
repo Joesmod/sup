@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Alderman Capelman on the motion for reconsider.  Madam President, I move to reconsider the vote.  All those in favor of the motion for reconsideration signify by saying aye.  Those opposed say nay.  The motion for reconsideration fails.  Chairman Wigga-Spak.  Madam President, that concludes the report of the Committee on Finance.  Thank you, sir.  Next up, the Committee on Budget and Government Operations.  Chairman Dowell.  Thank you, Madam President and members of the City Council.  Reporting for your committee on the Budget and Government Operations, which held the committee meeting on December 1st and 7th, and a subcommittee meeting on December 7th, the committee recommends passage of the following items.  Item number one, an ordinance from the trans concerning the transfer of funds within the committee on the Budget and Government Operations for year 2020.  I move passage of this item by the first favorable roll call vote of the Committee on Finance and associated unsuccessful motion to reconsider.  There are no objections so ordered.  Item number two, an ordinance from concerning the transfer of funds within the committee on the committee and within the committee on committees and rules for the year 2022.  I move passage of this item by the first favorable roll call vote of the Committee on Finance and associated unsuccessful motions to reconsider.  There are no objections so ordered.  Item number three, a substitute ordinance concerning an amendment to the annual appropriation ordinance year 2022 within fund number 925 for the Department of Family and Support Services.  I move passage of this item by the first favorable roll call vote of the Committee on Finance and associated unsuccessful motion to reconsider.  There are no objections so ordered.  The Committee on the Budget and Government Operations held the subject matter hearing on December 1st and discussed the foreign fire insurance board expenditures and the third quarter report on the fiscal year 2022
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Committee on Budget and Government Operations held a meeting on December 1st and 7th, and a subcommittee meeting on December 7th. They recommended passage of three items. Item number one is an ordinance concerning the transfer of funds within the committee on the Budget and Government Operations for year 2020. Item number two is an ordinance concerning the transfer of funds within the committee on the committee and within the committee on committees and rules for the year 2022. Item number three is a substitute ordinance concerning an amendment to the annual appropriation ordinance year 2022 within fund number 925 for the Department of Family and Support Services.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Thank you.  Thank you.  Thank you.  Thank you.  Chairman Harris.  Madam President, I renew my motion for the temporary suspension of the rules for the immediate consideration of the Rules Committee report, including the recommendation of the appointment of a new alderman for the 12th Ward.  And associated resolution establishing her committee membership and other items.  Hearing no objection so order.  Madam President and members of the City Council, reporting for your committees on committees and rules which met yesterday December 13, 2022, the committee recommends passage of the appointment of Annabelle Abarca as the 12th Ward alderman.  Thank you, Chairman Harris.  Are there any members of the City Council who wish to speak to this item.  Chairman Harris.  I am always in the lake.  Yeah.  Out, out close.  The chair recognizes alderman Vegas.  Thank you, Madam Chair.  I understand to be associated with this appointment.  This is a good appointment someone who's has a track record and understanding how to deliver consistent constituent services.  Now you'll be in charge of ensuring that those constituents services actually get delivered.  I also excited to have you join the caucus and and bring some knowledge as an attorney to help guide the, the policy decisions that the caucus will be moving forward so we're very excited about this appointment looking forward to working with you.  Congratulations.  Thank you Chairman Villegas, the chair recognizes all the men are.  Thank you, thank you, Madam President, get also welcome to the council on behalf of the automatic black caucus we look forward to working with you and the constituents in the 12th Ward and again, it's still not too late, if you choose to turn around but nonetheless, welcome.  The chair recognizes alderman had.  Congratulations, looking forward to working with you to your family and support system that are here.  Make sure you invest a lot of time energy resources and stress management, hoping
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The City Council has appointed Annabelle Abarca as the 12th Ward alderman. Alderman Vegas is excited to work with her, and the Automatic Black Caucus welcomes her to the council.

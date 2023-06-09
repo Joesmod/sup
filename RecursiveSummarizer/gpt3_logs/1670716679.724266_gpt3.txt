@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+different ways, of course, people can structure things.  Yeah, we certainly thought that perhaps a separate department would throw the spotlight on it and help to bring more resources.  It certainly doesn't have to be structured that way.  I think the main issue is getting enough people and resources to ease the burden on city staff and to be able to speed up the processes and to do more.  So it's both helping to facilitate the current efforts that are out there, but also, so, for example, if the city's going to adopt a bonding and financing program, it's got to get paid for some kind of way.  You know, if you're going to have a mentor protege program, somebody's got to be in charge of managing that.  So, you know, it's not free, but there are different ways to do it.  We thought a separate department seemed like a good idea, but I'm certainly not wedded to that.  What I am urging is more resources, however they get structured.  Have you seen a city where that's done well? Where the program's done well, I mean? Is there a way that they have a separate department? So both, you know, like where you've seen minority contracting programs work well.  I mean, is there best practices you can point to that we can learn from? I think at this point in the evolution of these programs that the more common structure is to have some type of separate unit as opposed to being in procurement.  You do still see that, but certainly we do see a lot of programs around the country.  Having a separate unit, it might even be housed in finance or somewhere, but a special department that is directed and focused on these programs.  So we certainly looked at that.  I've got lots of clients that are structured like that.  Houston, Denver, Austin, San Antonio, Philly.  So that's actually pretty common.  So we thought that that was probably something to think about.  But, you know, again, the main issue is getting enough people to get the work done.  However, whatever box you put them in on the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The main issue is getting enough people and resources to ease the burden on city staff and to be able to speed up the processes and to do more. A separate department could help to bring more resources.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+these things and I'm like, man, being here 28 years, I remember when, you know, everybody tripping on some of this stuff.  I remember when we all thought it was necessary to vote for the parking meters and a lot of us did because it was necessary at that time in order to get past that budget, even though it turned out to be a bad idea in some instances.  I remember that.  I remember, you know, in other administrations, we voted for to fix the water lines and we put in there that every year, you know, bills will go up in order to fix that.  All of us thought that was necessary.  We voted on it and nobody tripped, you know, and I think about how we did do the red line going to the north side.  Nobody tripped.  All of this stuff coming to a head right now, you know, and dealing with dealing with this administration and everything is like a trip, right? But I'm gonna say this, a lot is getting done.  You know, it's funny, I was at a Christmas party last night in my ward in West Humboldt Park and, you know, and people were so excited.  They were like talking about, you know, you know, it's funny how when you deal with your community organization sometimes, you know, and you, you acquiesce power to them and everything and they're talking about how much they're getting done with the Invest Southwest, you know what I'm saying? And they were like so excited and, and they had hope, you know, we're talking about areas where development hasn't been done in over 50 years, you know, on the south side and the west side where equity is happening and things are, you know, things are coming to fruition.  And I was like, wow, and they mentioned the mayor's name and they started clapping.  And I was like, wow, this is a trip, you know, but people are feeling these things.  These things are starting to happen in the city, even though we went through all of this stuff.  And then I look at this casino and I look at, you know, how this last budget, that $40 million helped us a lot, y'all.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Aldermanic President Edward M. Burke reflects on his 28 years of service on the Chicago City Council. He recalls when the city voted to install parking meters and fix water lines, and how these decisions were made with the best intentions but ultimately turned out to be bad ideas. He also highlights the progress that is being made on the city's Invest Southwest program, which is bringing development to areas that have seen little investment in recent decades. Despite the challenges faced by the city, Burke remains optimistic about the future.

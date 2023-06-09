@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+Chicago Social Justice Memorial  $2.25 million for the Chicago Social Justice Memorial  1. Allocate funds to build a memorial for victims of police torture, their families, and the community of Chicago. 2. Provide compensation to victims of police torture. 3. Invest in treatment and counseling for communities affected by police torture.  Funding for the building of the Chicago torture justice center.  $2.25 million for a Chicago torture justice memorials grant  Snow removal for sidewalks  Citywide Municipal Sidewalk Snow Removal Program  Plow the sidewalks in Chicago  plowing the sidewalks  $750,000 to clear snow and ice from municipal sidewalks  $12.5 million for the Chicago MOOST program  $750,000 for a pilot program to plow the sidewalks  Alderman King requests plowing of sidewalks in her district to improve safety for pedestrians, particularly those with disabilities.  Appointing Sandra Blakemore as Commissioner of the Department of Assets, Information and Services  AIS to Get Departments Together to Find Places for Migrants and Homeless  AIS is taking the lead on this issue. We'll be working with a brokerage firm to help us identify a portfolio of facilities that can work for, you know, different populations needs. So we are starting that work. Gartner Report: The Gartner report that was done really laid out a pathway for us to succeed as a city in finding efficiencies, finding savings.  Technology Budget Proposal: Housing  Aldermen Hairston and Lopez  Tax ID Numbers for Wards  Opening an Office Migrant Situation: AIS has taken the lead  Transfer $6,000 from rental equipment and $1,000 from graphic designs for a total of 7,000 to material and surprise supplies.  Transfer funds from the committee of rules into our operating budget so we can pass some supplies Substitute Ordinance: Transfer of funds within the committee on economic capital and technology development for the year 2022  Transfer of funds from personnel services to contingency for equipment and
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Technology Housing Aldermen Hairston and Lopez Tax ID Numbers for Wards Opening an Office Migrant Situation: AIS has taken the lead Transfer $6,000 from rental equipment and $1,000 from graphic designs for a total of 7,000 to material and surprise supplies. Transfer funds from the committee of rules into our operating budget so we can pass some supplies Substitute Ordinance: Transfer of funds within the committee on economic capital and technology development for the year 2022

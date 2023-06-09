@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+from Obergefell. Ms. Smith says she doesn't do that, and the gay couple asks why not. Ms. Smith says it's because she doesn't do it for anybody. The gay couple asks if she would say it if they were an opposite-sex couple, and Ms. Smith says she would. The gay couple asks what the big deal is then, and Ms. Smith says she thinks it's different in part because it implicates the very compelling free exercise concerns of the vendor, which aren't present in this case.  The conversation is about a hypothetical situation in which a dating website provides a statement about the nature of a marriage, and whether or not that would be considered speech. Mr. Olson agrees that it would be difficult to determine if the statement is fact or opinion, but if it is solely based on the status of the person seeking the website, then it is an easier question.  The conversation discuss the argument that opposition to same-sex marriage is equivalent to opposition to interracial marriage. Mr. Olson argues that this is the case when it comes to the law, but that people are entitled to their own views on the matter.  In the conversation, Justice Alito asks Mr. Olson if he thinks it would be honorable to discriminate on the basis of race, and Mr. Olson says no. Justice Alito then gives a hypothetical situation in which a person is forced to write vows or speeches that espouse things they loathe, and Mr. Olson says that they cannot be forced to do that because it's not a protected characteristic.  In the conversation, the justices discuss whether a business can refuse to serve a customer based on race, sex, religion, or sexual orientation. Mr. Olson argues that there is no protected characteristic anywhere that would allow for this type of discrimination. The justices question whether this would fall under another statute, to which Mr. Olson replies that under any level of scrutiny, the state has a compelling interest in protecting against discrimination.  In the conversation, Mr. Olson and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In Obergefell, the justices discuss whether a business can refuse to serve a customer based on race, sex, religion, or sexual orientation. Mr. Olson argues that there is no protected characteristic anywhere that would allow for this type of discrimination. The justices question whether this would fall under another statute, to which Mr. Olson replies that under any level of scrutiny, the state has a compelling interest in protecting against discrimination.

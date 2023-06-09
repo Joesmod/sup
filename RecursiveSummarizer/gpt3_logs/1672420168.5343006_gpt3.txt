@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+funds for the pilot program.  I know that we have the funds to fully implement this program, especially if we can line the pockets of Shell, BP, and all these other companies and pollute the air.  That doesn't benefit us at all as a city.  Thank you so much for your time.  Thank you, Ms.  Cobbs.  I would like to acknowledge we've been joined by Alderman Harrison, Alderman Riley, Alderman Osterman, Alderman Tunney, and Alderman Sawyer.  Good morning.  Our next speaker is Ella Lubienzki.  Hello, my name is Ella Lubienzki.  I'm a resident of the Bucktown neighborhood.  And I'm also a proud film worker here in Chicago.  I work on movies and television.  And today I'm here to support the plow the sidewalks campaign.  As a part of my job in the film industry, I have a very physical job.  I'm carrying cameras around a lot.  And so in the winters, when I need to go walk my dog in my neighborhood, it gets very dangerous if she sees something that's interesting to her, or if I just slip and fall on the ice, I can injure myself and not be able to make a living.  I also love walking around my neighborhood and supporting the local businesses in the Bucktown and the Wicker Park and the Ukrainian village neighborhoods, because I can get to those on foot.  In the winter, I can't do that because it becomes very treacherous to try to move around just my local area.  And it's not just my mobility and accessibility for the neighborhood.  For me, it's also for everyone, statistically speaking, the people who need to do local errands are more likely to be women, more likely to be older, and more likely to be of a lower income.  So this issue of plowing the sidewalks is not just about one group of people.  It is an issue that affects people of all ages, all races, all genders, and all mobilities.  So I really urge you to support, including a $750,000 line item in the budget to start a pilot program to plow the sidewalks.  Thank you, Ms.  Luviansky.  Our last speaker is Brittany King.
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+-plow the sidewalks campaign -Bucktown -Wicker Park -Ukrainian village -pilot program

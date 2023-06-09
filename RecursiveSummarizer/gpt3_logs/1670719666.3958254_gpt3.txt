@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+I disagree. MR. OLSON: Well, even in that circumstance, what Colorado looks to is the service you actually provide, and you choose the service so long as -- you -- you could say I -- I -- JUSTICE GORSUCH: So the answer is yes, Colorado would compel that person? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 89 Official - Subject to Final Review MR. OLSON: No, no, the answer is no.  JUSTICE GORSUCH: Okay, why?  MR. OLSON: Because Colorado could say  you as a -- as a speech writer could say, I  write -- you know, the religious speeches that I write touch on a few traditions that I have knowledge of and I don't write speeches that  touch on other knowledges. But you -- JUSTICE GORSUCH: Well, no, no, no. It's not on -- you're changing my hypothetical, Mr. Olson -- MR. OLSON: Well -- JUSTICE GORSUCH: -- that I disagree with, that -- MR. OLSON: Okay. JUSTICE GORSUCH: -- that I find offensive to my religious beliefs. That's the hypothetical. MR. OLSON: So long as you would sell that to everyone, not based on their religion, but you -- you can define the contours of the product, you can choose the contours of the product that you sell, but you -- JUSTICE GORSUCH: I call it -- I call it speech, but you can call it a product if you Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 90 Official - Subject to Final Review want.  MR. OLSON: Well, we'll -- we'll call  it speech. You -- you can choose the content  of -- of what you sell. You just can't -- JUSTICE GORSUCH: What you say.  MR. OLSON: -- choose who you sell to.  JUSTICE GORSUCH: Okay.  MR. OLSON: Right? And so you could say, I'm going to -- I'm going to focus on these things and -- but I need to sell that to everyone, even if the person who wants to buy it is a member of a religious faith that I disagree with. That gets by -- JUSTICE GORSUCH: So I will -- I will write a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This conversation is about whether Colorado can compel a person to sell a product that the person finds offensive to their religious beliefs. The answer is no, Colorado cannot compel the person to sell the product.

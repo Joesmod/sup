@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+issue here.  And you can see if you just open up your heart and cross that line a little bit, we can help some of these children.  And that's what you're doing.  You're doing that by not being that police officer in the school, talking to them as if they are criminals already.  No, you are reaching out to them as a human being and mother or daughter or your niece or nephew.  That's the way you're treating them.  That's why they're so open to you.  You take off that badge of your regular duty of a police officer and give to them the other side.  I am so grateful to you for being that mother there for him, being that mentor for him.  Who would have ever thought someone would take time out to care for a young man and take him to college, make a call and still mentoring him today.  That's why he's sitting here.  And you can see him every time you look at his face, if you just talk to him, he got a smile that's out of sight.  He's just grinning from ear to ear.  You see nothing but the whitening teeth.  That's because he's happy.  Ain't nothing wrong with being happy, you all.  Nothing wrong with that.  Happy make you feel good.  It make things work inside and take away all the negativities that you might experience in your body when you smile.  So you just keep on smiling.  You keep on working with them and we will keep working with you as well.  So thank you so much.  I was very honored to have given you that certificate.  Probably didn't even know who I was giving it to but wanted to help because that's what I am.  I'm a giver and a helper.  I love to be able to do that.  And that's what the office, that's why I can recognize something different here.  And that's what we all should be here in the world.  Something different, helping each other.  That's what the world is all about.  So let me say thank you again from the bottom of my heart for all of the residents and all of them who can't say thank you.  Your story should be told more.  I saw it on the news but it was
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A police officer reaches out to children in her community, treating them with kindness and respect. She is applauded for her work in making a difference in the lives of young people.

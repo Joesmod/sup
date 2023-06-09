@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+your idea of strategically planning.  Does that, does your opinion strategically planning include the alderman, because my experience with you, you do not include the alderman.  Okay.  Yes, yes, it does include the alderman.  We have created many processes by which alderman have been engaged.  We are very proud that we just released a decarbonization point report with for alderman serving here in this room I believe that as part of that table to identify strategies to transition the city's buildings to think about retrofits at scale, and to think about how we could advance a robust plan.  We have also included and engaged folks in the climate action plan as well.  So we have created many opportunities to engage alders in climate planning and an implementation as well.  And Chairman Garza I know we're not at item number 10 yet.  But there is within the management ordinance and the, as we create this office in this next year, we are committing to doing this commission also bring it before Council before we actually put the department's budget together in 2024, you know, we're committing to moving that direction, and there will be a conversation definitely with through the committee's external and internal engagement around you know what we want this department and how we're, you know, we want it to be a robust department.  We do have that built in into the management ordinance.  Well, I would just really reiterate the fact that alderman.  I think that's included in these conversations, not just special interest outside groups, because we're the ones that have to answer.  And then one other question is, is this year, are you getting a bump in salary or is this your current salary now.  No, not you.  Oh, Angela told our, I mean I can answer that.  This is a bump in salary.  Garza, I want the budget director to answer this question because there is some.  It is the wants its nuance the rate here that you see in this office is the same as the current rate that you see in
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Decarbonization point report with for alderman serving here in this room I believe that as part of that table to identify strategies to transition the city's buildings to think about retrofits at scale, and to think about how we could advance a robust plan.

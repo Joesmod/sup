@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Apologies, Alderman Villegas.  Please continue.  Milna was a force and dynamic leader.  She was the first Puerto Rican Day Parade Queen in 1966.  She contributed to the development of Paseo Boriqua in Humboldt Park.  She was the co-founder and executive director of the Chicago Latino Theater Alliance.  She was a member of many boards, including the City of Chicago Advisory Council on cultural affairs and special events.  Her greatest work was Destinos.  The Chicago International Latino Theater Festival, which is Chicago's annual citywide festival that showcases Latino theater artists and companies from Chicago, US, and Latin America.  Milna Salazar was a true change maker at a time that was especially difficult and unheard of for women, much less Latinas.  We're so proud to acknowledge what she's done for Chicago.  When I've mentioned her name in other communities, she was always well-respected as well.  She was always championing Chicago everywhere she went in the arts, encouraging people to come to Chicago to see what it is that we had to offer.  She'll be missed.  And again, my condolences to the family.  Thank you.  Thank you.  Thank you, the chair recognizes Alderman Maldonado.  Thank you, Madam President.  I also would like to express my deepest sense of condolences to the family of Milna Salazar.  I met Milna maybe about 25 years ago.  At the time she was already working for the Westtown Economic Development Corporation.  During the time in which I started and engaged into a relationship with her, I learned about her two daughters who are here today, whom I think I met at least maybe 10, 15 years ago when they were still 10 years old or 11 years old.  But I do remember also learning that she was the first Puerto Rican queen of the Puerto Rican festival and the Puerto Rican parade committee.  And obviously when you would look at her, it was almost undeniable not to believe that.  She was absolutely gorgeous.  She was beautiful.  And one of the things that I
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Milna Salazar was a force and dynamic leader who contributed to the development of Paseo Boriqua in Humboldt Park. She was the co-founder and executive director of the Chicago Latino Theater Alliance, and a member of many boards, including the City of Chicago Advisory Council on cultural affairs and special events. Salazar's greatest work was Destinos, the Chicago International Latino Theater Festival. She was a true change maker at a time that was especially difficult and unheard of for women, much less Latinas.

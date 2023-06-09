@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+income individuals, and Section 3 businesses.  Contractors must ensure that 25% of total labor hours are completed by low-income workers and 5% of which are completed by CHA residents.  Additionally, CHA is exceeding HUD's rules by keeping our existing requirement that contractors and developers must subcontract at least 10% of the contract value to Section 3 businesses.  Because of the new HUD rules, CHA targets, and changes to the pre-qualified pool, CHA has hosted events, meetings, and reached out to stakeholders.  This engagement is ongoing.  So with me today is Leonard Langston, our Deputy Chief of Property and Asset Management, and I'll turn it over to Leonard to provide an overview of how we use the pre-qualified pool to create opportunities for Section 3 with our professional property management firms, and then we'll take your questions.  Thank you.  Thank you, Dan, and good afternoon, Chairman Ervin, Vice Chair Moore, and honorable members of the committee.  Thank you for having me here today.  My name is Leonard Langston, and I'm the Deputy Chief for Property and Asset Management at the Chicago Housing Authority.  At CHA, we established our pre-qualified pool with Section 3 contractors.  This pool of contractors assists CHA with maintenance work on a rotational basis.  CHA's pre-qualified pool is established by a competitive procurement every two to four years.  As a result of the last procurement, in July 2020, CHA's Board of Commissioners approved a pre-qualified Section 3 contractor pool.  Many, but not all, of the previous contractors are in the current pool.  This replaced the former contractor pool whose contracts ended in September 2020.  It is important to note that all Section 3 businesses, whether they are in the pre-qualified pool or not, can bid on other opportunities, including those issued by CHA's professional property managers.  There have also been changes to how we manage the Section 3 pool, which were made to provide closer tracking and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chicago Housing Authority (CHA) has a pre-qualified pool of contractors for maintenance work, which is established every two to four years. The most recent procurement was in July 2020. Many of the previous contractors are in the current pool. The changes to how the Section 3 pool is managed were made to provide closer tracking and oversight of the work being done.

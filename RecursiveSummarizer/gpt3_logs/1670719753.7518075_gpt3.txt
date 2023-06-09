@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+creator, you're in a very different space, as the Court articulated in FAIR itself. Looking at Wooley and Barnette, where you are intruding on the mind and the spirit to force someone to create a message that violates their convictions. FAIR would be a very different case if the law schools were to have advocated for the "don't ask, don't tell" policy. In terms of whose speech it is, that's come up a few times, at worst, it's both. Third-party perceptions cannot possibly matter to this case, or we wouldn't have any of the other compelled speech doctrine cases. Barnette, Wooley, the newspaper cases, all of those, you wouldn't have any. And the government would have unfettered authority to compel speech because we would all know it was the government that was doing it. In addition to that, the definition of Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 152 Official - Subject to Final Review public accommodation, my friends on the other side are playing a little fast and loose with  what the statute says and how they've  interpreted it in the past. The statute says a  place of public accommodation. On page 41 of Colorado's brief, they say that applies to virtual sales as well, meaning the soccer mom earning some extra income trying to sell her  handmade sign. She's a public accommodation under this law. It is broad, and it would take away First Amendment rights just for opening a business. Certainly, Michelangelo's speech was sold and commissioned, but we would all say it had protection. In addition, the idea that we can't give a bright line, the bright line we give is the line that this Court has consistently followed, and I find it ironic in the United States also having to concede they can't give a bright line. For some reason, political speech is protected, but religious speech is not protected under this law. The bright line is, is the message affected? And, as Justice Gorsuch brought up,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about the case FAIR v. Rumsfeld, in which the court is considering whether or not the government can compel speech that violates someone's convictions. The participants discuss whether or not the law schools that advocated for the "don't ask, don't tell" policy are in a different space than the creator of the message, and whether or not the government would have unfettered authority to compel speech if Third-party perceptions could not possibly matter. They also discuss how the definition of public accommodation is broad, and how it would take away First Amendment rights just for opening a business. Finally, they talk about how religious speech is not protected under this law, and how the bright line is whether or not the message is affected.

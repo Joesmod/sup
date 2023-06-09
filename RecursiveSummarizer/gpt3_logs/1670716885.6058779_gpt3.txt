@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+heard from many people that the current limits on the gross receipts of the firm and the personal net worth of the individual applicant owner restrict the growth of MWBEs in this market.  We know that the federal courts absolutely require that there be limits to the size of firms in your program and the personal net worth of the owners of those firms and cases have been struck down specifically for not including those, including the city's old program in the case in which I testified and why we had no personal net worth test at all and sent us back to remedy that, leading to at least a somewhat earlier iteration of the current ordinance.  We also heard that bonding and access to working capital were necessary to assist MWBEs to take on larger work and more complex projects.  Next slide please.  So that's our findings in a very small nutshell.  And then we made recommendations based on those findings.  We certainly urged the city to reaffirm the current goals.  They are reasonable and achievable, and the utilization has exceeded availability and those goals for all groups.  We also have seen some of the goals seem to be targets that work and that we can meet and that the courts are likely to uphold.  We also listened to people's comments and issues about the size standards and the personal net worth test and made the recommendation to increase the size standard, the business gross receipts limit, to 150% of the applicable US small business administration size standard, and average those gross receipts over seven years up from the current five.  This would mean that the limit for heavy civil construction would increase to about $60 million a year and specialty trades to about $24 million a year.  Those would rise in tandem with the SBA raising the overall national size standards.  We also suggested revising the assets that get counted against an individual applicant owner's personal net worth.  That size limit is currently now about $2.4 million, because one of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The current limits on the gross receipts of the firm and the personal net worth of the individual applicant owner restrict the growth of MWBEs in this market. The federal courts absolutely require that there be limits to the size of firms in your program and the personal net worth of the owners of those firms. The city's old program did not include a personal net worth test, leading to the current ordinance. Bonding and access to working capital are necessary to assist MWBEs to take on larger work and more complex projects. The utilization has exceeded availability and those goals for all groups. The goals seem to be targets that work and that we can meet and that the courts are likely to uphold.

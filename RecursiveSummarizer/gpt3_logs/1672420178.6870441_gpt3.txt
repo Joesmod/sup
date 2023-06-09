@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+Madam Chair.  I just quickly wanted to congratulate you on presenting this resolution.  And I think you're exactly right.  Across the country, we're seeing attacks on voting and we need to make sure that we're upholding the right to vote, expanding that right to vote.  I'm glad Alderman Austin just mentioned additional voting sites, early voting sites.  I'd be supportive of such an effort.  That was in the details, obviously, but I think that that makes a lot of sense for me as well.  But congratulations on this and I was going to move to pass.  Thank you.  I'll put you down for the due pass motion when we get there.  Alderman Garza.  Madam Chair, just to clarify, all early voting sites in the state of Illinois will be closed, but in the city of Chicago, our early voting sites will stay open due to this in regards to this resolution, correct? That's right.  For this upcoming election on November 8th, there'll be 51 early voting sites that will be open on election day.  Their technical term is vote centers, but those are the 50 ward sites as well as our super site downtown at 191 North Clark Street, also open on November 8th.  This resolution is in support of this moving forward.  This temporary legislation does stop at the end of this year.  The only legislature takes us up and makes this permanent.  We'll have this in place for the upcoming municipal elections as well.  Okay.  Well, thank you very much.  Just wanted to make sure that everybody knows that our early voting sites will stay open and thank you so much for doing this.  It's such an important issue.  Thank you.  Thank you, Alderman Garza.  Alderman Tunney.  Nice to see you.  My question actually follows up with confusion on election day.  As a commitment, obviously we're, and Alderman, we are very concerned about voter turnout and voter confusion.  And one of the things that our office has witnessed is probably not a rapid response, maybe because there's so many questions and there will be many, many
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+voting, right to vote, early voting, vote centers, election day, voter turnout, voter confusion

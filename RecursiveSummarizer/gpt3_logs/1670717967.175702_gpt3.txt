@@ -1,0 +1,15 @@
+PROMPT:
+
+Write an explanation as to how the following will benefit the City:
+
+
+alderman emma mitts and property also has a s clearance questions members of the committee all of the uh...  dal so moves on recommend approval of the second uh...  here no objection so ordered to pass recommendation this ordinance report the next city council meeting wednesday november sixteen twenty twenty two item number eight is a sale of vacant city on property at fifty nine fifty two south lumas to emma hudson purchase price thousand dollars in the sixteenth ward mister michael from the department of planning development this item is an app sale for the unapproved city on parcel located at fifty nine fifty two south lumas boulevard to emma hudson the property is on our s three in the west inglewood community area the parcel would be used as an extended yard for her adjacent property at fifty nine fifty six south lumas boulevard the appraised market value is five thousand dollars and the sale prices at one thousand the vacant lot dimension is twenty nine by one twenty five thirty six twenty five square feet approximately the parcels in the sixteenth ward with support from alderman stephanie colman and has a s clearance any questions members of the committee uh...  can i get a motion to approval on the spot of soul moves hearing no objection so ordered to pass recommendation this ordinance report the next city council meeting on wednesday november sixteen twenty twenty two item number nine the sale of city on property at one oh three west a hundred and tenth place to the bias garcia palma pretty spread a thousand dollars in the thirty fourth ward mister michaels on the part of planning development for provide testimony this item is an up sale for the unapproved city on parcel located at one oh three west on a ten-place to evis garcia palma the properties of the used as an extended yard for a jason property at one oh one west a hundred and tenth place the sale prices one thousand dollars appraised market value is two thousand five hundred the vacant lot
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The sale of the city-owned vacant lot at 103 West 110th Place to Evis Garcia Palma for $1,000 will benefit the City by providing an extended yard for the adjacent property at 101 West 110th Place.

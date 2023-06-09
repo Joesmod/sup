@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+million, double check right.  And how much have we spent to date that allocated spent.  Um, that's also a number I'll have to get through the chair for you.  You know, have we spent 5 million.  Yeah, I can probably assume.  Yes, I'm sure we've spent 5 million.  Number two, but I don't want to give you a wrong number on the record.  But, yeah, we, I think you responded to it last time that it's it was on a document that it's like around or less than 5 million I don't, I don't even I think that's what's appropriate it but we haven't spent it.  But that also speaks to why we need somebody who's controlling that effort so we can get that money out the door.  And so now we've reallocated the money that we haven't spent which is around 80 million over this year and next year I just want to keep emphasizing that we need to get that money out the door, and we need somebody who's in charge of, of doing that.  For alternative responses to 911, I guess what you guys are calling the care program.  Are we increasing that funding.  So there is funding in the CRP for that.  That is working through that expansion so I believe that's 15 million that we have going into 2023 for the expansion of the care in program.  And how much how much have we allocated this year.  My my belief and I know, Commissioner wadi might be back there who might know but I so we're working through what we initially budgeted in the corporate fund which is I believe 2 million just to take that to move that pilot forward and so the expansion dollars we have not spent and that is what we're moving into for 2023, and how much did you say that was again in 15 million, 15 million, and what will that be used for for the expansion of the pilot I know, kind of more specifics.  Yeah, like, are you growing.  Yeah, I'm sorry to mission or why do you want to respond.  There we go.  Allison already CD pH Commissioner, I can't see where I'm looking but I'm perfect.  So, 15 million new dollars is correct.  That's really
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+million, double check, allocated, spent, 5 million, less than 5 million, somebody, controlling, effort, door, reallocated, around, 80 million, this year, next year, 911, care program, funding, CRP, expansion, corporate fund, pilot

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Thank you.  Thank you very much, Ms.  Lane.  Our next speaker is Claire Falk.  Claire Falk.  Hi, good morning.  My name is Claire Faukey.  I'm the mother of three kids.  I live in Logan Square.  And generally, I think Chicago is a great place to raise my kids, but I have a lot of pretty bad memories of when my two youngest kids were very small in the stroller.  There is times when I had imagined a newborn and a one-year-old just trying to get to the end of the block in the stroller.  And there are many times, probably dozens of times in the winter, where I wasn't even able to get to the end of my block because of snow and ice.  And this is three or four months of the year.  So I want to encourage the council to fund plowing the sidewalks.  It's very important to all families.  We're one of the more than one-third of Chicago's that don't have a car.  And it's very frustrating to see folks being able to drive everywhere, but people on foot at in strollers and in wheelchairs not being able to get where we need to go.  We've had to cancel social plans, family plans, trips to the grocery store, even trips to the doctor because, like I said, we couldn't even get to the end of our block with the stroller.  And I don't blame my neighbors.  Many of them, just on our block, are elderly or living with a disability or working two or three jobs to make ends meet.  Not everybody can plow their sidewalks.  And that's why it needs to be the responsibility of everyone, meaning the city itself.  I know that we have the money.  This is a world-class city.  You know, we're trying to encourage climate-friendly policies, encourage people to walk and bike and take transit, but that's impossible to do if you can't get to the end of your block.  So I just want to encourage City Council to please spend the money wisely on policies that benefit families and our most vulnerable neighbors and plow the sidewalks.  Thank you.  Thank you very much.  Our next speaker is Abla Garib.  Good morning.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Claire Falk is a mother of three who lives in Logan Square. She is urging the City Council to fund the plowing of sidewalks, as it is a huge inconvenience for families who do not have cars and rely on walking or public transportation. Falk emphasizes that this is a major issue for families and vulnerable members of the community who cannot clear their own sidewalks.

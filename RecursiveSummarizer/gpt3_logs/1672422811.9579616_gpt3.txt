@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+49th ward.  I am here on behalf of Better Street Chicago.  I'm one of the co-founders.  And one of our goals is to reduce car dependency in the city.  And one of the ways that we can do that is to ensure that our sidewalks are accessible for everyone in the winter.  When we began this campaign, we received hundreds of emails from people.  And some of the emails that really stuck with me were from parents who wrote in, there was one woman who said she was going on a walk with her children.  One of the children was able to walk with her.  And the other child was in the stroller.  And the stroller tipped over in the snow.  So you have this young infant child that has fallen out of a stroller because someone didn't shovel their sidewalk.  And I'm not upset at the person who didn't shovel the sidewalk.  I don't know why they didn't do it.  Maybe they had a disability.  They couldn't afford to pay someone.  They were out of town.  Who knows? But I do know if I wanted to do something on the sidewalk outside of my building, I would have to go to the city and get a permit to do something.  But when there's snow and ice, it's up to the individual property owner to take care of it.  But any other time it's the city's property, you got to get a permit to do it.  I also want to bring up the fact that city council approved $12.5 million for the Chicago MOOST program.  The majority of that money went to oil and gas companies to line their pocketbook for profits.  What did we gain as a city giving people gas cards compared to giving people 100% access to the city through a clear sidewalk in the wintertime? I primarily get around by bike, but in the few times that I do walk in the wintertime, I'm an able-bodied person and I still struggle when I'm trying to carry my groceries home from the grocery store that's about three quarters of a mile from my home.  I know I'm not alone in this.  You've heard from other people here today who have been impacted.  And I know that we have the
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The goal of Better Street Chicago is to reduce car dependency in the city, and one way to do that is by ensuring that sidewalks are accessible for everyone in the winter. The campaign has received hundreds of emails from people, including parents, about how difficult it is to get around when sidewalks are not shoveled. The city has approved $12.5 million for the Chicago MOOST program, but most of that money has gone to oil and gas companies. Better Street Chicago is advocating for the city to use some of that money to clear sidewalks in the winter, so that everyone can have access to the city.

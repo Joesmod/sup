@@ -1,0 +1,15 @@
+PROMPT:
+
+What is a list of words that represents the following:
+
+
+A big storm is coming to the central and eastern US, bringing snow, wind, and dangerous cold temperatures.  A low pressure center is bringing up warm air from the south, which will make for a milder day than originally expected. However, a cold front is quickly approaching and will bring heavy rain and snow to the mid-Atlantic and northeast regions. The heaviest snowfall is expected in Michigan around midnight on Friday.  A cold front is moving quickly through the Appalachian Mountains, potentially bringing heavy snowfall enhanced by lake effect snow. The system is expected to cause travel delays due to dangerous winds and wind chill.  The upcoming storm will be dangerous and impactful, but not because of large amounts of snow. Some areas may see more snow than others, but overall totals will be underwhelming.  A winter storm will bring snowfall totals of 3-6 inches to much of the Northeast, with some areas seeing up to 7 inches. The most important part of the storm, however, will be the massive wall of cold air that is accompanying it.  A cold front is moving across the central U.S., causing negative wind chills of up to 50 degrees. This front is expected to move east, causing sub-zero temperatures in Arkansas and Louisiana. There is a concern for power outages throughout the affected states.  This is going to be a historic and memorable storm like we've been hooting and hollering about for a good time. But the main thing is going to be the freezing cold temperatures, the ice, and the blizzard conditions, not the snow totals. Don't be scared. Be prepared.  The speaker is sold out of yala meters, but is encouraging people to buy other items from their website to support them. They will restock the yala meters as soon as possible.
+
+
+list of words:
+
+==========
+
+RESPONSE:
+
+storm, snow, wind, cold, temperature, low pressure, mild, front, heavy, rain, northeast, Michigan, Friday, Appalachian Mountains, travel, delay, dangerous, impactful, underwhelming, wall, central U.S., sub-zero, Arkansas, Louisiana, power outage, historic, memorable, blizzard, yala meter

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+about the department of environments we won't even go there um but i would like to talk about article one sections nine through ten ending the sunset provision for a million dollar emergency procurement authority belonging to the chief procurement officer i remember us having this conversation during covid and understanding the need to be nimble to procure life-saving tests and and pp all that stuff um but we're essentially through that now and this seems like uh a pretty big give to the cpo um and removes the council from a lot of conversations given the dollar amount could you explain the rationale for making this emergency power a permanent power um i can start and then i definitely have procurement kind of chime in i think you know part of when we first came and when the cpo first came to council requesting that authority it was following the pandemic and of course with all the increases in costs and all these things that were happening also as a result coming out of the pandemic i think what we've seen is that you know that increase in the cost of things is not coming back down um and so you know one of the things we are asking for is to keep that threshold at a million for that emergency procurement um and i can you know i'll have the procurement office also chime in hello ilius lakata general counsel for procurement um alderman thanks for the question so definitely a million dollar half a million dollars is certainly not what it was a you know a few years ago let alone a million dollars um just our our average awards because the costs of rising goods and rising uh producer costs manufacturing costs and labor costs um this would be in line when the emergency authorities only exercised but we're taking this from an emergency power making it a permanent one correct the the emergency authorities there it's only the threshold what the cpo has to exercise so right now it is a million dollars that the cpo is grant authority by city council for an emergency
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The city council is considering making the emergency procurement authority of the chief procurement officer (CPO) a permanent power. The current threshold for this authority is a million dollars. The rationale for this change is that the cost of goods and services has increased significantly in recent years and is not expected to go back down.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+extent.  We certainly can get that through the chair.  I just want to check with Jazeal real fast.  I'm not sure if he knows that he has that number with him of what the spend was on the last contract.  Hey, Tom, Jazeal here.  Jazeal, could you identify yourself for the record? Yes, my name is Jazeal Cortez.  I'm the contracts administrator for the Chicago Department of Transportation.  Thank you.  No problem.  So previously we did have JOC contracts in place.  Those contracts expired.  We did max out the contract vendor limits on those contracts.  I would have to get to those numbers, the exact quantities for those.  The compliance numbers for those, those contracts were also put out with 26 and six goals across the board.  So those should be similar to the performance.  The one thing with these new contracts is that we were able to secure M&W firms as their primaries for the award of our new JOCs, which was kind of our goal.  And being a low bid contract, we were able to secure them.  And now we can go forward with actually having M&W as our primes on these two contracts.  Thank you.  Chairman Dowell.  Yes, I asked in the previous slide, if you all had these end dates for your contracts.  So are these the end dates or do you have options or do these two companies have options attached to their contracts? And if so, I'd ask you to adjust this slide to add a box for that.  Yes, Chairman, we can work with DPS on this slide, but yeah, this is the initial, those dates are the initial term for the CDOT contracts, but there are two one-year extensions available on those.  So we can update this slide.  Two and not three.  I believe it's two one-year extensions.  Two one-year extensions.  Okay, thank you.  Thank you, Chairman Dowell.  Does the extension increase the dollar value or is the dollar value capped at where it is on the currently listed on the screen? If the dollar value, like if we're running up to that cap, we would submit for a vendor limit increase.  There's
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chicago Department of Transportation (CDOT) has secured two new JOC contracts, with M&W firms as their primaries. The contracts have a initial term of two years, with two one-year extensions available. The dollar value of the contracts is capped at the current amount, but CDOT can submit for a vendor limit increase if necessary.

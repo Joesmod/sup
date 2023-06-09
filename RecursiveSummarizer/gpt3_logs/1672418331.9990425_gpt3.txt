@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a summary and dollar amount along with the likliness of the bill being passed on a scale from 1 to 5, 5 being the most probable. Here's an example of that format: Machine & Equiptment | $63,000 | 4.2:
+
+
+am i know our alder persons i believe have a cpi um adjustment every year i don't i don't believe in that either so so be it that's my comment uh thank you alderman tony um we will stand at ease for about five minutes um at least give me an opportunity to check with the law department that the substitute has been modified and can be brought before us five minutes you                                                                                                                                                                                                                                                                               
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Alderman Tony is proposing a CPI adjustment for the upcoming year. There is a five minute recess to allow for the law department to check if the substitute has been modified.

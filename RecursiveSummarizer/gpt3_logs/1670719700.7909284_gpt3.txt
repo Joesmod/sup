@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+that here is where the military recruiters are going to be, with those recruiters, of course, using a discriminatory policy that the law schools deeply objected to. Here is where the military recruiters are going to be is very similar to here is where the wedding is going to take place, which is what standard websites do. MR. FLETCHER: Exactly. And in saying that, I don't want to at all minimize Ms. Smith's sincere religious objection to saying that for a wedding that she opposes. I'm just making the point that the law schools also had sincere moral objections to making those statements to facilitate recruiting that they found deeply objectionable. JUSTICE BARRETT: What if the law schools also had to make available their CDO to sit down with the military and help them craft, Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 114 Official - Subject to Final Review you know, in a statement that would be attributable to the military, you know, this is  why a career with the military -- this is what it would be, this is why it's attractive, and  then post it? Would that change Rumsfeld?  MR. FLETCHER: So there was actually  evidence that those sorts of services were  offered, that the law schools were pressing that are referenced in the Third Circuit's opinion but not specifically referenced in this Court's cases. I think what that starts to get into is how do you draw the line between are you providing -- is it really the same speech that you would provide for someone else and are you being required to do something that goes beyond that to express the sort of opinion-related statements that Justice Kagan espoused. JUSTICE BARRETT: What if they do it for everyone? The Career Development Office will do that for, you know, law firms, this is the job of an associate, and here is why it would appealing, what you'd be getting out of it? If they do that, then they would have had to do that for the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is about the military's "don't ask, don't tell" policy, which prevented recruiters from discriminating against LGBTQ+ individuals. The policy was deeply objectionable to law schools, who felt that it violated their principles of nondiscrimination. The question is whether the law schools would have to provide the same services to the military that they do to other employers, including helping them craft statements about why a career in the military is attractive. If they did, then they would have to do the same for everyone, which would be a burden.

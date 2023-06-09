@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+foundational to our self-government and to the free and fearless pursuit of truth. Thank you. This Court should reverse. CHIEF JUSTICE ROBERTS: Thank you, counsel. The case is submitted. (Whereupon, at 12:26 p.m., the case was submitted.)
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This conversation is about a court case. The person speaking is asking the court to reverse its decision. They believe that self-government and the pursuit of truth are foundational to our society.

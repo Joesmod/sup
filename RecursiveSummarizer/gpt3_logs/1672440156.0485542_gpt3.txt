@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+and they say Melvin how can we help? I said we need some workforce development money so I can hire them guys on Walnut and I told the guys on Walnut when we go in the ground I'm gonna hire y'all.  So right now we got we got eight individuals employed with the workforce development money from the city of Chicago and I know we can do more because we got to get these guns out of these kids and whoever heard of 50 robberies in one day who heard of that? That's insane and they are kids and I know we can reach them with the right opportunity and the right chances.  So thank God to this administration to say Melvin every time I go to the Alderman's office, Jason Irvin, Alderman Mitz, every Alderman that I go to is an open door policy.  Pat Dowd talking about Melvin I want to help.  What can I do? Derek Curtis, all of them, Miss Taylor so we need to put and wrap our arms around this situation because we got to get the guns out of these kids and it's too many guns thrown in our community.  Somebody bringing them in from somewhere so but I know I can reach the kids and I know the brothers that was in here from Inglewood can reach them as well.  So what we have to do is make sure that we can, as you can see, I'm so passionate about it because when I talk to the young brothers they was like big bruh you can have this gun get me a job I don't want to do this but I have no opportunity.  So again the mayor and the Alderman's reaching down in the bottom of the barrel to make sure that this of this crazy and madness can stop.  So that's what we need to do and then I'm gonna leave you with this mayor.  One thing we need to look at the fire department.  I'm switching gears because I had some kids fill out the application for the fire department.  They was like and they was on the list did all that for qualifications and they went down to the bottom of the barrel and they African Americans.  So I just want to say thank you mayor and it's admitted the housing department.  Thank you for
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking about how he has been able to help employ eight individuals through workforce development money from the city of Chicago, and how he knows they can do more. He talks about how he is passionate about this because he knows that the young brothers who are involved in gun violence need opportunities. He also talks about how he wants to see the fire department do better in hiring African Americans. Thank you mayor is admitted the housing department.

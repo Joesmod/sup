@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+literally turned on its head.  To take you back to the chronology, the administration first appointed their own internal evaluation committee to select five finalists among all the bidders.  And then sometime after that, we empaneled our own casino committee chaired by Chairman Tunney.  And the purpose for that committee was to vet these three finalists that the mayor's office had selected.  And after just two short meetings, that was derailed by finalists being selected by the administration, not by the committee.  And I can tell you that many of us had expected the committee process to be where all of the vetting would occur.  We would get to compare between the competing proposals and look at their financing, look at their balance sheets and ask them questions and that didn't occur.  And so I'm really disappointed that that part of the process failed.  The other thing that's really concerning to me is that our casino committee and this body approved the temporary and permanent casinos before traffic studies and public safety plans had been developed.  And you all know in negotiating zoning in your wards, especially if it's a big impactful project, traffic studies and safety plans are the things that you expect to have in hand while you're considering the project and use those things as ways to improve the project.  That's what I do with every single plan development that I negotiate downtown.  I know my colleagues, Alderman Dowell and Hopkins and Burnett do the same.  That didn't occur here.  We didn't have that ability.  And so it's troubling that for the permanent site, that traffic study was not delivered to this body until 11 a.m.  on Monday during the plan commission vote to approve this project.  So not even the plan commission had the benefit of reviewing a traffic study or a safety plan before they approved this project.  I can tell you that judging from Wall Street's reaction to these quarterly investor calls that Bally's does with their shareholders,
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The administration first appointed their own internal evaluation committee to select five finalists among all the bidders. And then sometime after that, we empaneled our own casino committee chaired by Chairman Tunney. The purpose for that committee was to vet these three finalists that the mayor's office had selected. And after just two short meetings, that was derailed by finalists being selected by the administration, not by the committee.

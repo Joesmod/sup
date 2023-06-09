@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Thank You Mr.  Stoller for your comments.  Our next speaker is Justin Williams.  Hello members of the City Council.  Far South Side residents have been waiting since 1968 for the Red Line extension when it was promised by Mayor Richard J Daly.  Chicagoans have since watched the cost of the project balloon to billions rather than millions of dollars.  They've also watched expansion of transit access into the near west side, the McCormick Place community of the south loop, along the brown line and the groundbreaking of the red purple modernization.  Now hopefully it's time for the residents of the far south side to see the Red Line extension come into existence.  The Chicagoans, just like every Chicago resident, deserves equitable access to high-quality rapid transit.  For that reason, I come to you today representing the Metropolitan Planning Council, Active Transportation Alliance, and the Center for Neighborhood Technology to ask for your yes vote for the Red Line extension tax increment financing district.  Put simply, we support this transit TIF because it will provide rapid transit in an area of the city that has long awaited transportation investment.  It will connect people to jobs and amenities throughout the city and reduce travel times to the loop by 30 minutes.  It will benefit the city as a whole by giving employers access to an expanded labor market, increasing development potential of underutilized land, increasing tax revenues, and helping the city meet its climate action plan transportation goals.  This project also centers racial equity in its financing.  Our organizations do not always support tips.  As a market-based tool, tips are too often used in areas where developers already want to invest due to the overly broad definition of blight.  Tips are too infrequently used to finance projects in areas that have little development momentum because of the inability to raise sufficient funds.  In the case of the Red Line extension, the wealth generation
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Red Line extension is a much-needed project that will benefit the city as a whole by increasing development potential, tax revenues, and employment opportunities. It will also help the city meet its climate action plan transportation goals. Our organizations support this transit TIF because it will provide rapid transit in an area of the city that has long awaited transportation investment.

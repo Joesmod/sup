@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of goverment proposals from the following text:
+
+
+Okay that's a little confusing that's that's very confusing.  So I thought it was a typo because if they're a reappointment candidate they're a reappointment or to reappoint or to reappoint a candidate.  Fair enough.  All right I I can I can appreciate where you're coming from.  Just clean it up please.  All right moving down to section eight.  Diverse has the same meaning as minority.  Can you explain that? Because they each have different definitions.  They do have different definitions and in fact but the uh there is this is a very similar definition to the other um with the addition of uh American Indians which includes all people from the uh from indigenous to the Americas.  Okay but they would be included under the other stuff.  I mean there there is a reason that the term minority was used historically and who it implies to by changing that definition to diverse and I'm not saying that it should not be diverse but you also cut out a group of people who under the term minority were meant to be included.  These are people that were historically excluded and so now we're going to exclude them even more.  The list of I'm sorry there's no question.  Huh there is a question.  Explain the difference to me.  The list is the same with the addition of of of those.  So let me pull up.  So minority includes uh under 292 670 n uh African American African Americans are Blacks under a Hispanics under b Asian Americans under c American Indians under d.  Um did I capture everybody who was there? Well yeah I mean American Indians and under I individual members of other groups including but not limited to Arab Americans um so that could be done under minority by adding that one which would not expand the pool by using the term diverse.  By using the term diverse you create a situation where minorities can continue to be discriminated against.  Google it Google Google the definitions.  Can we can we this was not socialized or discussed at all in our management in our management
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+Section 8, Diverse has the same meaning as Minority

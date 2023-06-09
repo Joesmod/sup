@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 37 Official - Subject to Final Review she believes she's being asked to create a  message that violates her convictions, whether  those convictions are based on a moral reason or a religious reason, it would be protected.  CHIEF JUSTICE ROBERTS: Okay. Thank  you.  Justice Thomas?  Justice Alito?  Justice Sotomayor? Justice Kagan? JUSTICE KAGAN: Yeah. I -- I wanted to take you back to my opening questions and then Justice Alito's question about how your case is different from my hypothetical, and maybe the way to sort of cut through some of this is to not make it a hypothetical and just ask about your client. So Mike and Mary go into your client, we love your graphics, we saw them someplace else, we love how this looks. Here's what we want. We want a standard site, our names, our -- the picture, the hotels, the registry, you know, just -- just that. And you say okay, don't you? MS. WAGGONER: Yes, assuming all the Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 38 Official - Subject to Final Review details line up with the message that she's  willing to create.  JUSTICE KAGAN: Yeah. I mean, and they say we don't want your scripture. That's all right with you? They don't have to have  scripture?  MS. WAGGONER: No, they do not have  to.  JUSTICE KAGAN: Yeah. They can just have a standard site, right? Okay. So now it's not Mike and Mary. Now it's Mike and Mark, and they want the identical site. We saw Mike and Mary's site. We loved it. We're getting married. You know -- you know, all they want to change is the date maybe or, you know, their names, whatever. We loved it. And -- and they don't get it. And the question -- and -- and you say no, right? You -- you -- you wouldn't be up there if you weren't going to say no, right? They can't get that site? MS. WAGGONER: Yes, because the same words can even convey different meanings.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about a wedding photographer who refused to serve a same-sex couple. The photographer argues that she should be allowed to refuse service based on her religious beliefs. The justices are questioning whether the photographer's religious beliefs should take precedence over the couple's right to equal treatment.

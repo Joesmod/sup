@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+know, the city's Department of Law engaged leading national expert collect folks who joins me here today to conduct a disparity study to assess our local marketplace and provide recommendations.  She and her team conducted an extensive analysis, which included economic data, as well as candid conversations with businesses, all sizes throughout Chicago land.  The resulting recommendations, identified a number of strategies for improving the conditions for success for our minority and women owned businesses.  The continuation of the program together with revised eligibility requirements that better reflect the financial challenges that small business owners face will allow for more minority and women owned firms to enter the marketplace, grow and prosper.  Over the past several months, we have conducted dozens of meetings and briefings with assist agencies and other stakeholders holders and participated in a subject matter hearing before this body.  We have received letters of support for this ordinance and the extension of this vital program from organizations that together represent over 1800 diverse businesses.  We have been and will continue to be committed to the program and develop and the development of small minority and women owned businesses.  We have always tried to work in partnership with key stakeholders, including you, our ultimate to identify and promote opportunities for our shared diverse vendor community.  Thank you for your continued support of the work that we are doing to advance the needs of our diverse Chicago businesses.  We hope that you will vote to support the extension of the CSM w program for construction.  With that, was holding I are happy to take any questions that you may have.  Thank you.  I think we'll go on to let hope, and then we'll take questions.  After that.  Good morning, all the men in the committee.  I don't have a separate statement from Miss Menes, but I'm certainly happy to answer questions.  I know we had a.  I know we
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Chicago is committed to improving conditions for minority and women owned businesses, and has engaged a leading national expert to conduct a disparity study and make recommendations. The resulting recommendations include continuing and revising the eligibility requirements for the CSM w program for construction. There is strong support from organizations representing over 1800 diverse businesses for this ordinance.

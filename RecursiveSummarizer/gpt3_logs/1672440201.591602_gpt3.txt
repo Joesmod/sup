@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+this more money come from my area than any other area in the city of Chicago to help everyone else's area.  And we allow that to happen, because we're all in this together.  The reason why some folks are going to other communities, because we neglect their community.  Guess what, they're going to keep coming to your community.  But if you fulfill opportunities for them to get ahead in their neighborhood.  They don't even have to come to your neighborhood, because they have all of the amenities and resources in their neighborhood, where they don't even have to go downtown or go anywhere else to be able to have a good time and feel safe or whatever the case may be, you know, so we need in order for this city to get ahead.  In order for this city to stabilize in order for this city to be able to be safer.  We have to give everyone all around the city opportunities, so they can recognize that they are all a part of the city so I support this 100%.  Thank you.  Thank you, Alderman Burnett the chair recognizes all of them in vassals.  Thank you, President, and thank you to everyone who spoke, especially our colleague, I'll remember net.  I think we know historically there's a reason why transportation is such a problem, we shouldn't live in a world class city where there are transportation deserts that should not be allowed to exist.  And we know that it does because in the inception and creation of the city, it was intentional to segregated.  So to be able, and I'd like to add my voice as a north side voice that we continue to build upon that.  I know that when people who want to develop and create housing, they come and look at the north side because they go there's public transportation, there's ways for people to get to their jobs, and there's not enough creation of that housing on the south and west sides, because the infrastructure is not there when it comes to public transportation.  And so I'm in full support as well.  As someone who earlier this year was calling
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Burnett supports the measure to invest more money in areas of the city that have been neglected, because doing so will benefit the entire city. He points out that some areas have been designed intentionally to be segregated, and that this has led to a lack of investment in infrastructure and opportunities on the south and west sides.

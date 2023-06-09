@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+you you you you you you you you you you you you you you you you you you you you you you you you you I can't Good morning, everyone.  Happy what is this? and government operations is called to order.  We will now have a roll call to establish quorum.  Vice chair Silverstein, Alderman King, Alderman Harrison, Alderman Sawyer, Alderman Mitchell, Alderman Harris, Alderman Sotlowski Garza, Alderman Lee, Alderman Cardenas, Alderman Quinn, Alderman Moore, Alderman Curtis, Alderman O'Shea, Alderman Brookins, Alderman Rodriguez, Alderman Tabaris, Alderman Scott, Alderman Burnett, Alderman Ervin, Alderman Talia Farrow, Alderman Roboris, Alderman Wagesback, Alderman Austin, Alderman Ramirez Rosa, Alderman Villegas, Alderman Metz, Alderman Spisato, Alderman Napolitano, Alderman Riley, Alderman Knudsen, Alderman Tunney, Alderman Capelman, Alderman Osterman, and Chairman Dowles here.  We have a quorum.  We have 16 members.  Also want to acknowledge Alderman Laspada, Alderman Sicha Lopez, Alderman Cardona, Alderman Martin, Alderman Sotlowski Garza is present, and Alderman Lopez we acknowledge.  So we have 17 members present.  We have a quorum.  At this time we'll begin public comment.  The public comment will be limited to 30 minutes.  In fact, today it'll be a little over 30 minutes because we want to accommodate everyone that's here and has signed up and those that are on the phone with us virtually.  We will have Kennedy Bartley start us off.  Mr.  Bartley.  Hey, good morning everyone.  Can you hear me? Yes, we can.  Okay, good morning.  Thank you.  Hi, y'all.  As the chairman said, my name is Kennedy Bartley and I am here in support of the budget amendment for the Chicago Social Justice Memorial that was introduced a couple of weeks ago and sent to the budget committee be heard.  During the agenda item 7A that will hear the series of proposed corrections and revisions to the 2023 budget recommendations.  This is a budget item properly.  It's not an item that should be heard
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Chicago Social Justice Memorial is a proposed budget amendment that would allocate funds to create a memorial honoring social justice activists in the city. The amendment has been sent to the budget committee for consideration.

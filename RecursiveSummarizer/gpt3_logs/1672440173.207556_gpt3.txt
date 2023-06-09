@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+someone who took risks to advance the interests of her community.  And because of her work, she helped put the Chicago theater community on the map.  She made an impact not just locally, but nationally and globally.  She was someone who understood the necessity to work across lines of nationality to advance the agenda for the Latino community and for all Chicagoans.  And so for that, it's such a great honor to be able to recognize her today, to remember her, she was truly someone who left an impact.  And so despite the fact that she's no longer here with us today, her legacy continues.  And we're gonna continue to feel the work that she's done for many generations to come.  So thank you to her family for sharing us, for sharing her with us for all these years, our deepest condolences, and may she rest in peace.  Thank you, Alderman Ramirez Rosa.  Any other members who wish to speak to this resolution? I stand with the entire body to speak to this resolution.  Today, we have the great honor of recognizing the life and legacy of Mira Salazar, your mother, your friend, your colleague.  Up until her passing this summer, Ms.  Salazar was hard at work, doing what she loved most, which was paving pathways for Latinx artists to find success and thrive in the theater industry.  And I wanna talk a little bit about the work that she did over so many years.  As Alderman Maldonado stated, she got her start advocating for Chicago's Latinx community by working at the Westtown Economic Development Corporation.  And as an economic development specialist there, she helped to generate millions of dollars in housing and business development, an effort that would eventually shape our iconic Puerto Rican neighborhood and the Humboldt Park neighborhood as a whole.  This work would inspire and prepare Ms.  Salazar to create her own talent agency, which she presided over for 25 years and helped to further the careers of many beloved Latinx Chicago artists.  And in the years after that, she
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mira Salazar was a Latina businesswoman and theater advocate who worked to improve her community through economic development and talent representation. She helped shape Chicago's Puerto Rican neighborhood and put the city's theater community on the map. Salazar's legacy continues to inspire and prepare Latinx artists for success.

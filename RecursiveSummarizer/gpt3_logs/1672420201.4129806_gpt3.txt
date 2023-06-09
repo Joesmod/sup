@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+for us as so 60 million is in the capital program for the lead service line replacement, and I will follow up on the CPS question.  I don't know the, I do not know the me abf number because I think that's, that's the question you wanted is how much of our me abf pension costs are dedicated for CPS.  Yeah, and any other funds in that are in our budget are allocated towards CPS but definitely the pension as well.  Yes, I could tell you like the small dollar amount in the budget is you know roughly, I think it's about 7 million for different funding, but I will definitely get, I will get you a final number.  Right that tip pension right so there's a lot of different sources.  Yep.  Okay, thank you all the major, all the men Quinn.  Thank you, Madam Chair.  Good afternoon, Madam, budget director.  Good afternoon.  I had multiple conversations about police retention in this seven a any edits for additional programming for police retention.  We do not have anything in the amendments, I think you know, the conversation around, you know, police retention, you know, how do we continue to work with the police department, not only to recruit, but to make it a good place to work as part of that, as part of the $100 million investment that we are making for the police department whether it's better training, you know improvements to their facilities additional vehicles, all the things that are in the original budget, not in the amendment, you know all those things are things we're working, going to work towards in 2023.  I think that is a problem.  I think when I questioned the superintendent he talked about like a mentor program.  I can't sound the alarm loud enough that we are losing officers, every single day so it's great to do a victory lap around recruiting, but if we're recruiting and not retaining, it's all for not.  So, this blind spot will continue if we don't incentivize.  And I appreciate that I think that is what we are working, you know, definitely from the budget
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+- lead service line replacement - CPS - me abf pension costs - police retention - budget - superintendent - officers - recruiting - incentivize

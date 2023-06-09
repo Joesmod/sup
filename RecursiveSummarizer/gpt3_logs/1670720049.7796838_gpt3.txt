@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+Amendment, the interests supported by such a prohibition would be weaker.  This is a conversation about whether a business can discriminate against customers based on the business owner's beliefs. Mr. Fletcher argues that a business should be able to refuse service if the owner has a religious or moral objection to the customer's request. Justice Kagan asks whether this would also apply to a business owner who objects to gay marriage, and Mr. Fletcher says yes.  The conversation is between Justice Kagan and Mr. Fletcher. They are discussing a hypothetical case in which a woman is asked to say "God bless this union" as part of her job. Justice Kagan says that she would come out one way if the woman was only asked to say the words, but she might come out the other way if the woman was being asked to do something else as part of her job.  The conversation discuss a case in which a woman is refusing to provide websites for same-sex marriages. The woman is seeking an injunction that would allow her to continue this practice. However, the conversation participants discuss whether or not this type of relief is appropriate.  The lawyer for the state of Washington is arguing that the state should be allowed to ban gay marriage because it is a form of expression that the state does not agree with. He says that if the Court rules against the state, then it would be open to schools teaching segregation as long as they can claim it is part of their message.  The conversation is between Justice Gorsuch and Mr. Fletcher. Justice Gorsuch begins by stating that there is radical agreement on how to legally analyze the case, and that what would be impermissible is discrimination on the basis of status. Mr. Fletcher disagrees, saying that there is great difference of opinion about how to legally answer the case. Justice Gorsuch then asks if it is fair to say that the other side thinks it is a viewpoint case, to which Mr. Fletcher responds that it is both a status and message case.  The
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This is a conversation between Justice Kagan and Mr. Fletcher about whether businesses should be able to discriminate against customers based on the business owner's beliefs. They discuss a hypothetical case in which a woman is asked to say "God bless this union" as part of her job, and Justice Kagan says that she would come out one way if the woman was only asked to say the words, but she might come out the other way if the woman was being asked to do something else as part of her job. The conversation then discuss a case in which a woman is refusing to provide websites for same-sex marriages, and they discuss whether or not this type of relief is appropriate.

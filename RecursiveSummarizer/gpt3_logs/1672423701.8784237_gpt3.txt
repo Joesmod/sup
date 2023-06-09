@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Hello.  Excuse me, Mr.  Blakemore.  We're going to let Ms.  King speak.  Ms.  King, please proceed.  Yes, my name is Brittany King, and I am an aspiring alderman, and I am now a mother of a three-year-old.  And I just recently did a piece talking about obesity.  And so for me, risking tipping over in a wheelchair, which I am sometimes in, is more dangerous for me with my three-year-old than anything I've ever experienced in my whole disabled life.  I also have sickle cell, and the fact that it's not 75 plus year round, it bothers some for me, but it also reduces the chances I get to have a walk with my daughter to see why the park is closed.  And these are learning things that I like to teach her.  Let's go see why there's no one at the park.  I would like for you to pass the pilot program to plow the sidewalk.  Thank you.  Thank you, Ms.  King, for your comments.  Mr.  Blakemore, will you please come forward? I'm going to allow you to speak for three minutes, basically because when I came here this morning, you were the first person here, and I got here early, so I know you were here.  If you would please make your three-minute remark.  My remarks, you probably don't want to hear.  Why would you not? I turned in my pink slip, and you didn't call me, and it's unacceptable.  I've been here ever since 8 30 this morning.  Why do you want to silence Mr.  Blakemore? And his minutes run faster than these other speakers too? Why is this going on here? Are you anti Mr.  Blakemore? Why I believe that you're anti participation? Why are all these seats empty? Why wouldn't you have this meeting at 7 p.m.  instead of 10 a.m.? I don't think it's just against Mr.  Blakemore.  I think that the system is broken, that this is a cesspool here.  You just didn't forget when you saw me.  This was intentional.  Mr.  Blakemore, you must be somebody.  I'm old, I'm poor, and I'm black.  I don't have a pot to piss in, and now I'm gonna throw it out, but I am somebody, and you all know it.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man named Mr. Blakemore is upset that he was not given the chance to speak at a meeting. He believes that the system is broken and that he was intentionally silenced because he is old, poor, and black.

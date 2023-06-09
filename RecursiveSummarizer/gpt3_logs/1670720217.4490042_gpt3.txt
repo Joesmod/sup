@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a short summary of the following in a style that a second grader could understand:
+
+
+speech from the couple. The conversation is about whether or not the government can protect speech that is objectionable. Ms. Waggoner argues that the government cannot protect speech that is objectionable.  The conversation discuss the line between compelled speech and compelled service. Justice Sotomayor asks if the person viewing the work will think is talking. Ms. Wagganer responds that the Pulitzer Prize goes to the photographer, and that the reason is because they are requiring that artist to speak a message. The conversation then turns to a hypothetical about race and selling to someone of a different race. The conversation is about whether or not a web designer can refuse to take photos of black, Hispanic, and Asian children for a Christmas website. The web designer believes that they should be able to refuse because the children are not of the same race as Santa. However, the other justices point out that the message of the website is not clear, and that the web designer may be engaging in racial discrimination. The Court is discussing whether or not religious objections to same-sex marriage are the same as religious objections to people of color. The answer is no, according to Obergefell.  The Supreme Court is hearing a case about a wedding photographer who refused to serve a same-sex couple. The photographer argues that she should be allowed to refuse service based on her religious beliefs. The justices are questioning whether the Compelled Speech Doctrine applies in this case. The lawyer for the case argues that the speech could be compelled if the only indication of any limitation was a tag line at the end saying these services are for heterosexual couples only. The Chief Justice then asks what if the website said that it would not provide services for anything other than heterosexual marriages because of religious reasons. The lawyer responds that the religious basis is not determinative here and that the Compelled Speech Doctrine applies in a host of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Supreme Court is hearing a case about a wedding photographer who refused to serve a same-sex couple. The photographer argues that she should be allowed to refuse service based on her religious beliefs. The justices are questioning whether the Compelled Speech Doctrine applies in this case.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+the private sector.  Well, as for federal requirements, of course, you always have to operate within the terms of the grant or whatever the funding sources.  So that's always the first thing, it's just what in fact are the strictures that come along with the money? So for example, if it's coming from the United States Department of Transportation, that's gonna be the DBE program, the Federal Disadvantaged Business Enterprise program, not the city's local program, and that's just how it is.  There may be other funding sources.  Right now I'm working with a county that's getting a lot of money from the Army Corps to do flood control, they have their own program.  So that's the first thing that you always have to figure out is what are the restrictions on the source of the funds and what agency are getting them? But then again, I think as I'm looking down the road towards hopefully the infrastructure money coming is to get firms ready, because these projects are gonna come, they're gonna come fast and they're gonna come big and they're gonna be complex.  And so these types of technical support initiatives that we've recommended, I think are really important, making sure people learn about the opportunities, that there's outreach, that there's access to the information, and that we do everything we can to try to get these firms in a position so that they can participate in these projects.  So getting some of these things off the ground now, I think will help the bonding initiative, which really is a way to get people bonded.  It's not bonding education.  We've had education for 30 years about bonding.  The problem is people can't get, they can't get bonds or they can't increase their capacity.  There are some good programs out there, other cities, I've provided a lot of that information in the city already, happy to follow up and continue to work with them about that.  But these are the things that contractors tell me work.  Cause I asked them in the interviews, what
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The private sector always has to operate within the terms of the grant or whatever the funding sources. The first thing is to figure out what are the restrictions on the source of the funds and what agency are getting them? But then again, I think as I'm looking down the road towards hopefully the infrastructure money coming is to get firms ready, because these projects are gonna come, they're gonna come fast and they're gonna come big and they're gonna be complex. And so these types of technical support initiatives that we've recommended, I think are really important, making sure people learn about the opportunities, that there's outreach, that there's access to the information, and that we do everything we can to try to get these firms in a position so that they can participate in these projects.

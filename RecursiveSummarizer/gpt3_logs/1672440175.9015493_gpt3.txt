@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Antisemitic incidents like these have increased by 430% in Illinois between 2016 and 2021, according to the Anti-Defamation League.  Locally, hate crimes are up 71% in Chicago this year.  The most frequent targets are Jewish residents.  The Chicago metropolitan area has one of the world's largest concentrations of Jewish households with a population of more than 300,000 people.  Many of those residents are centered around the 50th Ward.  We have more synagogues and Jewish owned businesses and a two mile stretch here than in the rest of the city combined.  When public figures like Kanye West are left free to spout antisemitic hate speech, attacks on Jews follow.  His public support of Hitler and Nazi emboldens bigots.  And when he posts Swastikas on Twitter, Jewish owned businesses and synagogues fear that they may find one spray painted on their walls.  Don't believe it? In November, Vandal spray painted Kanye was right, along with Swastikas on more than a dozen gravestones in a Jewish cemetery in Waukegan.  Similar banners were hung over a Los Angeles freeway in October, and we all heard someone say the same thing just a couple of months ago during public comment and city council.  This is not a coincidence.  Hate is like a disease and it spreads when it's not confronted.  Elie Wiesel, the author of Night and one of the most powerful chroniclers of the Holocaust once said, we must take sides.  Neutrality helps the oppressor, never the victim.  Silence encourages the tormentor, never the tormented.  It is time to take a side.  It is time to confront Kanye and other antisemites, to condemn him and stop giving him a platform for spreading hate and lies.  Thank you.  Thank you for Alderman Silverstein.  Thank you for bringing this forward.  As we talked about at one of our last meetings, we cannot tolerate hate in our city.  And Elie Wiesel is 100% right.  If we are silent and we're bystanders, hate wins and we must do everything we can to stamp it out.  So thank you
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The number of antisemitic incidents in Illinois has increased by 430% between 2016 and 2021, according to the Anti-Defamation League. Hate crimes are up 71% in Chicago this year, with Jewish residents being the most frequent targets. Public figures like Kanye West are believed to be emboldening bigots with their antisemitic hate speech. Elie Wiesel, the author of Night and a Holocaust chronicler, has said that neutrality helps the oppressor and that silence encourages the tormentor. It is time to take a side and confront antisemites.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+just wanted to get this on our plate and to have all of the city council to support this resolution because it's really important that we maintain access and to the ballot for all the people that live in the state of Illinois given what we're seeing across the country in terms of voter suppression and not allowing folks to vote.  We want to make access easier, not harder.  Alderman Osterman followed by Alderman Rodriguez and then Alderman Garza.  Thank you.  Just one quick question.  Mr.  Holliday, I believe when he was before us, said that the city may be going in the future to having two locations per ward.  Is that being planned for future elections? And if you don't know, you can get back to me.  We did provide through the chair response the budget of what 100 early voting sites within the city would look like.  I'm afraid I don't have that exact number of things before me, but we would be happy to continue to discuss with city council 100 early voting sites for an election over what is provided right now, which is the 50 sites.  My colleagues that will be on the ballot will want to know that.  Let me just also just more in a very practical way, encourage the board of election.  I got my mail yesterday, which was a nice letter to my wife and I telling us where to early vote and where polling places on election day.  Many of our wards or all of our wards went through a precinct consolidation, which could lead to some confusion on election day.  Whatever you were able to do with the microphone or whatever to tell people that if they are confused on Tuesday to go to the early voting site, I think that would help alleviate some fears of people.  They're worried about where they vote.  So I think over the next six days, I would encourage you strongly to kind of get the word out.  You can vote on election day, early vote instead if there's any issues about your polling place.  Thank you, Madam Chair.  Thank you, Alderman Austin and Alderman Rodriguez.  Thank you,
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+early voting, ballot access, voter suppression, election day, polling place

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+about the Cenos when I was introduced to her.  And it was so clear the passion that she had for the arts and what that delivers and gives to our community.  And not just the Latino community of the city of Chicago, but to the world and the arts as a way to unite people.  So please know that she made an indelible mark on many people, even someone like me who only met her a couple of times.  I'm so very sorry for your loss.  Thank you.  Thank you, Alderman Lee.  The chair recognizes Alderman Rodriguez.  I didn't get a chance to know Ms.  Salazar well, but I know throughout my years of work in the community that I passed her many, many a time.  And I have some very good friends in the dais there.  And I know that if she was a good friend of them, she would have been a great friend of mine.  I've read so much about her excellence and the legacy that she will leave to our great city.  That I just had to make sure to stand and rise and be associated with this and just offer you my condolences.  But then also offer you your blessings because the fact is that we're all blessed for her presence, but especially those who were closest to her.  So spend the rest of the day celebrating her life as we will as well.  Thank you, Madam President.  Thank you.  And I should add that in the box are her daughters, Eliana Romero, Yvette Sharp, Sarah Carranza, a director of communications Esteban Shemburg, production coordinator, Marty Castro, a Unito introduction, but board chair and CEO and president of Casa Central, Carlos Tortola, also needing no introduction, the president and founder of the Mexican museum, also Mari Carmen, a family friend and Amy McCarty.  Thank you, ladies and gentlemen, for being here.  The chair next recognizes Odom and Sixto Lopez.  Thank you, Madam Chair.  And to the family and the friends here today on behalf of the 25th Ward residents or heartfelt condolences and or deep admiration for Mirna, I had the opportunity to meet her in several locations.  As you
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alderman Rodriguez remembers meeting Mirna Salazar a few times and being impressed by her passion for the arts and her dedication to uniting people. He expresses his condolences to her family and friends.

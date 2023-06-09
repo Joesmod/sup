@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+And $43 million in pensions to Burge and his detectives under his command, who were also have found to have committed acts of torture.  Meanwhile, the city has only committed in the last month or so to provide Chicago torture justice memorials $50,000 for a planning grant.  That is unconscionable and is unacceptable.  That is why we are asking you, Chairman Dowell, please bring up the budget amendment today, asking that $2.25 million be added to this budget.  The time is urgent.  Survivors are passing as well as family members.  For decades, the torture survivors were disbelieved and dismissed and discarded by city officials.  The fact that there is no commitment and no funding for this memorial is continuing to traumatize them again.  They should be able to live to see the day that this memorial intended to honor their resilience and perseverance is seen and built.  That is why we are saying justice delayed and justice denied.  Again, Chairman Dowell, you voted in support of this reparations legislation.  We are asking you to fulfill your promise to the survivors.  We're asking all of you as city council members responsible for fulfilling this promise to vote in support of this amendment.  Walk the walk.  Don't just talk the talk about condemning racist police violence and supporting people who have survived that violence.  Thank you.  Thank you, Ms.  Mogul.  The last speaker is Jeremy Frisch.  Hi, can you hear me? Yes, we can.  Great.  Hi, my name is Jeremy Frisch and I live in the 44th Ward.  I'm back this week and will keep coming back until we address unplowed sidewalks.  Our son was born in April 2020 and one of the only things we could safely do the last two winters during the pandemic is go on walks outside.  Even though many of our neighbors would dutifully clear their sidewalk, there was almost always one house per block that didn't.  Maybe they were out of town, didn't get to it, or only cleared a small path not wide enough for our stroller.  In the
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+- Torture - Memorial - Trauma - Resilience -Police violence - Unplowed sidewalks

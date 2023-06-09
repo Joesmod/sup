@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+unacceptable places when we consider them in light of odious views, then I think we have to Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 139 Official - Subject to Final Review reject those principles even in a case where we  sympathize with and respect the views.  JUSTICE KAGAN: Thank you.  CHIEF JUSTICE ROBERTS: Justice  Gorsuch?  JUSTICE GORSUCH: I think, at the end  of two hours -- we are now in the afternoon, by  the way.  MR. FLETCHER: Good afternoon. JUSTICE GORSUCH: That there -- there's actually radical agreement on -- on how we should analyze this case legally. Tell me if I'm wrong. MR. FLETCHER: I disagree, but go ahead. JUSTICE GORSUCH: You haven't even given me a chance. (Laughter.) JUSTICE GORSUCH: That -- that -- that what -- what would be impermissible is discrimination on the basis of status, but what would be permissible is -- is refusing service because of a disagreement about views. MR. FLETCHER: So I guess I -- what I -- the reason I disagreed at first is to say I Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 140 Official - Subject to Final Review  think there is general agreement that that's  about the right outcome.  JUSTICE GORSUCH: That that's about the right way to think about this case.  MR. FLETCHER: But great difference of  opinion about how legally you get there, and that leads to difference of opinion about how  you answer it.  JUSTICE GORSUCH: But -- but -- but -- but -- but I -- I was about -- you just steal my thunder, counsel. (Laughter.) JUSTICE GORSUCH: You think this is a status case. The other side thinks it's a -- a viewpoint case. Is that fair too? MR. FLETCHER: I -- I wouldn't say that. I acknowledge that this is a status and a message case. JUSTICE GORSUCH: Okay. It's both -- MR. FLETCHER: Yes. JUSTICE GORSUCH: -- in your view, I'm sorry, whereas they would say it's a
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The conversation is between Justice Gorsuch and Mr. Fletcher. Justice Gorsuch begins by stating that there is radical agreement on how to legally analyze the case, and that what would be impermissible is discrimination on the basis of status. Mr. Fletcher disagrees, saying that there is great difference of opinion about how to legally answer the case. Justice Gorsuch then asks if it is fair to say that the other side thinks it is a viewpoint case, to which Mr. Fletcher responds that it is both a status and message case.

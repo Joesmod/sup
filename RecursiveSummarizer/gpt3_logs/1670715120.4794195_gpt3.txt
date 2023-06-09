@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+The City of Chicago is proposing an ordinance that would require contractors to hire a certain percentage of socioeconomically disadvantaged workers for construction projects. Chief Procurement Officer Eileen Velasquez will explain the ordinance, followed by Q&A from industry members and the public.  The proposed amendment to the ordinance removes the project area residency requirement and replaces it with a new requirement that the total hours worked on the project must be performed by residents of social economically disadvantaged areas. The contractor and subcontractor can staff their workforce with individuals who are from any area of the designation, within the designation and their work hours will count towards the requirement.  The ordinance being discussed is for the hiring of construction workers for a project in a socially disadvantaged area. The community that is hosting the project should have first consideration for the workforce, but if there are not enough residents from that area that meet the requirements, then workers from other socially disadvantaged areas in the city can be hired.  The ordinance being discussed would require contractors to hire from socioeconomically disadvantaged areas for city projects. Alderman Sawyer, who sponsored the ordinance, says that he would not have an objection to giving preference to the community where the project is located.  The City of Chicago is proposing an ordinance that would give preference to local residents for jobs on city projects. The biggest concern with this ordinance is that it would result in people being hired for three weeks and then let go. Alderman Rodriguez is concerned about how this ordinance will specifically address that issue. Brian Hacker from the Department of Planning and Development explains that the ordinance is based on census tract data that does not take into account undocumented residents.  The map of Chicago's 14th ward is based on data from the US Census Bureau's 2014 American
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is proposing an ordinance that would require contractors to hire a certain percentage of socioeconomically disadvantaged workers for construction projects. The proposed amendment to the ordinance removes the project area residency requirement and replaces it with a new requirement that the total hours worked on the project must be performed by residents of social economically disadvantaged areas. The ordinance being discussed is for the hiring of construction workers for a project in a socially disadvantaged area. The community that is hosting the project should have first consideration for the workforce, but if there are not enough residents from that area that meet the requirements, then workers from other socially disadvantaged areas in the city can be hired.

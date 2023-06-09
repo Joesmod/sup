@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+members of the Committee on Transportation and Public Way and the members of the Committee on Economic Capital and Technology Development.  Almond Rodriguez Sanchez and others have proposed orders for amendment of municipal code title 5 by adding a new chapter 5-25 entitled Chicago Healthy Homes Checkup Pilot Program and chapter 5-26 entitled Rental Housing Unit Registry which is referred to Committee on Housing and Real Estate.  Almond Burnett has proposed orders for the issuance of permits for signed sign boards at 345 North Morgan Street which is referred to Committee on Zoning, Landmarks and Billing Standards.  Almond Sietro Lopez and others have proposed resolution to call for public hearings on disciplinary case against Officer Robert Baker which is referred to Committee on Public Safety.  Almond Sietro Lopez and others have proposed resolution to call for subject matter hearings on reinstitution of Office of Tax Protection which is referred to Committee on Finance.  Almond DeBarras has proposed order for the issuance of permit for a signed sign board at 5230 South Cicero Avenue which is referred to Committee on Zoning, Landmarks and Billing Standards.  Almond Rodriguez and others have proposed orders to call for establishment of the 2023 Property Tax Relief Loan Program which is referred to Committee on Housing and Real Estate.  Almond Brookins has proposed ordinance for amendment of municipal code section 4-60-023 to allow additional package group licenses on portion of South Halston Street which is referred to Committee on License and Consumer Protection.  Almond Moore has proposed orders for amendment of municipal code section 17-13-0103A regarding application fee for special use applications which is referred to Committee on Zoning, Landmarks and Billing Standards.  Almond Burke has proposed order for the issuance of permit for a signed sign board at 5825 South Kedsey Avenue which is referred to Committee on Zoning, Landmarks and Billing Standards.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The following committees have been proposed: the Committee on Transportation and Public Way, the Committee on Economic Capital and Technology Development, and the Committee on Housing and Real Estate. Almond Rodriguez Sanchez has proposed orders for amendment of municipal code title 5, which would add a new chapter 5-25 entitled Chicago Healthy Homes Checkup Pilot Program, and chapter 5-26 entitled Rental Housing Unit Registry. Almond Burnett has proposed orders for the issuance of permits for signed sign boards at 345 North Morgan Street. Almond Sietro Lopez and others have proposed resolutions to call for public hearings on disciplinary cases against Officer Robert Baker and to reinstitute the Office of Tax Protection, respectively. Almond DeBarras has proposed an order for the issuance of a permit for a signed sign board at 5230 South Cicero Avenue. Lastly, Almond Brookins has proposed an ordinance for amendment of municipal code section 4-60-023 to allow additional package group licenses on a portion of South Halston Street.

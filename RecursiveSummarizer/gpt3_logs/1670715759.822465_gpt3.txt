@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determine form.  Alderman Austin so moves hearing no objection so ordered to pass recommendation this ordinance we report the next city council meeting on Wednesday, December 14.  Thank you.  Next item is an item number three negotiated sale of city owned property at 2928 East 89th Street to Pilsen little village community mental health center incorporated and pillness wellness center Inc.  The recommendation of a community clinic.  This is in the 10 toward the purchase prices $1.  Michael Pacific and the Department of planning development is here to provide testimony on this ordinance.  Thank you, Mr Chairman again for the record Michael Pacific Department of planning and development here today to testify to a proposed sale of city on property at 2928 East 89th Street.  The subject property is a vacant building which is proposed to be sold to Pilsen Wellness Center for use as a community clinic, the building is located in the far south planning area, represented by all the women Garza who is supportive of this project, her chief of staff, as well as Paul.  And Ron ho from Pilsen Wellness Center our attendees of the zoom meeting.  So the subject property is a former police station at the corner of 89th and exchange, it is immediately west of the proposed gallery at 89 development.  The right now, this building, which you can see the photos is being leased to Pilsen Wellness Center, the city council authorized a is to enter into a lease with them, September 9 2020 the lease for a period until 2026 was a dollar a year with the condition that they perform certain environmental remediation work that work was completed at the in the middle of this year.  So the proposed buyer Pilsen Wellness Center is seeking to purchase this building for a dollar.  The appraised value is $600,000.  So we are selling this to them for a dollar with the justification that there is a covenant on the property for a period of 10 years that requires them to operate the facility as a mental
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city is selling a vacant building to Pilsen Wellness Center for use as a community clinic. The building is located in the far south planning area and is being leased to Pilsen Wellness Center for a dollar a year. The appraised value of the building is $600,000.

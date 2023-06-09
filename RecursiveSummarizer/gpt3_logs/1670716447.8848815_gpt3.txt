@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+chief Leonard Langston.  We will open, I'm gonna ask Chairman Dowell.  She wants to begin the conversation and after which we will go on to the speakers in that order.  Chairman Dowell.  Yes, thank you, Chairman Ervin.  I think this is a really important subject matter hearing we're having today.  The job program for those of you who are not familiar with it is a significant tool that the city of Chicago uses some of our sister agencies to get work done in this city, whether it's through construction projects or through professional services work.  This program is really important because it provides significant opportunities, contracting opportunities for minority owned businesses, women owned businesses, section three businesses within each of our respective communities.  In the previous administration, some African-American businesses came to the Black Caucus meeting to talk about how they felt that they were getting shut out of job contracts, specifically in the Department of Transportation.  And at that time, Alderman Austin, Alderman Harris, Alderman Mitz and myself sat down with ZDOT and tried to understand and advocate for more African-American participation in the job program.  That discussion had fits and starts.  And since that time, we see that job contracts are now not only in CDOT, but also in water management, in AIS, and some sister agencies like the Chicago Housing Authority.  I think it's really high time, beyond time, that we shine some light on this issue.  And so I was glad to join with, have conversations with Chairman Ervin to bring this to the Council so that we can begin to shine some light on this project and this strategy, find out the departments that are using it, how they use it, look at some of the numbers and the performances of these departments and also the sister agencies like the Chicago Housing Authority.  So I think I'll just stop there.  I mean, this is an important project, a program to help businesses, African-American
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago's job program is a tool used to get work done in the city, with an emphasis on contracting opportunities for minority-owned businesses. In the previous administration, some African-American businesses felt they were being shut out of job contracts. Since then, job contracts have been made available in several departments, including the Department of Transportation, water management, AIS, and the Chicago Housing Authority. This hearing is to shine a light on the program and find out how it is being used by different departments.

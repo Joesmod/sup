@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 19 Official - Subject to Final Review work, we were both married to other people, but  what began as late nights at the office quickly  turned into love. After six months, we realized we could be happy only with each other, so we decided to begin our story today, got divorced,  and are marrying each other.  Does she publish it?  MS. WAGGONER: I don't believe that she would. I also don't believe that she would embrace or express a message that would essentially say it doesn't matter whether there is a marriage between a man and a woman. She wouldn't create that speech either. JUSTICE BARRETT: So it's about the message and not about the sexuality of the couple that asked her to express it that matters? MS. WAGGONER: Yes, which is exactly how the Court decided the case in Hurley, but it's also in other cases as well, the Pacific Gas and Miami Herald cases. This Court has routinely looked at compelled speech cases to determine if the message -- JUSTICE BARRETT: And, Ms. Waggoner, can I just ask you to clarify before we move on? Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 20 Official - Subject to Final Review When I first asked you the question about the  cisgender heterosexual couple, you said you  thought she would publish it, but then it seemed like you wavered and said something different a  minute ago.  MS. WAGGONER: If I could just clarify the hypothetical. The second part of the  statement was that it didn't matter? Is -- is  that -- JUSTICE BARRETT: That concepts of gender or, you know, sexual orientation were irrelevant to their relationship because they believe that those categories don't matter. What matters is their union of souls. MS. WAGGONER: No, she would not create a website that would say that because that would violate her beliefs about what scripture holds on marriage, in the same way, though, this law and the Compelled
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Ms. Waggoner is arguing that a baker should not be forced to create a website that would violate her religious beliefs about marriage. She says that the baker would not be compelled to create a website that would say that concepts of gender or sexual orientation are irrelevant to a relationship.

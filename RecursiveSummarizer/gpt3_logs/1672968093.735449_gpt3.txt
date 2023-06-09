@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Ms.  Lane.  Hello, my name is Cheryl Nell Lane, and I'm a disabled resident in Chicago.  Every year we know that snow is coming, especially in Chicago.  I am a very active, well-traveled person with disabilities.  And during the winter months, my whole social life, work life activities are halted because of the snow.  There are more people than people with disabilities that need to travel the sidewalks, mothers with strollers, senior citizens, just normal ability residents.  We have black ice on our sidewalks, and sometimes we are forced to walk in the streets.  This is unacceptable.  We need to come together to put on the budget the funds needed to plow the sidewalks.  The fines are not enough.  We have to consider that everyone is not able to do the physical labor required to keep the sidewalks clear.  There are people who can't afford to do it either.  So we have to consider all residents of this city, all residents that need to get out.  And if you have a problem putting yourself in their shoes, think of it like this.  If there was an invisible force stopping you from leaving out of your front door to get to work, to get to this council meeting, to get to family gatherings for the holidays, what would you do then to make sure that you made the invisible force go away? This is how we have to consider the plow the sidewalks campaign, because if we don't plow the sidewalks, that's exactly what we're doing to a lot of residents in Chicago.  So please consider adding to the budget the funding needed for the pilot program to plow the sidewalks in Chicago.  Thank you.  Thank you very much, Ms.  Lane.  Our next speaker is Claire Falk.  Claire Falk.  Hi, good morning.  My name is Claire Faukey.  I'm the mother of three kids.  I live in Logan Square.  And generally, I think Chicago is a great place to raise my kids, but I have a lot of pretty bad memories of when my two youngest kids were very small in the stroller.  There is times when I had imagined a newborn and a one-
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Cheryl Nell Lane, a disabled resident of Chicago, discusses the difficulties she and other disabled residents face during the winter due to lack of sidewalk snow removal. She argues that this is an accessibility issue that needs to be addressed by the city. Claire Falk, a mother of three, describes her own experiences struggling to push a stroller through snow and ice on the sidewalks.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 87 Official - Subject to Final Review  press release on behalf of, say, a religious entity with whom he or she disagrees.  Does -- does every press release  writer, freelance writer have to write a press  release for the Church of Scientology, say, even  though the beliefs of that institution may be inimical to that person?  MR. OLSON: Not at all. And -- and I  admit I don't have firmly in mind the exact contours of my answer a couple years ago to the Tenth Circuit, but I will tell you what Colorado law says, which is you -- a freelance writer may or may not be a public accommodation -- JUSTICE GORSUCH: Well, let's -- let's assume they -- they are -- MR. OLSON: Okay. JUSTICE GORSUCH: -- under your definition, pretty broad, very different than the historical understanding of public accommodation, but we've gone over that. MR. OLSON: So -- so assuming away that hard part of the question, getting to -- to what limitations, all that Colorado law requires is that if you choose to offer a service to someone, you need to offer that service to be Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 88 Official - Subject to Final Review done -- JUSTICE GORSUCH: I offer to write  press releases for anyone. It's not a who, but it is a what. And the what is, I won't write a  press release that expresses religious views or  that I disagree with.  MR. OLSON: Well -- well, I think,  certainly, a -- a freelance writer who is a public accommodation could say, I don't write press releases that express religious views, full stop, I won't write that for anybody. Right? You -- you can -- JUSTICE GORSUCH: No, no, no, I'm -- I'm happy to do it generally speaking but just not ones I disagree with. There are many I would agree with across a wide variety of religious faiths, but I'm not going to do it for some with whom
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the question is raised whether a freelance writer who is a public accommodation (under Colorado law) can refuse to write a press release for a religious entity with whom the writer disagrees. It is concluded that such a refusal would be permissible.

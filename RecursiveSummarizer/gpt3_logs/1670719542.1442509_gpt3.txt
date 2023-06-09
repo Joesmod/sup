@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+those people -- MS. WAGGONER: Not at -- JUSTICE SOTOMAYOR: -- this website -- MS. WAGGONER: -- not -- JUSTICE SOTOMAYOR: -- because it's my speech? MS. WAGGONER: -- not at all, Your Honor. The Hurley framework provides that in a public accommodation context, the first thing the Court looks at is, is the speech creator otherwise serving those in a protected class and expressing other messages. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 14 Official - Subject to Final Review In the context of race, it's highly  unlikely that anyone would be serving black  Americans in other capacities but only refusing to do so in an interracial marriage context -- JUSTICE KAGAN: Well, it's not  impossible.  MS. WAGGONER: -- but -- JUSTICE ALITO: Suppose -- suppose we  agreed that the website designer could not refuse to provide that service to a same-sex couple if the website is of the kind that Justice Kagan described. What does that say about the particular case that is before us on stipulated facts? MS. WAGGONER: Well, it would say that the Court isn't considering those facts because that's not this case that's presented to them, but, at the same time, even that website -- JUSTICE ALITO: Well, so what are the differences between -- what differences do you see between her hypothetical and the actual case that is before us? MS. WAGGONER: She provided a number of hypotheticals, so in terms of assuming it's a Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 -- 15 Official - Subject to Final Review JUSTICE KAGAN: Just one, Ms.  Waggoner.  JUSTICE ALITO: The hypothetical -- MS. WAGGONER: -- website -- JUSTICE ALITO: -- where there is a website and, basically, all the -- the website operator does is to put in the names of the two people who are getting married. MS. WAGGONER: That's not a service that -- or a speech creation that Ms.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the conversation, the participants discuss whether or not a website designer can refuse to provide services to a same-sex couple. Under the Hurley framework, it is unlikely that someone would only refuse to serve black Americans in an interracial marriage context. However, even if the website designer could not refuse to provide services to a same-sex couple, it would not be applicable to the case at hand.

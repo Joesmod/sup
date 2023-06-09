@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+you have this meeting at 7 p.m.  instead of 10 a.m.? I don't think it's just against Mr.  Blakemore.  I think that the system is broken, that this is a cesspool here.  You just didn't forget when you saw me.  This was intentional.  Mr.  Blakemore, you must be somebody.  I'm old, I'm poor, and I'm black.  I don't have a pot to piss in, and now I'm gonna throw it out, but I am somebody, and you all know it.  You know it.  So you've been still in my minutes.  I don't think you're gonna do this this time.  Why are all the ultimate 16 of them decide not to be ultimate? Somebody is cleaning up the cesspool, and why would you have an item if you you're all a little dictator here? If you have 12 items and you have the public can sneak on 12, and if you're tired and you don't want to hear from the public and you don't want to serve the public, maybe you should get another job.  Maybe you're in the wrong profession.  You are a public servant, and you serve the public, and I'm outraged to see these empty seats.  You all don't want the public to come here.  Why would you have, who does this, to have the council at 10 a.m.  Why not 7 p.m.  You heard me, the ancestors crazy about Mr.  Blakemore.  Don't do that to the public.  This concludes the public comment period, and as part of the record, the committee has received some written public comments which have been provided to all of you this morning prior to today's committee meeting.  We have 11 items on the agenda this morning.  The first item is a communication concerning the appointment of Acting Commissioner Sandra Blakemore to be appointed Commissioner of the Department of Assets, Information and Services.  Good morning, Acting Commissioner Blakemore.  How are you? Good morning, I'm well, thank you.  Good to see you.  What? Oh, no, no, no.  No, wrong Blakemore.  But welcome, welcome Acting Commissioner Blakemore.  Good to see you this morning.  This is certainly a good way to start off your confirmation hearing.  Could you
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The system is broken and this is a cesspool, according to the speaker. Mr. Blakemore must be somebody because he is still in the speaker's minutes, and the speaker is outraged that all the ultimate 16 of them have decided not to be ultimate. Somebody is cleaning up the cesspool, and the speaker thinks that maybe the council should have their meeting at 7pm instead of 10am so that the public can attend. This concludes the public comment period and the committee has received some written public comments.

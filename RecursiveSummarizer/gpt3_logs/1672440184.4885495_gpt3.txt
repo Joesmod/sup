@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+case, it's beyond good, it's great.  I was floored literally.  I had a mentoring program when I was a young police officer, but what John and Kathy are doing goes beyond what is just your basic mentorship to help see one of the students at Foreman get into college and then to drive them all the way to college goes beyond what we see our police officers doing every day.  And so I wanna thank John and Kathy for their dedication and their love for Mariam.  And Mariam, I think we've pronounced your name probably six or seven different times, but we say it out of love.  And so I wanna thank John and Kathy for just extending their heart to you to go beyond what most of us see our police officers doing.  And so keep up the good work because it is making a difference.  And even if it's making a difference in one person's life, that's a person that you will see flourish in the future because of your good work and your heart and your love for him and the principal as well.  Thank you for being here today and showing your students that you care and you love them.  Well, Mariam, I'm very proud of you.  As I had an opportunity to speak with you, I understand that you, and I thought you were still in high school.  So I asked you what grade would you, and you told me you were a freshman.  I didn't know you were a freshman in college.  But I wanna say I congratulate you being the first in your family to go to college.  You certainly could have given up hope at the loss of your brother and sister to gun violence, but you chose a different route.  And that tells me a lot about your character.  And that tells me a lot about your self-esteem and the love that you have for yourself to allow someone that doesn't necessarily look like you to mentor you, to give you advice.  And so I ask that you continue to be open about how you're feeling, how you're doing in school with John and Kathy, because just because you're in college, you can see that they have not stopped extending their love to
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+John and Kathy are police officers who mentor Mariam, a student at Foreman High School. They have helped her get into college and are continuing to support her while she studies. Mariam is the first in her family to go to college, and she is an inspiration to others who have faced difficult challenges.

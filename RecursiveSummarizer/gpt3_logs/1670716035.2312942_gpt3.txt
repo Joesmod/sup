@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+information, Madam Chair.  First of all, congratulations to you.  Just wanted to know, are you related to George Blake Moore, or is George Blake Moore related to you? I can defer that question to my husband.  Okay.  You walked out earlier.  Okay.  All right.  I was maybe moving a little too fast.  I'm so excited about this appointment.  Alderman Hairston and Alderman Lopez.  Thank you.  I too want to congratulate you.  You've done a great job so far.  I just have a question and it might not be for you, but I'm going to start with you since you're in the chair.  So I know that several city departments that have city issue phones have been instructed, directed or something not to text with Alderman.  Is that a policy that comes out of your office? I believe that's that would be like a bear's office policy because AIS wouldn't set the policy we would just execute it.  Okay.  And so is there an automatic text reply that this phone does not accept text messages? I don't think I don't know if there's an automatic reply.  We could look at putting something like that.  Okay.  But yeah, it again, we didn't, we don't set the policy.  Okay.  Thank you.  Thank you, Alderman Hairston.  I didn't quite know about that.  Okay.  Alderman, Sicha Lopez.  Thank you.  Thank you, Madam Chair.  And I just have a.  Oh, I'm sorry.  It wasn't you, Alderman Lopez.  You didn't put your hand up.  You don't have to have any questions, believe me.  Alderman Lopez.  The original Lopez.  Thank you, Madam Chairman.  And good morning, members of the committee.  I just have two items for you.  First off, congratulations acting commissioner.  But one of the things that I'd like to bring to your attention is something that I brought to the attention of your predecessor with regards to the necessity for ward specific tax identification numbers.  Along the certain lines, as some of my colleagues who talked about our various Aldermanic utilities and things of that nature, I've asked the comptroller, I'm
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Alderman Lopez congratulates the new acting commissioner and asks if they are aware of the need for ward-specific tax identification numbers.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+commissioner what is the difference between the two again Ray Phillips on behalf of the city of Chicago um the commissioner is the commissioner of business affairs and consumer protection and the director is the director of excuse me the office of director of the office of labor standards thank you all right and along those same lines what is the difference between an employee and a worker an employee is um is is a category of person who uh you know does the w2 and such and a worker may be an independent contractor for example okay so we are also and an employee would receive all full benefits as whereas a worker would not can you tell me why we chose that yes um we're expanding from just employee to worker because sometimes people think that they are actually um that they're contractors or just workers and not actually employees but sometimes they are and we want to make sure that everybody who thinks that they have um that there may be a violation under the the municipal code of chicago can't does feel welcome to come to the office of labor standards and say hey i've got an issue and then the office of labor standards can say yes this applies to you or no it doesn't and as you know in law sometimes something like that can also be used as an affirmative defense by and that's and that's the concern you know everybody every worker is an employee wherever every employee is a worker but every worker is not an employee that's exactly right and so that's i i'm that's that's a little troubling so i'm going to move on because i don't want to take up too much more time uh and the penalty violation you talk about the adjudicator yes in what venue would that be so that could be at for example at the department of labor standards it could be uh it could be a judge in circuit court okay and then on page 15 subsection 10 to issue the environmental protection and to issue an emergency non-emergency cessation order and abate conditions that create a threat to public health um
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Chicago Commissioner of Business Affairs and Consumer Protection is responsible for investigating complaints of wage theft and enforcing the city's labor standards. The Office of Labor Standards is expanding the definition of "worker" to include independent contractors, in order to better protect their rights. Violations of the labor standards will be adjudicated by the Department of Labor Standards or a judge in circuit court.

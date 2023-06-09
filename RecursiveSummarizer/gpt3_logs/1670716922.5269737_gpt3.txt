@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+time.  Do you think that this is, at least in terms of the percentages, do you recommend what I'm hearing is this maintaining or making sure that we have a much higher percentage in terms of the minimum requirements that we currently have in minority and women hiring? Well, let me start by saying that from the standpoint of the federal courts, what the legal standard is, not general population in the city.  Federal courts do not care.  What they wanna know about is who is available, the magic word phrase is ready, willing, and able.  Is that feedback on my side? I hope not.  Okay, thanks.  Ready, willing, and able firms to do the scopes of work that the city purchases.  And so you could have a community that was 50% black and Latino, like Chicago probably is.  I haven't actually looked at the latest census preliminary results that are out there, but what the courts care about is what businesses are available to do the type of construction work the city purchases.  And those are two very, very, very different numbers.  And one could certainly reasonably argue that they are vastly lower than population because of discrimination, but in the conservative federal judicial climate, that isn't gonna get us anywhere.  So we really are stuck with the availability of firms as they are today.  And so what we're suggesting is using the study data to set the goals on a contract by contract basis.  So there is no minimum, there is no maximum.  It's whatever it is.  It's gotta be kind of reality grounded that way as to who's available to do that work.  And so maybe sometimes you may have a goal higher than 26%.  Sometimes it's gonna be lower, but a legally defensible program has to be tied to the actual availability of the firms that are out there.  We did, as I was briefly explained, apply this expected availability, taking a look at the disparities in the Census Bureau data to see what availability might look like if discriminatory barriers were lessened, not eliminated, or
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The speaker is discussing the legal requirements for minority and women hiring, and how these requirements differ from the general population. They explain that what the courts care about is the availability of businesses to do the type of work the city purchases, and that this number is much lower than the population percentage. They suggest using data from a study to set goals on a contract-by-contract basis, taking into account the expected availability of businesses if discriminatory barriers were lessened.

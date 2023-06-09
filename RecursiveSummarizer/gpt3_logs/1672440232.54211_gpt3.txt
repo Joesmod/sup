@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+one happy day let me tell you so happy to report reporting on your committee on special events cultural affairs recreation also known as the happy committee which held a meeting on December 7th, 2022.  The committee recommends passes of the following items 2022-3791 expenditure of open space impact fee funds the neighbor space for acquisition and development of the property at 4131-4149 South Grexel Boulevard comprising Kenwood Garden and move passes to this item by the first most favorable roll call of the committee on finance and associated unsuccessful motion to reconsider.  Hearing no objection so ordered.  Item 2022-3792 expenditure of open space impact fee funds the neighbor space for installation of dedicated water hydrant at Montrose Metro Garden 4400-4498 North Ravenswood Avenue.  I move passes to this item by the first favorable roll call vote of the committee on finance and associated unsuccessful motion to reconsider.  Hearing no objection so ordered.  Item 2022-3793 expenditure of open space impact fee funds the neighbor space for recreational improvements at Pierce Elementary School 1423 West Brydmar Avenue.  I move passes of this item by the first favorable roll call vote of the committee on finance and associated unsuccessful motion to reconsider.  Hearing no objection so ordered.  Madam President this concludes my report.  Thank you chairman.  Next up the committee on transportation and public way chairman Brokens.  Thank you.  Good afternoon Madam President.  Reporting for your committee on transportation and public way.  A committee meeting was held on November 10th 2022 and December 8th 2022 the following ordinances were passed by a majority of the members present.  Page two includes one might Merrill ordinance introduced by the mayor's office.  Page three and four and include 18 ordinances for miscellaneous items introduced by the local alderman from boards one three eleven sixteen twenty three twenty seven thirty thirty three thirty five forty
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The "Happy Committee" met on December 7th, 2022 and recommended passing three items related to expenditures of open space impact fee funds. Item 2022-3791 was for the acquisition and development of the property at 4131-4149 South Grexel Boulevard comprising Kenwood Garden. Item 2022-3792 was for the installation of a dedicated water hydrant at Montrose Metro Garden 4400-4498 North Ravenswood Avenue. Item 2022-3793 was for recreational improvements at Pierce Elementary School 1423 West Brydmar Avenue.

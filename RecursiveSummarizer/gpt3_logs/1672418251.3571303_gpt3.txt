@@ -1,0 +1,15 @@
+PROMPT:
+
+Write out the proposed spending as a summary and dollar amount along with the likliness of the bill being passed on a scale from 1 to 5, 5 being the most probable. Here's an example of that format: Machine & Equiptment | $63,000 | 4.2:
+
+
+Alderman Riley move to pass on this 925 ordinance, all those in favor signify by saying I oppose in the opinion of the chair the eyes have it the do pass recommendation for this item number six will be reported out at the next city council meeting.  Item seven a and seven be on the agenda.  Thank you, Latoya very much.  Item seven a and seven be on the agenda is up next, and we will allow a few minutes to let everyone who needs to be in the box.  Get in the box.  Yes, I called your name all the more.  Amen.  Thank you.  Okay, we will now consider item seven a, which is a direct transmittal and seven be together.  Item seven be is the original budget recommendations and item seven a is a series of proposed corrections and revisions to those recommendations together with the text portion.  These documents were sent electronically to everyone.  Before we place these items before the committee for consideration and hear from our budget director.  Can I get a motion to apply the text portion to the 2023 budget recommendations.  Motion made by Alderman Harris to apply the text portion to the 2023 budget recommendations all those in favor signify by saying I opposed in the opinion of the chair the eyes have it, the proposed annual appropriation ordinance for 2023 is now before the committee, and will be explained by our budget director, Susie Park.  Thank you.  Thank you.  Good morning chairman doll vice chairman silverstein members of the committee on the budget and government operations and members of the city council.  For the record my name is Susie Park budget director for the city of Chicago.  Thank you for allowing me to be here today to present the various items around the 2023 budget recommendations.  Item number seven includes a series of proposed corrections and revisions to the 2023 budget recommendations key items to note in this amendment include the creation of department number 72, which is the Office of Climate and Environmental Equity, the amendment of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The proposed amendment to the 2023 budget includes the creation of a new Office of Climate and Environmental Equity, as well as revisions to key budget items. The total amount of the amendment is $63,000. There is a 4.2 likelihood that the bill will be passed.

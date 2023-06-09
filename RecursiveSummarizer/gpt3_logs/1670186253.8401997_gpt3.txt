@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+determination that a disease is communicable or epidemic.  Article one section 12 increases the salaries of the city clerk and city treasurer from 133,545 to 161,016 and establishes that beginning in 2024 all three salaries shall be adjusted each calendar year by cpi or five percent whichever is lower unless the official declines any adjustment.  Article one section 13 exempts unpaid workers such as volunteers from indebtedness requirements.  It clarifies language related to debt checks and payment plans for applicants for city employees employment.  Article one section 14 removes the following obsolete language from sections two dash 173 dash 50 except that if a complaint is against any members of the city council or any employer staff person of any city council committee the inspector general should promptly transmit said complaint to the chairman of the city council committee on committees and rules for processing or such successor committee having jurisdiction over said matters.  Article two clarifies the ability of the office of labor standards within the department of business affairs and consumer protection to enforce all worker protection laws within article two of title six and authorizes ols to petition to make affected parties whole.  Article three are technical amendments to the environmental code for clarity and consistency with current practices and to streamline operations.  This authorizes the department of public health to abate public nuisances on land with missing or unresponsive owners.  Article four establishes an administrative process for transfer of ownership of properties currently receiving out of city water service.  This requires an annual report by the commissioner of water management to city council on all such transfers.  It aligns the fees for out of city water service permits with the cost of providing the service connections.  Article five consolidates all short-term rental company licensing under the intermediary license by
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The ordinance makes a number of changes to the city's code, including increasing the salaries of the city clerk and city treasurer, exempting volunteers from indebtedness requirements, and removing obsolete language from sections of the code. It also clarifies the ability of the office of labor standards to enforce worker protection laws and establishes an administrative process for transfer of ownership of properties currently receiving out of city water service.

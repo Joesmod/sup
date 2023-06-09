@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+codes.  They're, they're, they're called North American industry classification system codes or NAICS codes and a ICS codes, and you can find them if you want to see the entire table on the SBA website, they're also in the code of Federal registers at title 13 section 121.  150% of the heavy civil construction contracts, I believe comes to about $60 million a year.  And then the specialty trades, which are things like electrical plumbing, what have you comes to about $24 million that's 150%.  So, you can do the quick arithmetic I guess I could to is to tell you exactly what what they currently are.  But our thinking was that these really are national standards they are promulgated by the SBA size standards committee, how they do that to a little murky actually but there is a group from SBA that does meet semi regularly to consider size standards, but they are national.  And so our thinking here, especially based on our interviews and the surveys, was that these really are too low for the Chicago area and for the size and complexity of city of Chicago projects.  And we heard from many firms, not just MWBEs but non MWBEs, concerns that kind of just as people are getting big enough to do something that they're going to be out of the program.  So that was our thinking about it.  By grounding the numbers in the current SBA approach we at least have a solid, long traditionally accepted basis.  I think the one thing we can't do is just literally make them up.  But this seemed to us to be a reasonable step, as well as lengthening the time period over which they're averaged from the current five years to seven years.  So that if you advantage to maintain that level for seven years, that you would that a firm would be in a reasonably good position to be competitive outside of the program.  We didn't recommend any change to the current setup that does allow for partial credit as firms exceed the size standard.  So that wouldn't change but the standard itself would go up to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The North American Industry Classification System (NAICS) codes are used to classify businesses by size. The current size standards for businesses in the Chicago area are too low, and the time period over which they are averaged should be lengthened from five years to seven years.

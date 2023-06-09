@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+we found.  We detailed this in the chapter on the anecdotal data that we found, but certainly minorities and women in the construction industry in the Chicago area still continue to face biases, stereotypical attitudes, negative assumptions about their competencies, and all of the implicit and explicit biases that hinder their ability to grow and to thrive.  Industry networks still continue to be difficult to penetrate for people to find out about work.  Again, referencing the WCOE statement, in particular, business owners told us that it was difficult to get work outside of the city and other government affirmative action programs.  Unfortunately, racial harassment and conflict still occur, as well as hostile work environments and sexist behaviors and outright harassment of women, and some of the anecdotes in that chapter are very poignant.  Again, prime contracts are particularly difficult to obtain.  We'll get to that in a minute.  You can see that in the city's own contract data, but certainly outside of these programs, MWBEs are pretty close to shut out of the market for the lucrative and growth supporting prime opportunities.  They get very little work outside of goals programs, and almost to a person, everyone agreed that the programs remain critical to the ability of minority and women firms to fully and fairly access city construction contracting opportunities.  Next slide, please.  So turning now to the quantitative or statistical portion of the study, we wanted to include an economy-wide analysis that takes a look overall at the Chicago area construction economy to see what happens outside of MWBE supplier diversity type of programs.  And this is very important for an agency like the city of Chicago that has been running a program in some form or fashion since Harold Washington was mayor, because we did not in fact expect to find large negative disparities in the city's own data because of the operations of the program.  So we looked at two Census Bureau
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The study found that minorities and women in the construction industry in the Chicago area continue to face biases, stereotypical attitudes, negative assumptions about their competencies, and all of the implicit and explicit biases that hinder their ability to grow and to thrive. Industry networks are still difficult to penetrate for people to find out about work, and business owners told the researchers that it was difficult to get work outside of the city and other government affirmative action programs. Racial harassment and conflict still occur, as well as hostile work environments and sexist behaviors and outright harassment of women. Prime contracts are particularly difficult to obtain.

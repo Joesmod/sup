@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+limits contract value for MBI is 3 million to 20 million.  And SBI is up to 3 million.  So an SBI is up to 3 million and an MBI is up to 20 million? Correct.  Okay.  My question is Mr.  Chair.  Does that conclude your question, Chairman? Yes, it does.  Okay, thank you much.  Any other questions for procurement and AIS and CDOT? Okay.  We're gonna move over to CHA and their JOC program in a row, which actually was the, I guess most of the public comment referred to at this point.  I'll turn, is Dan or Leonard, who's gonna start first? Sorry, Chairman.  Oh, you're both together? Lucky you.  Yes.  All right.  Good afternoon, Chairman Urban, Vice Chair Moore and honorable members of the committee.  Thank you for having me here today.  My name is Daniel Cruz.  I'm the Senior Director of Government and External Affairs of the Chicago Housing Authority.  CHA is joining this session to give an overview of how we use a job order contracting method to provide opportunities for small and disadvantaged businesses.  As a public housing authority, CHA follows the US Department of Housing and Urban Development definitions and rules for small and disadvantaged enterprises known as Section 3 businesses in construction-related fields.  We have made recent changes and these overlap with our requirements to meet the federal government Section 3 rule.  So for construction-related work, CHA established a pre-qualified pool of contractors, also known as job order contracting vendors with Section 3 businesses.  It's worth noting that in 2020, HUD implemented new Section 3 requirements for all public housing authorities across the country.  The new federal regulations focus on labor hour benchmarks instead of percentage of the contract value.  HUD made this change to support sustained employment and job retention.  CHA shares HUD's goals of increasing employment retention for low-income workers.  CHA's contractors must now meet targets of labor hours for CHA residents and participants, low-
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Chicago Housing Authority (CHA) has established a pool of pre-qualified contractors, known as job order contracting vendors, with businesses that meet the federal government's Section 3 requirements. In 2020, the U.S. Department of Housing and Urban Development (HUD) implemented new Section 3 requirements for all public housing authorities across the country that focus on labor hour benchmarks instead of percentage of the contract value. The CHA's contractors must now meet targets of labor hours for CHA residents and participants, low-income residents of Chicago, and residents of areas of high poverty in Chicago.

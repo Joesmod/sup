@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+back to you all for review.  Does that answer the question.  I'm curious about what's the accountability to get this done in six months, right in the projected timeline that stated here, I know it says states shall is that, is that what we're leaning on or, I mean, you know, I'll add to what Angela said I think the accountability is important for ourselves, is that we will have this done and bring it back through the committees to talk about that and have that conversation of you know where the study lands what it tells us if it was, you know, if there's more that we need to look at but we did put a date in there to keep ourselves accountable to make sure that we hit that date and bring that before you.  I guess you've heard it from a lot of us that, you know, I think you should have done this, a while ago and you know I think we could have taken it even step further with the change of a couple words and with more staffing.  We could have done it quickly.  Real quick last question, I don't know if this is appropriate this point just wanted to talk about the appropriation for the female appropriation for reimbursements or, you know, funding for asylum seekers.  Yeah, my understanding is nonprofits have been a part of the process and and and have submitted budgeting for for reimbursements, I just want to be on the record that that's the case.  And if you can give us a little bit more color on that.  Yes, so the that was in the last item in the 925 but we are appropriate grant funds that we are, we have been notified by FEMA that we are receiving and anticipate to receive, we are working with nonprofits and other agencies who have been supporting this effort.  To date, you know, we are working through those reimbursements and setting that so that is all moving forward and we'll, and we'll continue to do so.  Thank you and my understanding was that application was for 16 million to get us through the end of this year.  Yes, that was the request.  They've given us the
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+female appropriation for reimbursements or, you know, funding for asylum seekers

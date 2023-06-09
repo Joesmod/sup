@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+Illinois Department of Public Health for the free exposure prophylaxis program funds are used to screen clients for HIV risk.  Connect clients with prescribers access to PR EP payments programs and provide HIV navigational services and medication, adherence support to clients who are taking the medication.  In order to increase the number of at risk people accessing the medication and disease and decrease the number of new cases of HIV infection.  The mayor's office for people with disabilities is requesting to accept new federal grant funds in the amount of 425,000 from the US Department of Justice, Justice for the training and services to end violence against women with disabilities.  This grant will increase the city's capacity to address gender based violence specifically sexual violence experienced by people with disabilities and deaf individuals.  The proposed project seeks to focus on sexual violence experienced by people by individuals with disabilities due to those with disabilities, being at higher risk of sexual violence and individuals who do not have a disability.  MOPD will be the central source and will hire one staff person to manage this grant and through the grant MOPD will provide resources on accessibility and best practices and other materials for training and outreach.  The Department of Family support services is requesting to accept new public grant funds in the amount of $2 million from the Chicago Transit Authority for the transit and homeless in this support program.  Funds will be used to support coordinated services for additional outreach services by delegate agencies to to support unsheltered residents who are utilizing trains and other CTA spaces for shelter.  Services are limited to the blue and red lines Haymarket will provide services for the blue line and thresholds will provide services for the red line.  This concludes our ordinance request for the amount of 36,263,000.  Are there any questions with that? Alderman Rosa Ramirez
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Illinois Department of Public Health is requesting $36 million in grant funding from the US Department of Justice to increase access to HIV prevention medication and navigational services, with a focus on those with disabilities who are at higher risk of sexual violence. The Department of Family Support Services is also requesting $2 million in grant funding from the Chicago Transit Authority to support outreach services for unsheltered residents utilizing CTA space for shelter.

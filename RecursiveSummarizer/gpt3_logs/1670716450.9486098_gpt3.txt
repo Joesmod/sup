@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+businesses in our community, Latino businesses, women-owned businesses, Section 3 businesses, to get a piece of the pie and to develop generational wealth in our communities.  So I look forward to hearing the presentations by these department heads.  And I know that this won't be the only time we look at this matter.  Thank you, Chairman.  Thank you, Chairman Dowell.  Commissioner Valesquez.  Good afternoon.  Can you please open the mics for Byron Whitaker? He will handle our presentation.  Hello, can everyone hear me? I think my mic is open.  Yes, you are.  We can hear you.  Go ahead, Mr.  Whitaker.  Okay, once again, my name is Byron Whitaker.  I am the Deputy Procurement Officer for the City of Chicago Department of Procurement Service.  And I'm speaking on behalf of the Chief Procurement Officer of the Ohio State Health Care.  The city has various job order contracts.  And first of all, the acronym is JOC.  And JOC is a firm, thick price, competitively bid and definitely quantity delivery methods designed to produce a large number of multi-traded repair and rehabilitation projects.  This method is used to accomplish small- Byron, can you hold on one second? We're having some technical difficulties.  I mean, it's a PowerPoint.  Okay, go ahead.  Okay, do I need to repeat anything? You know what, take it from the top.  Okay, all right.  Job order contracting acronym JOC, JOC is a firm, thick price, competitively bid and definitely quantity delivery methods designed to produce a large number of multi-traded repair and rehabilitation projects.  This method is designed to use for accomplished small and medium sized projects.  The award to the general contractor is the one offering the most favorable combined adjustment factors for two types of work.  Work doing normal business hours and work for other than normal business hours.  The unit price book, which is a list of construction tasks and catalogs are the factors that the job counter have to use.  That unit price
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago has various job order contracts that are used for small to medium sized projects. The award for the contract goes to the general contractor that offers the most favorable combined adjustment factors for two types of work - work during normal business hours and work for other than normal business hours. The unit price book and catalogs are the factors that the job counter have to use.

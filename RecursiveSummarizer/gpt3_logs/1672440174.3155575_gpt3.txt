@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+dedicated her time and talents to a variety of organizations, including the Chicago Board of Education, the Chiu Chicago Board, the League of Chicago Theaters Board, and even our own city's Advisory Council on Cultural Affairs and Special Events, which is where I met her.  Time and again, through iconic works such as Destinos, the Chicago International Latino Theater Festival, Ms.  Salazar found ways to uplift Latinx culture and creatives.  And she will always be remembered as a change maker who overcame many barriers.  But I will say one of the things that struck me most was the beautiful words that her daughter spoke at her funeral.  One can only hope that our children appreciate the sacrifices that we've done for them, but also our contributions to our community in a way that you celebrated your mother.  I don't think there was a dry eye in the church that was packed and overflowing.  People came to celebrate, to mourn, but to also grieve with you and support you on your journey through your own grief and loss of your mother.  So I just wanna say thank you.  I think you're a beautiful legacy and testament to how powerful your mother was as a Latina, brave and bold and innovative, and her legacy will live on for many lifetimes to come.  And thank you for allowing us to honor her and honor you, your family, friends and colleagues.  Alderman Mitchell.  Madam President, I move adoption of the resolution by a rising vote.  Please rise.  Thank you.  Thank you.  Our next resolution is one brought by our colleague, Alderman Deborah Silverstein.  Alderman.  Thank you, Madam President.  I wanna thank my colleagues for supporting the resolution condemning Kanye West's antisemitic actions.  The 50th Ward felt the string of antisemitism earlier this year.  Swastikas were drawn on synagogues and schools and windows were broken at Jewish owned businesses and places of worship.  The attacks came merely days after Holocaust Remembrance Day.  Tragically, hate is on the rise.
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This individual has worked with various organizations to help uplift Latinx culture and creatives. They mention one of her most notable achievements, the Chicago International Latino Theater Festival. Her daughter spoke at her funeral, and it was a moving experience. They express their gratitude for her work in the community.

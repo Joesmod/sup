@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+faster than these other speakers too? Why is this going on here? Are you anti Mr.  Blakemore? Why I believe that you're anti participation? Why are all these seats empty? Why wouldn't you have this meeting at 7 p.m.  instead of 10 a.m.? I don't think it's just against Mr.  Blakemore.  I think that the system is broken, that this is a cesspool here.  You just didn't forget when you saw me.  This was intentional.  Mr.  Blakemore, you must be somebody.  I'm old, I'm poor, and I'm black.  I don't have a pot to piss in, and now I'm gonna throw it out, but I am somebody, and you all know it.  You know it.  So you've been still in my minutes.  I don't think you're gonna do this this time.  Why are all the ultimate 16 of them decide not to be ultimate? Somebody is cleaning up the cesspool, and why would you have an item if you you're all a little dictator here? If you have 12 items and you have the public can sneak on 12, and if you're tired and you don't want to hear from the public and you don't want to serve the public, maybe you should get another job.  Maybe you're in the wrong profession.  You are a public servant, and you serve the public, and I'm outraged to see these empty seats.  You all don't want the public to come here.  Why would you have, who does this, to have the council at 10 a.m.  Why not 7 p.m.  You heard me, the ancestors crazy about Mr.  Blakemore.  Don't do that to the public.  This concludes the public comment period, and as part of the record, the committee has received some written public comments which have been provided to all of you this morning prior to today's committee meeting.  We have 11 items on the agenda this morning.  The first item is a communication concerning the appointment of Acting Commissioner Sandra Blakemore to be appointed Commissioner of the Department of Assets, Information and Services.  Good morning, Acting Commissioner Blakemore.  How are you? Good morning, I'm well, thank you.  Good to see you.  What? Oh, no, no, no.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The individual is speaking at a public meeting and is expressing outrage that the meeting is taking place at 10 a.m. instead of 7 p.m. They believe that this is intentional and that the system is broken. They believe that the public servants present do not want to serve the public.

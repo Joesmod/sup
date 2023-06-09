@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract names of budget proposals from the following text:
+
+
+signify by saying aye.  All those opposed.  Here we'll call for a roll call.  We will take the roll.  Point of information Alderman Tunney.  This is I think our budget director said we've we've gone around and around over the years about this particular subject.  So it is a requirement.  It's not it's really not a choice and I just wanted to make sure that is confirmed because we've had our issues with CTA over a number of years but this is mandated.  I'm almost mistaken.  Yes this is not the one we want to throw the gauntlet down on because it is required by the Regional Transportation Act.  Alderman Harrison followed by Alderman Villegas.  Thank you Madam Chair.  I think the issue is the fact that we've got a letter from the president of CTA saying that he's going to appear on November 10th and people have been asking for him to appear for several months and so we're going to pass this and and I understand that we have an obligation to do so but at the same token he has an obligation to appear before this body which he has been reluctant to do.  Thank you Alderman Harrison.  Alderman Villegas.  Thank you Madam Chair.  Is there any reporting back from CTA as to the how they're going to utilize these funds? That's my only question.  This is the match that we provide the five million that you know under the RTA Act that we are required to do.  We do not have reporting back.  It is a small piece to the to the larger match.  Alderman Cardenas.  Thank you Madam Chair.  I was one of those proponents in fact I was going to vote no on this if there was not a commitment from the CTA executive to come before this body.  I do feel offended by him not heating the call to come before here and answer some questions on safety and some other issues that I think are very germane to all over our constituents.  So this letter confirms that he will be at the committee and because of that I'm going to vote no otherwise I would have wouldn't know.  It now would stain the fact that it's
+
+
+Budget Proposal:
+
+==========
+
+RESPONSE:
+
+CTA Matching Funds

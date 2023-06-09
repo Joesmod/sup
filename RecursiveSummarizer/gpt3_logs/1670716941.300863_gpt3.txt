@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+can't answer that.  Okay, thank you.  Thank you, Mr.  Chairman.  Thank you so much, Artemie Vegas.  I don't at this time see any other hands.  Are there any further questions or comments? Okay, there being no further business before the committee, can I get a motion to adjourn by the same roll call vote as applied to determine quorum? I get moved, Artemie Vasquez.  Okay, so moved by Artemie Vasquez.  Hearing no objections, so ordered.  This meeting of the Committee on Contract and Oversight Equity is adjourned.  Thank you all.  Thank you.  And thank you, Ms.  Collette Hope.  Oh, well, thank you and thank you for having me.  It's an honor and a pleasure.  All right, thank you.  I'm doing a good day, thanks.  All right, thank you, Shauna and...
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Committee on Contract and Oversight Equity adjourned after hearing from Artemie Vegas and Collette Hope. There being no further questions or comments, the committee members voted to adjourn. Thank you all was the final statement.

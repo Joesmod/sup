@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+that I understand the issue and I know that your team has been working with the mayor's office but we'd like to move forward with the ordinance as it is.  Chairman, this is Graham Crady, Chairman Osterman, thank you very much, Alderman Metz.  Chairman, thank you.  I'm not quite sure why the substitute can't be moved now by the Alderman.  Well, one gram is that we didn't get the substitute to the members of the committee in due amount of time and process for our committee.  So I think I know that you've been in conversation with others about this.  So I think we're not prepared to entertain that at the present time.  Well, of course, I'm always respectful and deferred to you Chairman Osterman and members of the committee.  It's a very simple substitute and I understand the need to review it in advance but your members are quite familiar with passage and publication versus passage and approval.  I guess we don't, I guess there's no way to get what we need today but it jeopardizes the business transaction on this very important project.  If there's any way to allow the Alderman to get the substitute ordinance in now, we'd certainly appreciate your going that extra mile.  Graham, what I'd like to do is to move this as it is.  I'll move it as is.  We will not adjourn the committee.  At the end of committee, we'll recess it and you and Alderman Metz can have a conversation with the law department in the following days about how to move forward.  And if we amend it then in due time, then we have time to do that.  But for purposes, we'd like to move forward.  We'll recess this committee at the end of the committee and I'll allow Alderman Metz and you to have the opportunity to discuss it with the law department in the next couple days.  Is that fair? Chairman, thank you.  I couldn't ask for more.  Thank you very much.  Thank you.  Also, I apologize, Chairman.  You know, I always try to be very respectful of you and the members.  So please don't take umbrage with my request
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The ordinance in question cannot be moved forward at this time, but the chairman of the committee has offered to recess the committee so that Alderman Metz and Graham Crady can discuss it with the law department.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+CHIEF JUSTICE ROBERTS: We'll hear argument first this morning in Case 21-476, 303 Creative LLC versus Elenis.  Ms. Waggoner.  ORAL ARGUMENT OF KRISTEN K. WAGGONER  ON BEHALF OF THE PETITIONERS  MS. WAGGONER: Mr. Chief Justice, and may it please the Court: Lorie Smith blends art with technology to create custom messages using words and graphics. She serves all people, deciding what to create based on the message, not who requests it. But Colorado declares her speech a public accommodation and insists that she create and speak messages that violate her conscience. This Court rejects such government-compelled speech. In Hurley, the Court considered a very similar issue, asking two questions: Is there speech, and is the message affected? That test is easily met here. Colorado agrees Ms. Smith creates speech, and the law undeniably affects her message. She's not asking this Court to create new law but to Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 4 Official - Subject to Final Review  apply its precedent.  Colorado first says this case is about  a sale. It's not just about a sale. The state forces Ms. Smith to create speech, not simply  sell it.  Next, Colorado says it can compel  speech on the same topic. But Ms. Smith  believes opposite-sex marriage honors scripture  and same-sex marriage contradicts it. If the government can label this speech equivalent, it can do so for any speech, whether religious or political. Under Colorado's theory, jurisdictions could force a Democrat publicist to write a Republican's press release. Colorado's last resort is to argue that it can at least compel the same expression. But even the same expression can mean different things, like a black sculptor who carves a custom cross to celebrate a Catholic baptism but not an Aryan church rally. If the government may not force motorists to display a motto, school children to say a pledge, or parades to include
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The petitioner, Lorie Smith, is a artist who creates custom messages using words and graphics. The respondent, Colorado, has declared her speech a public accommodation and insists that she create and speak messages that violate her conscience. The Supreme Court is being asked to apply its precedent to this case.

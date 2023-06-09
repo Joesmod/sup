@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Harrison we're trying to modernize the process we're trying to make it easier for people you know we all know that hiring is a big issue and so we're trying to balance both the fact that we do need people who are working for the city to to pay their debt you know they represent the city and we want to make sure that they're doing their part but also we don't want to make it unduly burdensome.  Okay thank you um the office of labor standards can you tell me or can whoever it is I see that there is can you refer to the page oh page 13 and 14 and I'm starting on page 13 so there is a commissioner and then there is a director who shall be appointed by the commissioner what is the difference between the two again Ray Phillips on behalf of the city of Chicago um the commissioner is the commissioner of business affairs and consumer protection and the director is the director of excuse me the office of director of the office of labor standards thank you all right and along those same lines what is the difference between an employee and a worker an employee is um is is a category of person who uh you know does the w2 and such and a worker may be an independent contractor for example okay so we are also and an employee would receive all full benefits as whereas a worker would not can you tell me why we chose that yes um we're expanding from just employee to worker because sometimes people think that they are actually um that they're contractors or just workers and not actually employees but sometimes they are and we want to make sure that everybody who thinks that they have um that there may be a violation under the the municipal code of chicago can't does feel welcome to come to the office of labor standards and say hey i've got an issue and then the office of labor standards can say yes this applies to you or no it doesn't and as you know in law sometimes something like that can also be used as an affirmative defense by and that's and that's the concern you know everybody
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The City of Chicago is trying to modernize its process for handling labor standards violations, making it easier for people to come forward with complaints. The office is expanding its definition of "employee" to include "worker," in order to cover more potential cases.

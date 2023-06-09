@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+everyone.  Is there a motion to accept the substitute? So moved.  So moved by Alderman Cardenas to accept the substitute.  All those in favor signify by saying aye.  Opposed? In the opinion of the chairs, the ayes have it.  The substitute is before us and Susie if you could explain it.  Thank you, chairman.  Item number 10 is the 2023 management ordinance.  The summary of each item is as follows.  Article one section one codifies the existing mayor's office of equity and racial justice.  Article one sections two through four establishes the new office of climate and environmental equity.  It requires that a study be commissioned to provide recommendations by June 30th, 2023 regarding the establishment of a department responsible for environmental policymaking and operations.  Article one section five authorizes the commissioner of assets information and services to include indemnification and right of entry agreements.  Article one section six clarifies that lobbyists who lobby elected or appointed city officers employees must cooperate with the office of the inspector general.  Article one section seven allows the community commission for public safety and accountability to submit only one eligible candidate for reappointment in the case of an anticipated vacancy due to the expiration of a term.  It clarifies the difference in qualifications between a ccpsa commissioners and police board members in line with the consent decree.  Article one section eight gives diverse the same meaning as minority in sections two dash 92 dash 670 n in order to expand the definition to include the people indigenous to the Americas.  Article one sections nine through 10 ends the sunset provision for one million dollars emergency procurement authority belonging to the chief procurement officer grants the cpo authority to make price adjustments to currently active contracts as strictly necessary to meet the city's operational needs and establishes quarterly reporting requirements to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The 2023 management ordinance codifies the existing mayor's office of equity and racial justice, establishes the new office of climate and environmental equity, and requires that a study be commissioned to provide recommendations by June 30th, 2023 regarding the establishment of a department responsible for environmental policymaking and operations. It also gives diverse the same meaning as minority in sections two dash 92 dash 670 n in order to expand the definition to include the people indigenous to the Americas.

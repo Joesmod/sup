@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following conversation:
+
+
+KAGAN: Sorry. JUSTICE ALITO: -- in Obergefell, did the Court say that religious objections to same-sex marriage are the same thing as religious or other objections to people of color? MS. WAGGONER: No. In fact, it said that decent and honorable people hold beliefs Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 30 Official - Subject to Final Review  about marriage, believing that there's a  gender-differentiated marriage and that that's  based on reasonable religious and philosophical  premises.  When we review Loving, there's a very  different -- JUSTICE SOTOMAYOR: But tell me how to  write this decision for you that draws the line just on gay marriage, because that's what you seem to be saying right now, but draws a line that doesn't affect my example of a disabled person or an interracial couple. You're saying it's just because it's compelled speech. MS. WAGGONER: I'm saying that the interracial couple, the disabled person, the lesbian graphic designer, the Democrat, the Republican, no one should be compelled to speak a message. And this Court has never found a compelling interest that was narrowly tailored -- JUSTICE SOTOMAYOR: So you -- you're -- you're saying a print shop, a web designer, a -- a cake maker, a -- JUSTICE JACKSON: A photographer. Heritage Reporting Corporation                           1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 31 Official - Subject to Final Review JUSTICE SOTOMAYOR: -- a jewelry -- a  photographer, a jewelry maker, they can refuse to serve anyone they want to refuse because they  have a deeply felt belief that serving -- taking pictures of black couples, black and white  couples, taking pictures of disabled people, people are going to believe that they're  speaking that message?  MS. WAGGONER: I'm not saying that at all. What I'm saying is that in every free speech case the Court looks first is there speech. In many of the
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Court is discussing whether or not religious objections to same-sex marriage are the same as religious objections to people of color. The answer is no, according to Obergefell. However, the Court is struggling to find a way to draw the line between gay marriage and other types of discrimination.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Extract keywords from the following text:
+
+
+the city of Chicago.  The 2023 today pulls the office out of the mayor's office and creates a separate office with various responsibilities as outlined in the management ordinance.  There are 10 positions budgeted for this office which includes the chief sustainability officer grants research specialists and project managers.  There is a division within the office of the mayor, that will serve as the director of veteran affairs.  There's also an addition of four positions to the homeless services division within the Department of Family Support Services, as well as an addition of a director position at DFS that will also lead the assistance for the city's new arrivals initiative.  We have also added a director community liaison around youth for the CCP essay.  We have increased to the animal care and controls advertising budgets.  We have also increased hours for the general laborers, which equates to 75 additional labors for the Department of Streets and Sanitations.  We also amended the AARP grant funds by providing the Department of Family and Support Services funding to increase rapid rehousing capacity from the original 800 units proposed in the 2023 budget to 1200 units for 2023 as well as 500,000 for low barrier shelters.  And lastly, various technical adjustments and corrections in various departments.  Thank you for your consideration of this item.  Okay, we'll begin with a series of questions we'll start with Alderman Harrison.  Thank you, Madam Chair.  How long did it take your department to put together the substitute for the management for the management ordinance.  Item number 10 that's coming up.  That's coming up.  Okay, just, okay so that's a while.  So I'm just trying to find through this, all of these papers.  Yes, this is just that this is the technical amendment piece the corrections.  Yes.  Okay, I have no questions on that.  Thank you.  Okay.  Alderman Riley.  Madam Chairman, I just wanted to ask about this office of environment or climate or
+
+
+Keywords:
+
+==========
+
+RESPONSE:
+
+city, Chicago, office, mayor, responsibilities, management, ordinance, positions, budget, research, specialists, project manager, division, veteran affairs, homeless services, addition, director, community liaison, youth, advertisement, animal care, control, general laborer, Department of Streets and Sanitation, AARP grant, funding, rehousing, capacity, shelters

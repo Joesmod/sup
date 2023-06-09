@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+that the clerk's office read the resolution into record if there are no objections.  There are no objections.  Thank you, Madam President.  Peter, can you read the resolution? Whereas in recognition of their service and appreciation for their positive community outreach, the members of this chamber are pleased to honor officer John Bauer and officer Katarina Nowakowski.  And whereas officer Bauer and officer Nowakowski, I beloved school resource officers at Foreman High School who have made it a point to help students in and outside the school.  And whereas after Foreman High School student, Omeran James tragically lost both his sister and his brother to gun violence, officer Bauer and officer Nowakowski took Omeran under their wing and became a mentor to him.  And whereas when officer Bauer found out that Omeran was not hearing back from colleges, he contacted the recruiting office at Jacksonville State University on Omeran's behalf, helping Omeran secure a spot at the school, which reduced tuition and became the first in his family to go to college.  And whereas officer Bauer and officer Nowakowski helped Omeran both physically and emotionally prepare for and get to college, including officer Bauer, driving him the 11 hours to the campus and starting a GoFundMe to help Omeran pay for college.  And whereas Omeran is not the only student that officer Bauer and officer Nowakowski have assisted during their time at Foreman High School and they have developed such a strong relationships with students that they have even met a student as he left the hospital after months of recuperation from gunshot wounds.  And whereas officer Bauer and officer Nowakowski demonstrate on a daily basis the excellent work that Chicago police officers can do all around the city of Chicago.  Now therefore, it be resolved that we, the mayor and members of the city council of the city of Chicago assembled his 14th day of December, 2022, to hereby commend officer James Bauer and officer
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The City Council of Chicago commends officers John Bauer and Katarina Nowakowski for their service to the community, including their work with students at Foreman High School. Officer Bauer and Officer Nowakowski have developed strong relationships with students and have helped them both physically and emotionally prepare for college.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+time, but they have since graduated out of the program.  They haven't been certified now for, for the first time in the history of the program.  So probably about five or six years.  Does that answer your question? Thank you, sir.  Very well.  Mr.  Whitaker, does that conclude your presentation? Yes, sir, it does.  Okay.  Next up we have Tom Carney from Department of Transportation.  Chairman, is the- Sorry, sir.  And I see Chairman Sawyer with his hand up as well.  I don't mean to jump in, but may I ask two questions on this presentation real quick? Hold on.  You know what? I didn't have the right screen up to see hands up.  I'm gonna go, let me go to Audemars Sawyer first and I'll come back to you.  Totally fair.  Audemars spotted.  Go ahead, Audemars Sawyer.  Thank you, Chairman.  I only had one question.  Is it possible to get the amount that has been expanded with these respective companies to date? I see the contract values, but how much companies have actually, how much work have they actually done and how much is of that value, dollar value has been done? Can we get that information through the tier? So this is Irene Velasquez, Chief Procurement Officer.  The user departments will need to provide that information, CDOT and AIS on the call as well.  Thank you.  All right, we'll make a note of that.  Audemars Spada followed by Audemars Viegas.  Thank you, Chairman.  So the JOC program admittedly is new to me.  So I'm gonna ask a question that if it's basic, please forgive, but the prime contractor, are they the one who is participating through the JOC program or are there subcontractors that they work with through the JOC program? This is Byron Whitaker again from DPS.  The JOC auto contracting is designed for the prime contractors to have a contract be easy.  The contractor for the city of Chicago and we awarded to them, their course can sub out as much of the work as they fit.  In other words, they can function as a construction manager and the JOC contract
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The JOC program is designed for prime contractors to have an easy contract with the city of Chicago. The contractor can sub out as much of the work as they need to.

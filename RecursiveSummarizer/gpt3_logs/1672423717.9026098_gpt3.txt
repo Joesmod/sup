@@ -1,0 +1,15 @@
+PROMPT:
+
+Create a concise summary of the following:
+
+
+questions about locations.  So how are you staffing election day? Because it is really hard to get through and you get some real answers.  And I just, you know, I'm plotting this, but as a reality, you know, there's going to be a lot of confusion this year because we've consolidated and we've had, I've got some, as you know, some polling places that have been there for 40, 50 years will not be there this time.  And people are going to be angry and they're, you know, it's not going to be smooth.  And so the question is, how are you going to respond on election day in terms of this confusion? Thank you, Alderman.  That's a very important question.  And one, I know many city council members are used to that this does happen every 10 years as part of redistricting.  So this is the first election that many voters will find themselves within the new ward city boundaries.  And Chicago Board of Elections is often the first to break that information to two voters.  And then on top of that, as you mentioned, there was also precinct consolidation.  We have spent over $100,000 in advertising for this upcoming election, as well as two mailers, voter cards, and a household polling place mailer to voters.  And we will be spending every, or at least I'll be spending every hour of the next six days talking to media and reaching out to as much people as we can.  The two big resources right now for voters that we are promoting is checking their voting information ahead of time on our website at Chicago elections.gov, our your voter information page, or giving us a call.  We do have increased staffing for election day.  Part of that precinct consolidation has allowed us to overstaff our election judges.  Currently we are $1,500 over our target, which is great.  We are preparing for resignations and other attrition leading up the next few days.  But that will overstaff our polling places to allow for additional assistance and people checking into poll books or directing people to their
+
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Chicago Board of Elections is preparing for the upcoming election by consolidating precincts and increasing staffing. Voters are encouraged to check their voting information ahead of time on the Board's website or by giving them a call.

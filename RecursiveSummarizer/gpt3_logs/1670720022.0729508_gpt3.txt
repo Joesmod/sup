@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a summary of the following:
+
+
+photographer's religious beliefs should take precedence over the couple's right to equal treatment.  The conversation is between Justice Kagan and Ms. Waggoner, who is representing a client who owns a website design company. The client believes that same-sex weddings contradict scripture and refuses to design a website for such a wedding. Justice Kagan asks what speech is required of the client that would violate the First Amendment, and Ms. Waggoner responds that the client believes same-sex weddings are a concept of marriage that she believes to be false.  In the conversation, the person providing the chairs for a wedding is compared to someone providing speech. It is argued that even though the person providing the chairs is not explicitly providing speech, they are still engaging in symbolic speech. Furthermore, it is argued that the Compelled Speech Doctrine should protect individuals from being forced to speak messages that betray their conscience.  The conversation is between Justice Gorsuch and Ms. Waggoner, who is representing a client who refused to make a cake for a same-sex wedding. Ms. Waggoner explains that her client objects to same-sex marriage on religious grounds, and that she has declined other projects based on the message that have nothing to do with same-sex marriage. Justice Gorsuch asks if the objection is to the person or the message, and Ms. Waggoner says it is always to the message.  The conversation is between two people discussing a court case involving gay marriage. One person argues that website designers should not be compared to restaurants or caterers because they are creating speech, while the other person argues that everyone should be able to speak under Colorado's theory.  The conversation is between two lawyers discussing a case involving a website designer who was asked to design a website for a same-sex couple, but refused on the grounds of religious beliefs. The first lawyer argues that the designer should not be forced to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+In the US, there is a debate about whether or not people should be forced to participate in same-sex weddings if it goes against their religious beliefs. Some argue that website designers, for example, should not be forced to design websites for such weddings because it violates their right to free speech.

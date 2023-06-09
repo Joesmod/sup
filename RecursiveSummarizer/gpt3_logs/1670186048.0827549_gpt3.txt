@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+we address unplowed sidewalks.  Our son was born in April 2020 and one of the only things we could safely do the last two winters during the pandemic is go on walks outside.  Even though many of our neighbors would dutifully clear their sidewalk, there was almost always one house per block that didn't.  Maybe they were out of town, didn't get to it, or only cleared a small path not wide enough for our stroller.  In the summer, we would see tons of families walking with their strollers.  Those would all disappear once the first snow hit.  After talking to other parents in our neighborhood, we learned that they gave up going on walks due to the impassable sidewalks.  It just takes one home or business to make a sidewalk impassable for someone with limited mobility in a wheelchair or maneuvering a stroller.  This meant my wife or mom was unable to take our son out alone because they couldn't carry the stroller over the block sidewalk.  We could only go on walks with two people.  Someone who uses a wheelchair, a walker, or is blind is completely stranded.  The system of snow reports on 311 leading to warnings and sometimes fines does not and will never work.  Even if the city increased enforcement, there would still be tons of impassable blocks.  It just takes one property owner to make a black block impassable.  Fines are also inequitable.  Not every property owner is capable of shoveling or paying someone to do it.  While 311 reports won't get the majority of sidewalks cleared, it does offer a glimpse of the problem.  I looked at the data over the last three years and found that all but one of the members of this committee had over 100 block sidewalk reports with an average of 347.  Alderman Wagyu spec wins with over 1400 reports with my Alderman Tom Tunney and second with almost 900.  There have been almost 20,000 reports citywide since 2019.  Given how cumbersome it is to file 311 reports, imagine how many unplod sidewalks there actually are in the city.  I sent an
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+There is a problem with unplowed sidewalks in the city, which makes it difficult for people with limited mobility to get around. The current system of 311 reports is not working, and fines are not effective.
